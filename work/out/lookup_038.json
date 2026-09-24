@@ -1,0 +1,352 @@
+[
+ {
+  "id": 4448,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift service",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4449,
+  "domain": "rjforklift.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "unknown",
+  "note": "Kept existing domain, name-consistent (R&J forklift); Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4453,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "feed store",
+  "us_based": "unknown",
+  "note": "c.org clearly not company site; Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4456,
+  "domain": "rsdoor.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "door installer",
+  "us_based": "unknown",
+  "note": "Kept existing; R&S Erection is door company; Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4457,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift service",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4458,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor dealer",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4462,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "tool retail",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4465,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4471,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4474,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4478,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4484,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "pawn shop",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4486,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "thrift store",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4492,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general tool rental",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4496,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4497,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "dumpster rental",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4498,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4500,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4511,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4514,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4518,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4520,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4521,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "scaffolding",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4525,
+  "domain": "rentals.shopriterx.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "medical equipment",
+  "us_based": "unknown",
+  "note": "Kept existing pharmacy mobility rental site; Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4530,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "rental",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4531,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4539,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4540,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "construction contractor",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4542,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4544,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4550,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "excavation contractor",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4556,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift rental/repair",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4557,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "building supply",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4558,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ },
+ {
+  "id": 4560,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "Unverified: web search budget exhausted; needs re-research"
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "id": 10091,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "towing",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed (current: ctstowboss.com)"
+ },
+ {
+  "id": 10096,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "water/mold remediation",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed (current: superbrestorationguysofma.com)"
+ },
+ {
+  "id": 10104,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "truck accessories",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed"
+ },
+ {
+  "id": 10109,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed (current: guangxuntech.com)"
+ },
+ {
+  "id": 10112,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "concrete forming supplies",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed (current: t4s2009.com)"
+ },
+ {
+  "id": 10120,
+  "domain": "altg.com",
+  "status": "verified_existing",
+  "confidence": "high",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "yes",
+  "note": "Alta Equipment Group corporate domain altg.com; known, not search-verified"
+ },
+ {
+  "id": 10121,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "tool/equipment repair",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed (current: readyrepair.com)"
+ },
+ {
+  "id": 10123,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane/hoist",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed (current: ac-h.com)"
+ },
+ {
+  "id": 10129,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "construction contractor",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed"
+ },
+ {
+  "id": 10132,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed"
+ },
+ {
+  "id": 10135,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed"
+ },
+ {
+  "id": 10150,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "trucking/truck services",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed (current: btruck.com)"
+ },
+ {
+  "id": 10154,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed"
+ },
+ {
+  "id": 10159,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "property services",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed"
+ },
+ {
+  "id": 10163,
+  "domain": "bjs.com",
+  "status": "verified_existing",
+  "confidence": "high",
+  "heavy_equipment": "No",
+  "category": "general retail",
+  "us_based": "yes",
+  "note": "BJ's Wholesale Club official domain; known, not search-verified"
+ },
+ {
+  "id": 10166,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "welding",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed"
+ },
+ {
+  "id": 10167,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "towing",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed"
+ },
+ {
+  "id": 10172,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "boring/drilling contractor",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed"
+ },
+ {
+  "id": 10187,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed"
+ },
+ {
+  "id": 10188,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "truck equipment/welding",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed"
+ },
+ {
+  "id": 10201,
+  "domain": "bldr.com",
+  "status": "verified_existing",
+  "confidence": "high",
+  "heavy_equipment": "No",
+  "category": "building materials supplier",
+  "us_based": "yes",
+  "note": "Builders FirstSource official domain; known, not search-verified"
+ },
+ {
+  "id": 10205,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "machinery",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed"
+ },
+ {
+  "id": 10222,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "unknown/retail",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed"
+ },
+ {
+  "id": 10227,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "power equipment",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed"
+ },
+ {
+  "id": 10229,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed"
+ },
+ {
+  "id": 10232,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed"
+ },
+ {
+  "id": 10234,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed"
+ },
+ {
+  "id": 10236,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "dumpster rental",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed"
+ },
+ {
+  "id": 10239,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed"
+ },
+ {
+  "id": 10242,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed"
+ },
+ {
+  "id": 10244,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed"
+ },
+ {
+  "id": 10254,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed"
+ },
+ {
+  "id": 10264,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "fastener supply",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed"
+ },
+ {
+  "id": 10266,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC",
+  "us_based": "unknown",
+  "note": "NOT RESEARCHED: web search budget exhausted; rerun needed"
+ },
+ {
+  "id": 10269,
+  "domain": "berkshirehealthsystems.org",
+  "status": "verified_existing",
+  "confidence": "medium",
+  "heavy_equipment": "No",
+  "category": "medical facility",
+  "us_based": "yes",
+  "note": "BMC parent Berkshire Health Systems; known, not search-verified"
+ }
+]

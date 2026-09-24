@@ -1,0 +1,352 @@
+[
+ {
+  "id": 2021,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2027,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "fleet maintenance",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2028,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2029,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2032,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift parts",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2033,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift parts",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2037,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "rigging/machinery moving",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2051,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2065,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor dealer",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2067,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "bobcat/backhoe service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2079,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2080,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2089,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "excavation/bobcat service",
+  "us_based": "unknown",
+  "note": "current mmsce.com unverified; search budget exhausted, retry"
+ },
+ {
+  "id": 2099,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2103,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "medical equipment",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2109,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "flooring retail",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2112,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "racks & shelving",
+  "us_based": "unknown",
+  "note": "current shelfrack.com unverified; search budget exhausted, retry"
+ },
+ {
+  "id": 2126,
+  "domain": "andradepartyrentals.wixsite.com",
+  "status": "verified_existing",
+  "confidence": "medium",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "Wix site name matches company; unverified by search (budget exhausted)"
+ },
+ {
+  "id": 2127,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "lift service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2128,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2129,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2131,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2136,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2138,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "material handling/loading dock",
+  "us_based": "unknown",
+  "note": "ritehite.com is Rite-Hite parent/affiliate? unverified; search budget exhausted"
+ },
+ {
+  "id": 2139,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2142,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2143,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2144,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2146,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "hay/feed sales",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2152,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "bearings & drives supply",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2157,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "current fenceandpottyrentals.com unverified; search budget exhausted, retry"
+ },
+ {
+  "id": 2167,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2168,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "building materials",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2175,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ },
+ {
+  "id": 2177,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched, retry"
+ }
+]

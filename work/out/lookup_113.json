@@ -1,0 +1,352 @@
+[
+ {
+  "id": 16250,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "event services?",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: search budget exhausted; current omnigreatevents.com unverified"
+ },
+ {
+  "id": 16252,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "truck dealer?",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: search budget exhausted; current trucks123.com unverified"
+ },
+ {
+  "id": 16256,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 16265,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "industrial service",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 16268,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: search budget exhausted; current paequipmentrental.com unverified"
+ },
+ {
+  "id": 16277,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 16282,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 16283,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment dealer?",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 16287,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: search budget exhausted; current constructionrentalequipment.com unverified"
+ },
+ {
+  "id": 16292,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: search budget exhausted; current ih1066.com unverified"
+ },
+ {
+  "id": 16294,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: search budget exhausted; current altoonamowers.com unverified"
+ },
+ {
+  "id": 16307,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 16329,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 16331,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment repair",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 16336,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: search budget exhausted; current wittstree.com unverified"
+ },
+ {
+  "id": 16345,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general tool rental",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 16351,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 16362,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment dealer?",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: search budget exhausted; current wandwequipment.com unverified"
+ },
+ {
+  "id": 16365,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "powersports/auto dealer?",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 16381,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 16382,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "excavation contractor",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: search budget exhausted; current hueyservices.com unverified"
+ },
+ {
+  "id": 16389,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 16393,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "medical equipment",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 16396,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general tool rental",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 16406,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "machine shop?",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 16409,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: search budget exhausted; current autoheatri.com unverified"
+ },
+ {
+  "id": 16424,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "industrial services?",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: search budget exhausted; current os-ct.com unverified"
+ },
+ {
+  "id": 16425,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "machine tool dealer?",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 16431,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 16435,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 16440,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift rental",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 16447,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 16449,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "trailer rental?",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 16451,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 16459,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "mechanical seals manufacturer",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: search budget exhausted; current schoolofamericansafety.org unverified"
+ }
+]

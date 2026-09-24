@@ -1,0 +1,352 @@
+[
+ {
+  "id": 4136,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "towing",
+  "us_based": "unknown",
+  "note": "No search possible; web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4139,
+  "domain": "oe3.org",
+  "status": "verified_existing",
+  "confidence": "medium",
+  "heavy_equipment": "No",
+  "category": "labor union",
+  "us_based": "yes",
+  "note": "oe3.org is known OE Local 3 site; web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4147,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "possibly forklift/lift",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4150,
+  "domain": "shakermaker.com",
+  "status": "verified_existing",
+  "confidence": "medium",
+  "heavy_equipment": "Yes",
+  "category": "ag harvesting equipment manufacturer",
+  "us_based": "yes",
+  "note": "OMC tree shakers known at shakermaker.com; web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4151,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "construction supply",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4153,
+  "domain": "dlfpickseed.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "seed company",
+  "us_based": "yes",
+  "note": "OreGro likely under DLF Pickseed parent; web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4156,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "yes",
+  "note": "googlepages site defunct; web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4157,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "building supply",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4158,
+  "domain": "osiris-s-party-rentals.ueniweb.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "Kept ueniweb builder site; web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4165,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4172,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4173,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4174,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4175,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "Name is just 'P'; web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4177,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift repair/sales",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4178,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift repair",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4180,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4185,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment company",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4187,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "construction contractor",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4195,
+  "domain": "pmhsi.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "yes",
+  "note": "pmhsi likely Pacific Material Handling Solutions affiliate; web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4196,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "fire safety",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4198,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "industrial parts",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4201,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4209,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4214,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4220,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4221,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4222,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "possibly tractor/equipment",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4224,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4225,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4226,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4227,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment company",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4229,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4231,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "parts supplier",
+  "us_based": "unknown",
+  "note": ".co domain unverified; web search budget exhausted; not verified by search"
+ },
+ {
+  "id": 4232,
+  "domain": "partsbarn.com",
+  "status": "found",
+  "confidence": "medium",
+  "heavy_equipment": "Unsure",
+  "category": "parts retailer",
+  "us_based": "unknown",
+  "note": "Domain taken from company name itself; web search budget exhausted; not verified by search"
+ }
+]

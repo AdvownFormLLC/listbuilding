@@ -1,0 +1,352 @@
+[
+ {
+  "id": 16077,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "farm",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16081,
+  "domain": "dbrothers.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search quota exhausted; original domain kept"
+ },
+ {
+  "id": 16082,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment service",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16089,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment supply",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16090,
+  "domain": "eaequipmentservices.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment repair/service",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search quota exhausted; original domain kept"
+ },
+ {
+  "id": 16096,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16103,
+  "domain": "ecanet.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search quota exhausted; original domain kept"
+ },
+ {
+  "id": 16107,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16108,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16109,
+  "domain": "contractor-equipment-repair.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "contractor equipment repair",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search quota exhausted; original domain kept"
+ },
+ {
+  "id": 16122,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16123,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16126,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16148,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16153,
+  "domain": "hequip.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search quota exhausted; original domain kept"
+ },
+ {
+  "id": 16154,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "estate liquidation",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16157,
+  "domain": "hwyequip.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search quota exhausted; original domain kept"
+ },
+ {
+  "id": 16160,
+  "domain": "hinkrent.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search quota exhausted; original domain kept"
+ },
+ {
+  "id": 16161,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "automotive shop equipment",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16170,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16174,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16177,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16183,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16186,
+  "domain": "kwofpa.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search quota exhausted; original domain kept"
+ },
+ {
+  "id": 16192,
+  "domain": "bignick.biz",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "hardware/equipment supply",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search quota exhausted; original domain kept"
+ },
+ {
+  "id": 16198,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "farm equipment repair",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16203,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift service",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16211,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16218,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16227,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16235,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16237,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16241,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck/equipment rental",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16243,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ },
+ {
+  "id": 16245,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "excavator attachments",
+  "us_based": "unknown",
+  "note": "Search quota exhausted; no search performed"
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "id": 19654,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19655,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19656,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift repair",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19657,
+  "domain": "intlequipmentsales.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment dealer",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted; kept current domain, plausible name match"
+ },
+ {
+  "id": 19661,
+  "domain": "jnipe.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted; jnipe = J N I Power Equipment"
+ },
+ {
+  "id": 19670,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19681,
+  "domain": "lake-spokane-rentals.pointofrentalcloud.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general rental",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted; Point of Rental storefront subdomain"
+ },
+ {
+  "id": 19690,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "lifting gear rental",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19697,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane repair",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19700,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19710,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19713,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19721,
+  "domain": "mpcpartyrental.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted; MPC = My PlayCenter"
+ },
+ {
+  "id": 19725,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment parts",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19727,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment repair",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19731,
+  "domain": "nwequipmentgroup.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment dealer",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted; name matches domain"
+ },
+ {
+  "id": 19732,
+  "domain": "nwequip.net",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment sales & rental",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted; plausible name match"
+ },
+ {
+  "id": 19736,
+  "domain": "nwrentalstores.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted; plausible name match"
+ },
+ {
+  "id": 19738,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor dealer/repair",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19746,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19756,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "commercial equipment",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19757,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "fastener supply",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19775,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment dealer",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19780,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19781,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19782,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19791,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment dealer",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19797,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19800,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19804,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19808,
+  "domain": "site-1dgfxo0j4.godaddysites.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift repair",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted; GoDaddy builder site kept"
+ },
+ {
+  "id": 19811,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift batteries",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19812,
+  "domain": "srscooks.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "restaurant equipment",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted; kept current domain unverified"
+ },
+ {
+  "id": 19816,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 19817,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ }
+]

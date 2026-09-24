@@ -1,0 +1,352 @@
+[
+ {
+  "id": 18790,
+  "domain": "spanishfork.gov",
+  "status": "verified_existing",
+  "confidence": "medium",
+  "heavy_equipment": "No",
+  "category": "city park",
+  "us_based": "yes",
+  "note": "City of Spanish Fork park; not an equipment business"
+ },
+ {
+  "id": 18802,
+  "domain": "amquipinc.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search budget exhausted; kept original domain"
+ },
+ {
+  "id": 18807,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ },
+ {
+  "id": 18810,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ },
+ {
+  "id": 18826,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ },
+ {
+  "id": 18828,
+  "domain": "bec1.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment dealer",
+  "us_based": "yes",
+  "note": "UNVERIFIED: search budget exhausted; kept original domain"
+ },
+ {
+  "id": 18841,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ },
+ {
+  "id": 18849,
+  "domain": "rentaconveyor.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "roofing equipment sales/rental",
+  "us_based": "yes",
+  "note": "UNVERIFIED: search budget exhausted; kept original domain"
+ },
+ {
+  "id": 18852,
+  "domain": "mobile-equipment-repair-services.square.site",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment repair",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search budget exhausted; kept original domain (builder site)"
+ },
+ {
+  "id": 18853,
+  "domain": "woodturnerscatalog.com",
+  "status": "verified_existing",
+  "confidence": "medium",
+  "heavy_equipment": "No",
+  "category": "woodworking supplies retail",
+  "us_based": "yes",
+  "note": "Craft Supplies USA operates Woodturners Catalog; not equipment"
+ },
+ {
+  "id": 18854,
+  "domain": "craneops.co",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "crane software/services",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search budget exhausted; kept original domain"
+ },
+ {
+  "id": 18861,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ },
+ {
+  "id": 18863,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "rental",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ },
+ {
+  "id": 18868,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ },
+ {
+  "id": 18869,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "rental",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ },
+ {
+  "id": 18871,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ },
+ {
+  "id": 18872,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ },
+ {
+  "id": 18877,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ },
+ {
+  "id": 18878,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment and trailer rental",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ },
+ {
+  "id": 18886,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "fleet equipment service",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ },
+ {
+  "id": 18896,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ },
+ {
+  "id": 18897,
+  "domain": "hermsequipment.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment dealer",
+  "us_based": "yes",
+  "note": "UNVERIFIED: search budget exhausted; kept original domain"
+ },
+ {
+  "id": 18903,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ },
+ {
+  "id": 18904,
+  "domain": "saltcitycraneservice.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "yes",
+  "note": "UNVERIFIED: search budget exhausted; kept original domain"
+ },
+ {
+  "id": 18920,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ },
+ {
+  "id": 18933,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ },
+ {
+  "id": 18934,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ },
+ {
+  "id": 18936,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ },
+ {
+  "id": 18940,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ },
+ {
+  "id": 18944,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ },
+ {
+  "id": 18949,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment rental",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ },
+ {
+  "id": 18955,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "auto repair / mower shop",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ },
+ {
+  "id": 18956,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ },
+ {
+  "id": 18958,
+  "domain": "nallybrothersrental.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "yes",
+  "note": "UNVERIFIED: search budget exhausted; kept original domain"
+ },
+ {
+  "id": 18959,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; no search performed"
+ }
+]

@@ -1,0 +1,1502 @@
+[
+{
+"id": 17493,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 17494,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17502,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17510,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17514,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17519,
+"heavy_equipment": "No",
+"category": "trailer rental/sales",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17524,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates equipment rental/sales"
+},
+{
+"id": 17526,
+"heavy_equipment": "Yes",
+"category": "forklift dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 17528,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates equipment rental/sales"
+},
+{
+"id": 17535,
+"heavy_equipment": "Yes",
+"category": "generator/power equipment",
+"note": "known equipment/truck business"
+},
+{
+"id": 17545,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17547,
+"heavy_equipment": "No",
+"category": "trailer rental/sales",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17549,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 17550,
+"heavy_equipment": "No",
+"category": "party/event rental",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17557,
+"heavy_equipment": "Yes",
+"category": "construction equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 17562,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17563,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17575,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17590,
+"heavy_equipment": "No",
+"category": "party/event rental",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17597,
+"heavy_equipment": "Yes",
+"category": "heavy equipment repair",
+"note": "known equipment/truck business"
+},
+{
+"id": 17602,
+"heavy_equipment": "Yes",
+"category": "heavy equipment parts",
+"note": "known equipment/truck business"
+},
+{
+"id": 17606,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17614,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates equipment rental/sales"
+},
+{
+"id": 17615,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17617,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17618,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates equipment rental/sales"
+},
+{
+"id": 17621,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 17633,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17641,
+"heavy_equipment": "Yes",
+"category": "construction equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 17642,
+"heavy_equipment": "Yes",
+"category": "construction equipment dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 17643,
+"heavy_equipment": "Yes",
+"category": "construction equipment dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 17644,
+"heavy_equipment": "Yes",
+"category": "construction equipment dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 17645,
+"heavy_equipment": "Yes",
+"category": "construction equipment dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 17647,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 17649,
+"heavy_equipment": "Yes",
+"category": "construction equipment dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 17652,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 17661,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17666,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates equipment rental/sales"
+},
+{
+"id": 17668,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 17670,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 17672,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17673,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17675,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 17683,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17686,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17690,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17692,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17714,
+"heavy_equipment": "Yes",
+"category": "construction equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 17715,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17724,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17732,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17743,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17744,
+"heavy_equipment": "Yes",
+"category": "heavy equipment transport",
+"note": "known equipment/truck business"
+},
+{
+"id": 17746,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 17747,
+"heavy_equipment": "Yes",
+"category": "forklift dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 17765,
+"heavy_equipment": "Yes",
+"category": "heavy equipment parts",
+"note": "known equipment/truck business"
+},
+{
+"id": 17767,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 17769,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 17770,
+"heavy_equipment": "No",
+"category": "trailer rental/sales",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17778,
+"heavy_equipment": "No",
+"category": "party/event rental",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17781,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates equipment rental/sales"
+},
+{
+"id": 17783,
+"heavy_equipment": "No",
+"category": "trailer rental/sales",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17787,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 17788,
+"heavy_equipment": "No",
+"category": "party/event rental",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17789,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17799,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17800,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17802,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17839,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 17845,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates equipment rental/sales"
+},
+{
+"id": 17846,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17847,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17848,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17857,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17858,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17860,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17869,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17873,
+"heavy_equipment": "Yes",
+"category": "truck crane manufacturer",
+"note": "known equipment/truck business"
+},
+{
+"id": 17877,
+"heavy_equipment": "Yes",
+"category": "heavy equipment parts",
+"note": "known equipment/truck business"
+},
+{
+"id": 17883,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates equipment rental/sales"
+},
+{
+"id": 17884,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17896,
+"heavy_equipment": "Yes",
+"category": "heavy equipment dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 17897,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 17898,
+"heavy_equipment": "Yes",
+"category": "used heavy equipment dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 17909,
+"heavy_equipment": "Yes",
+"category": "industrial/forklift tires",
+"note": "known equipment/truck business"
+},
+{
+"id": 17921,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17926,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17927,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17928,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17931,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17933,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17937,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17945,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17948,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17949,
+"heavy_equipment": "No",
+"category": "party/event rental",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17950,
+"heavy_equipment": "No",
+"category": "trailer rental/sales",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17951,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 17953,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates equipment rental/sales"
+},
+{
+"id": 17955,
+"heavy_equipment": "Yes",
+"category": "construction equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 17960,
+"heavy_equipment": "Yes",
+"category": "heavy equipment repair",
+"note": "known equipment/truck business"
+},
+{
+"id": 17967,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 17968,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17970,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17986,
+"heavy_equipment": "No",
+"category": "trailer rental/sales",
+"note": "not a heavy equipment business"
+},
+{
+"id": 17995,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18007,
+"heavy_equipment": "Yes",
+"category": "heavy truck repair",
+"note": "known equipment/truck business"
+},
+{
+"id": 18027,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18031,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18039,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18046,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18053,
+"heavy_equipment": "No",
+"category": "trailer rental/sales",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18054,
+"heavy_equipment": "Yes",
+"category": "heavy truck parts",
+"note": "known equipment/truck business"
+},
+{
+"id": 18056,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18062,
+"heavy_equipment": "Yes",
+"category": "heavy equipment dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 18063,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18064,
+"heavy_equipment": "Yes",
+"category": "ag equipment dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 18066,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18070,
+"heavy_equipment": "Yes",
+"category": "aerial lift manufacturer",
+"note": "known equipment/truck business"
+},
+{
+"id": 18088,
+"heavy_equipment": "Yes",
+"category": "aerial lift rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18089,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates equipment rental/sales"
+},
+{
+"id": 18091,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18093,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates equipment rental/sales"
+},
+{
+"id": 18101,
+"heavy_equipment": "Yes",
+"category": "construction equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18102,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 18103,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18129,
+"heavy_equipment": "Yes",
+"category": "telehandler dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 18132,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18135,
+"heavy_equipment": "Yes",
+"category": "forklift dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 18139,
+"heavy_equipment": "No",
+"category": "party/event rental",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18146,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18150,
+"heavy_equipment": "Yes",
+"category": "construction equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18154,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18161,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18163,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates equipment rental/sales"
+},
+{
+"id": 18169,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18173,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 18174,
+"heavy_equipment": "Yes",
+"category": "crane manufacturer",
+"note": "known equipment/truck business"
+},
+{
+"id": 18179,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18180,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18184,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18185,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18193,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates equipment rental/sales"
+},
+{
+"id": 18195,
+"heavy_equipment": "No",
+"category": "party/event rental",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18198,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18202,
+"heavy_equipment": "Yes",
+"category": "equipment leasing",
+"note": "known equipment/truck business"
+},
+{
+"id": 18205,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18207,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18210,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18215,
+"heavy_equipment": "Yes",
+"category": "forklift dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 18217,
+"heavy_equipment": "No",
+"category": "trailer rental/sales",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18221,
+"heavy_equipment": "No",
+"category": "party/event rental",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18222,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18223,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18244,
+"heavy_equipment": "Yes",
+"category": "heavy truck parts",
+"note": "known equipment/truck business"
+},
+{
+"id": 18245,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18246,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18251,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18263,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 18265,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18266,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18272,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18279,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 18288,
+"heavy_equipment": "Yes",
+"category": "lift equipment",
+"note": "known equipment/truck business"
+},
+{
+"id": 18291,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18293,
+"heavy_equipment": "Yes",
+"category": "heavy truck repair",
+"note": "known equipment/truck business"
+},
+{
+"id": 18301,
+"heavy_equipment": "No",
+"category": "trailer rental/sales",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18307,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18313,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18316,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18318,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18323,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates equipment rental/sales"
+},
+{
+"id": 18328,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18329,
+"heavy_equipment": "Yes",
+"category": "construction equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18330,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18335,
+"heavy_equipment": "Yes",
+"category": "heavy equipment dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 18337,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18347,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18352,
+"heavy_equipment": "No",
+"category": "party/event rental",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18356,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18358,
+"heavy_equipment": "Yes",
+"category": "ag equipment dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 18361,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18363,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18364,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18365,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18383,
+"heavy_equipment": "Yes",
+"category": "generator/power equipment",
+"note": "known equipment/truck business"
+},
+{
+"id": 18392,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18394,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18397,
+"heavy_equipment": "No",
+"category": "party/event rental",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18401,
+"heavy_equipment": "Yes",
+"category": "excavation contractor",
+"note": "known equipment/truck business"
+},
+{
+"id": 18405,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18406,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18412,
+"heavy_equipment": "No",
+"category": "party/event rental",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18419,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18421,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18422,
+"heavy_equipment": "Yes",
+"category": "forklift dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 18427,
+"heavy_equipment": "No",
+"category": "party/event rental",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18430,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18437,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18440,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18442,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 18445,
+"heavy_equipment": "Yes",
+"category": "heavy truck repair",
+"note": "known equipment/truck business"
+},
+{
+"id": 18448,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18450,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18457,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18458,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18461,
+"heavy_equipment": "Yes",
+"category": "construction equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18466,
+"heavy_equipment": "Yes",
+"category": "aerial lift rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18467,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates equipment rental/sales"
+},
+{
+"id": 18489,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18496,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 18500,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18503,
+"heavy_equipment": "No",
+"category": "party/event rental",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18513,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18515,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates equipment rental/sales"
+},
+{
+"id": 18520,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates equipment rental/sales"
+},
+{
+"id": 18521,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates equipment rental/sales"
+},
+{
+"id": 18543,
+"heavy_equipment": "Yes",
+"category": "construction equipment dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 18546,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18553,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18556,
+"heavy_equipment": "Yes",
+"category": "heavy equipment attachments",
+"note": "known equipment/truck business"
+},
+{
+"id": 18557,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18558,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18559,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18565,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 18566,
+"heavy_equipment": "Yes",
+"category": "trencher/stringing equipment",
+"note": "known equipment/truck business"
+},
+{
+"id": 18573,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18578,
+"heavy_equipment": "No",
+"category": "party/event rental",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18586,
+"heavy_equipment": "Yes",
+"category": "heavy equipment parts",
+"note": "known equipment/truck business"
+},
+{
+"id": 18587,
+"heavy_equipment": "Yes",
+"category": "construction equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18597,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18607,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18611,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18612,
+"heavy_equipment": "Yes",
+"category": "yard truck dealer",
+"note": "known equipment/truck business"
+},
+{
+"id": 18616,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18618,
+"heavy_equipment": "Yes",
+"category": "industrial equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18622,
+"heavy_equipment": "No",
+"category": "party/event rental",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18627,
+"heavy_equipment": "Yes",
+"category": "heavy truck parts",
+"note": "known equipment/truck business"
+},
+{
+"id": 18628,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18639,
+"heavy_equipment": "No",
+"category": "trailer rental/sales",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18641,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18652,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18654,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18656,
+"heavy_equipment": "Yes",
+"category": "heavy truck repair",
+"note": "known equipment/truck business"
+},
+{
+"id": 18661,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18662,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18664,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18667,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates equipment rental/sales"
+},
+{
+"id": 18673,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "known equipment/truck business"
+},
+{
+"id": 18675,
+"heavy_equipment": "No",
+"category": "unrelated",
+"note": "not a heavy equipment business"
+},
+{
+"id": 18679,
+"heavy_equipment": "Yes",
+"category": "heavy equipment parts",
+"note": "known equipment/truck business"
+}
+]

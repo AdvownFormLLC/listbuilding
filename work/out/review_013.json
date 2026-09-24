@@ -1,0 +1,1502 @@
+[
+ {
+  "id": 13520,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "note": "NJ dealer of compact/construction equipment"
+ },
+ {
+  "id": 13521,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Rental yard with construction equipment"
+ },
+ {
+  "id": 13522,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Rent-all with construction equipment"
+ },
+ {
+  "id": 13523,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "Commercial truck dealer"
+ },
+ {
+  "id": 13526,
+  "heavy_equipment": "No",
+  "category": "contractor",
+  "note": "Unclear general enterprise, no equipment evidence"
+ },
+ {
+  "id": 13528,
+  "heavy_equipment": "No",
+  "category": "audio visual",
+  "note": "AV company per domain"
+ },
+ {
+  "id": 13531,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck parts",
+  "note": "Truck parts supplier"
+ },
+ {
+  "id": 13537,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Equipment rental yard"
+ },
+ {
+  "id": 13538,
+  "heavy_equipment": "No",
+  "category": "storage container rental",
+  "note": "Container rental only"
+ },
+ {
+  "id": 13539,
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "note": "Luxury event rentals"
+ },
+ {
+  "id": 13544,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Tool and equipment rental incl construction"
+ },
+ {
+  "id": 13546,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Rent-all with construction equipment"
+ },
+ {
+  "id": 13550,
+  "heavy_equipment": "No",
+  "category": "salvage retail",
+  "note": "Salvage sales, not equipment core"
+ },
+ {
+  "id": 13551,
+  "heavy_equipment": "No",
+  "category": "trailer dealer",
+  "note": "Utility trailer sales only"
+ },
+ {
+  "id": 13553,
+  "heavy_equipment": "No",
+  "category": "scaffolding",
+  "note": "Ladder and scaffolding only"
+ },
+ {
+  "id": 13555,
+  "heavy_equipment": "No",
+  "category": "industrial supply",
+  "note": "Hardware supply"
+ },
+ {
+  "id": 13558,
+  "heavy_equipment": "No",
+  "category": "industrial distributor",
+  "note": "Hardware/industrial distributor"
+ },
+ {
+  "id": 13562,
+  "heavy_equipment": "No",
+  "category": "government",
+  "note": "Municipal website"
+ },
+ {
+  "id": 13568,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "Mack/Volvo truck dealer"
+ },
+ {
+  "id": 13575,
+  "heavy_equipment": "No",
+  "category": "entertainment",
+  "note": "Entertainment group"
+ },
+ {
+  "id": 13582,
+  "heavy_equipment": "No",
+  "category": "surplus retail",
+  "note": "Surplus goods"
+ },
+ {
+  "id": 13586,
+  "heavy_equipment": "No",
+  "category": "industrial supply",
+  "note": "Industrial supply distributor"
+ },
+ {
+  "id": 13589,
+  "heavy_equipment": "No",
+  "category": "plumbing supply",
+  "note": "Supply house"
+ },
+ {
+  "id": 13596,
+  "heavy_equipment": "No",
+  "category": "ladder supply",
+  "note": "Ladders"
+ },
+ {
+  "id": 13606,
+  "heavy_equipment": "No",
+  "category": "electronics",
+  "note": "Electronic systems"
+ },
+ {
+  "id": 13607,
+  "heavy_equipment": "No",
+  "category": "retail",
+  "note": "Warehouse club"
+ },
+ {
+  "id": 13612,
+  "heavy_equipment": "Yes",
+  "category": "engine service",
+  "note": "Diesel engines for heavy equipment/trucks"
+ },
+ {
+  "id": 13613,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "Construction equipment rental"
+ },
+ {
+  "id": 13616,
+  "heavy_equipment": "No",
+  "category": "scrap metal",
+  "note": "Scrap yard"
+ },
+ {
+  "id": 13618,
+  "heavy_equipment": "No",
+  "category": "masonry contractor",
+  "note": "Masonry"
+ },
+ {
+  "id": 13620,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "Truck dealer"
+ },
+ {
+  "id": 13622,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "Dig equipment rental"
+ },
+ {
+  "id": 13628,
+  "heavy_equipment": "Yes",
+  "category": "mast climber rental",
+  "note": "Mast climbing work platforms"
+ },
+ {
+  "id": 13630,
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment parts",
+  "note": "Undercarriage parts"
+ },
+ {
+  "id": 13633,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "Used trucks"
+ },
+ {
+  "id": 13637,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Tool and equipment rental"
+ },
+ {
+  "id": 13638,
+  "heavy_equipment": "No",
+  "category": "tires",
+  "note": "Tire shop"
+ },
+ {
+  "id": 13640,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "Truck center"
+ },
+ {
+  "id": 13642,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Tool/equipment rental"
+ },
+ {
+  "id": 13650,
+  "heavy_equipment": "Yes",
+  "category": "diesel repair",
+  "note": "Diesel truck/equipment service"
+ },
+ {
+  "id": 13652,
+  "heavy_equipment": "No",
+  "category": "fall protection",
+  "note": "Safety systems"
+ },
+ {
+  "id": 13657,
+  "heavy_equipment": "Yes",
+  "category": "fleet truck repair",
+  "note": "Commercial fleet service"
+ },
+ {
+  "id": 13659,
+  "heavy_equipment": "No",
+  "category": "towing",
+  "note": "Towing company"
+ },
+ {
+  "id": 13662,
+  "heavy_equipment": "No",
+  "category": "retail",
+  "note": "Clothing retailer"
+ },
+ {
+  "id": 13664,
+  "heavy_equipment": "No",
+  "category": "scaffolding",
+  "note": "Scaffold only"
+ },
+ {
+  "id": 13665,
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "note": "Generic name"
+ },
+ {
+  "id": 13666,
+  "heavy_equipment": "Yes",
+  "category": "excavation contractor",
+  "note": "Excavation/site work contractor"
+ },
+ {
+  "id": 13673,
+  "heavy_equipment": "No",
+  "category": "trailer dealer",
+  "note": "Trailer sales"
+ },
+ {
+  "id": 13675,
+  "heavy_equipment": "No",
+  "category": "industrial supply",
+  "note": "Supply sales"
+ },
+ {
+  "id": 13682,
+  "heavy_equipment": "No",
+  "category": "batteries",
+  "note": "Battery supplier"
+ },
+ {
+  "id": 13687,
+  "heavy_equipment": "No",
+  "category": "industrial supply",
+  "note": "Distributor"
+ },
+ {
+  "id": 13692,
+  "heavy_equipment": "No",
+  "category": "terminal",
+  "note": "Marine/warehouse terminal"
+ },
+ {
+  "id": 13702,
+  "heavy_equipment": "No",
+  "category": "car dealer",
+  "note": "Motors dealer"
+ },
+ {
+  "id": 13706,
+  "heavy_equipment": "No",
+  "category": "hardware supply",
+  "note": "Industrial hardware"
+ },
+ {
+  "id": 13709,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck service",
+  "note": "Truck tires and service center"
+ },
+ {
+  "id": 13724,
+  "heavy_equipment": "No",
+  "category": "unknown business",
+  "note": "No equipment evidence"
+ },
+ {
+  "id": 13735,
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "note": "Party rentals"
+ },
+ {
+  "id": 13736,
+  "heavy_equipment": "No",
+  "category": "building supply",
+  "note": "Construction supply"
+ },
+ {
+  "id": 13737,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "Truck center"
+ },
+ {
+  "id": 13738,
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "note": "Power products"
+ },
+ {
+  "id": 13741,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "Semi truck sales"
+ },
+ {
+  "id": 13746,
+  "heavy_equipment": "No",
+  "category": "hardware",
+  "note": "Hardware store"
+ },
+ {
+  "id": 13748,
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "note": "Material handling equipment"
+ },
+ {
+  "id": 13759,
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "note": "Material handling dealer"
+ },
+ {
+  "id": 13763,
+  "heavy_equipment": "No",
+  "category": "plumbing supply",
+  "note": "Supply"
+ },
+ {
+  "id": 13765,
+  "heavy_equipment": "No",
+  "category": "industrial",
+  "note": "Unclear international"
+ },
+ {
+  "id": 13766,
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "note": "Material handling solutions"
+ },
+ {
+  "id": 13768,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Equipment rental"
+ },
+ {
+  "id": 13787,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "Truck center"
+ },
+ {
+  "id": 13792,
+  "heavy_equipment": "No",
+  "category": "construction materials",
+  "note": "Materials supplier"
+ },
+ {
+  "id": 13794,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "Freightliner dealer"
+ },
+ {
+  "id": 13795,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "Truck dealer"
+ },
+ {
+  "id": 13797,
+  "heavy_equipment": "No",
+  "category": "arborist supply",
+  "note": "Tree care supplies"
+ },
+ {
+  "id": 13798,
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "note": "Party rentals"
+ },
+ {
+  "id": 13802,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck repair",
+  "note": "Truck road service"
+ },
+ {
+  "id": 13810,
+  "heavy_equipment": "No",
+  "category": "hvac",
+  "note": "Mechanical"
+ },
+ {
+  "id": 13811,
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment parts",
+  "note": "HD parts"
+ },
+ {
+  "id": 13817,
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "note": "Power equipment"
+ },
+ {
+  "id": 13819,
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "note": "Material handling"
+ },
+ {
+  "id": 13825,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "Hino/Fuso trucks"
+ },
+ {
+  "id": 13827,
+  "heavy_equipment": "Yes",
+  "category": "equipment attachments",
+  "note": "Heavy equipment attachments"
+ },
+ {
+  "id": 13829,
+  "heavy_equipment": "No",
+  "category": "pump service",
+  "note": "Fuel pump/meter service"
+ },
+ {
+  "id": 13830,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "Truck sales"
+ },
+ {
+  "id": 13831,
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "note": "Raymond lift trucks"
+ },
+ {
+  "id": 13833,
+  "heavy_equipment": "No",
+  "category": "industrial",
+  "note": "Unclear"
+ },
+ {
+  "id": 13834,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "Backhoe rental"
+ },
+ {
+  "id": 13836,
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "note": "Lift rental"
+ },
+ {
+  "id": 13837,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Rentals incl equipment"
+ },
+ {
+  "id": 13843,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "note": "Rippa mini excavators"
+ },
+ {
+  "id": 13845,
+  "heavy_equipment": "No",
+  "category": "tool supply",
+  "note": "Tool supply"
+ },
+ {
+  "id": 13847,
+  "heavy_equipment": "No",
+  "category": "unknown",
+  "note": "Unclear"
+ },
+ {
+  "id": 13848,
+  "heavy_equipment": "No",
+  "category": "tool supply",
+  "note": "Tools"
+ },
+ {
+  "id": 13852,
+  "heavy_equipment": "No",
+  "category": "restaurant equipment",
+  "note": "Food service equipment"
+ },
+ {
+  "id": 13855,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck rental",
+  "note": "Commercial truck leasing"
+ },
+ {
+  "id": 13857,
+  "heavy_equipment": "Yes",
+  "category": "ag equipment",
+  "note": "Mowers/ag implements"
+ },
+ {
+  "id": 13858,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "note": "SANY dealer"
+ },
+ {
+  "id": 13860,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "Sales and rentals"
+ },
+ {
+  "id": 13861,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck service",
+  "note": "Commercial truck tires/service"
+ },
+ {
+  "id": 13864,
+  "heavy_equipment": "No",
+  "category": "fasteners",
+  "note": "Fasteners"
+ },
+ {
+  "id": 13868,
+  "heavy_equipment": "No",
+  "category": "driver training",
+  "note": "CDL school"
+ },
+ {
+  "id": 13870,
+  "heavy_equipment": "No",
+  "category": "retail",
+  "note": "Smokers"
+ },
+ {
+  "id": 13875,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "Truck sales"
+ },
+ {
+  "id": 13877,
+  "heavy_equipment": "No",
+  "category": "mobility",
+  "note": "Stairlifts"
+ },
+ {
+  "id": 13890,
+  "heavy_equipment": "No",
+  "category": "trailer rental",
+  "note": "Trailer rental"
+ },
+ {
+  "id": 13891,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Rent-all"
+ },
+ {
+  "id": 13893,
+  "heavy_equipment": "No",
+  "category": "unknown",
+  "note": "Unclear"
+ },
+ {
+  "id": 13894,
+  "heavy_equipment": "No",
+  "category": "unknown",
+  "note": "Unrelated"
+ },
+ {
+  "id": 13895,
+  "heavy_equipment": "No",
+  "category": "tool retail",
+  "note": "Toolbox"
+ },
+ {
+  "id": 13898,
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "note": "Fun rentals"
+ },
+ {
+  "id": 13903,
+  "heavy_equipment": "No",
+  "category": "amusement",
+  "note": "Amusement"
+ },
+ {
+  "id": 13904,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck parts",
+  "note": "Truck parts"
+ },
+ {
+  "id": 13908,
+  "heavy_equipment": "No",
+  "category": "contractor supply",
+  "note": "Supply"
+ },
+ {
+  "id": 13914,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "Trucks and parts"
+ },
+ {
+  "id": 13916,
+  "heavy_equipment": "Yes",
+  "category": "snow plow truck equipment",
+  "note": "Truck plows/upfit"
+ },
+ {
+  "id": 13917,
+  "heavy_equipment": "No",
+  "category": "industrial supply",
+  "note": "Supply"
+ },
+ {
+  "id": 13919,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Rental with equipment"
+ },
+ {
+  "id": 13921,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "Truck dealership"
+ },
+ {
+  "id": 13927,
+  "heavy_equipment": "No",
+  "category": "contractor",
+  "note": "Unclear"
+ },
+ {
+  "id": 13929,
+  "heavy_equipment": "No",
+  "category": "modular space",
+  "note": "Mobile offices"
+ },
+ {
+  "id": 13930,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Rental and supply"
+ },
+ {
+  "id": 13932,
+  "heavy_equipment": "No",
+  "category": "apparel",
+  "note": "Workwear"
+ },
+ {
+  "id": 13933,
+  "heavy_equipment": "No",
+  "category": "tires",
+  "note": "Tire wholesale"
+ },
+ {
+  "id": 13934,
+  "heavy_equipment": "No",
+  "category": "car dealer",
+  "note": "Motors"
+ },
+ {
+  "id": 13936,
+  "heavy_equipment": "No",
+  "category": "materials",
+  "note": "Aggregates"
+ },
+ {
+  "id": 13949,
+  "heavy_equipment": "No",
+  "category": "home supply",
+  "note": "Supply house"
+ },
+ {
+  "id": 13951,
+  "heavy_equipment": "No",
+  "category": "construction contractor",
+  "note": "Construction services"
+ },
+ {
+  "id": 13958,
+  "heavy_equipment": "No",
+  "category": "unknown",
+  "note": "Unclear"
+ },
+ {
+  "id": 13961,
+  "heavy_equipment": "No",
+  "category": "farm retail",
+  "note": "Ranch store"
+ },
+ {
+  "id": 13962,
+  "heavy_equipment": "No",
+  "category": "tool retail",
+  "note": "Tools"
+ },
+ {
+  "id": 13966,
+  "heavy_equipment": "No",
+  "category": "hardware",
+  "note": "Hardware"
+ },
+ {
+  "id": 13968,
+  "heavy_equipment": "No",
+  "category": "services",
+  "note": "Unclear"
+ },
+ {
+  "id": 13969,
+  "heavy_equipment": "No",
+  "category": "scrap metal",
+  "note": "Scrap"
+ },
+ {
+  "id": 13970,
+  "heavy_equipment": "No",
+  "category": "unknown",
+  "note": "Unclear"
+ },
+ {
+  "id": 13980,
+  "heavy_equipment": "No",
+  "category": "supply",
+  "note": "Supply"
+ },
+ {
+  "id": 13982,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Rental and supply"
+ },
+ {
+  "id": 13983,
+  "heavy_equipment": "No",
+  "category": "electrical supply",
+  "note": "Electrical"
+ },
+ {
+  "id": 13987,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Equipment rentals"
+ },
+ {
+  "id": 13994,
+  "heavy_equipment": "No",
+  "category": "supply",
+  "note": "Supply"
+ },
+ {
+  "id": 13996,
+  "heavy_equipment": "No",
+  "category": "farm retail",
+  "note": "Farm/home store"
+ },
+ {
+  "id": 14000,
+  "heavy_equipment": "No",
+  "category": "oilfield tool rental",
+  "note": "Downhole tools"
+ },
+ {
+  "id": 14002,
+  "heavy_equipment": "No",
+  "category": "unknown",
+  "note": "Unclear"
+ },
+ {
+  "id": 14007,
+  "heavy_equipment": "No",
+  "category": "construction supply",
+  "note": "Supply"
+ },
+ {
+  "id": 14008,
+  "heavy_equipment": "No",
+  "category": "hvac",
+  "note": "Air/electric"
+ },
+ {
+  "id": 14011,
+  "heavy_equipment": "No",
+  "category": "concrete contractor",
+  "note": "Concrete"
+ },
+ {
+  "id": 14014,
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "note": "Lift solutions"
+ },
+ {
+  "id": 14017,
+  "heavy_equipment": "No",
+  "category": "sales",
+  "note": "Unclear"
+ },
+ {
+  "id": 14025,
+  "heavy_equipment": "No",
+  "category": "metal fabrication",
+  "note": "Iron works"
+ },
+ {
+  "id": 14026,
+  "heavy_equipment": "No",
+  "category": "services",
+  "note": "Unclear"
+ },
+ {
+  "id": 14033,
+  "heavy_equipment": "No",
+  "category": "unknown",
+  "note": "Unclear"
+ },
+ {
+  "id": 14041,
+  "heavy_equipment": "No",
+  "category": "propane",
+  "note": "Fuel"
+ },
+ {
+  "id": 14043,
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment parts",
+  "note": "Power motive equipment"
+ },
+ {
+  "id": 14047,
+  "heavy_equipment": "No",
+  "category": "auto service",
+  "note": "Service center"
+ },
+ {
+  "id": 14049,
+  "heavy_equipment": "No",
+  "category": "industrial",
+  "note": "Unclear"
+ },
+ {
+  "id": 14056,
+  "heavy_equipment": "No",
+  "category": "hardware",
+  "note": "Hardware"
+ },
+ {
+  "id": 14063,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "Truck center"
+ },
+ {
+  "id": 14067,
+  "heavy_equipment": "No",
+  "category": "safety",
+  "note": "Safety"
+ },
+ {
+  "id": 14071,
+  "heavy_equipment": "No",
+  "category": "design",
+  "note": "Design"
+ },
+ {
+  "id": 14072,
+  "heavy_equipment": "No",
+  "category": "hvac",
+  "note": "Ductless"
+ },
+ {
+  "id": 14076,
+  "heavy_equipment": "No",
+  "category": "truck accessories",
+  "note": "Truck store"
+ },
+ {
+  "id": 14080,
+  "heavy_equipment": "No",
+  "category": "bearings",
+  "note": "Bearings"
+ },
+ {
+  "id": 14081,
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment parts",
+  "note": "Construction equipment parts"
+ },
+ {
+  "id": 14085,
+  "heavy_equipment": "No",
+  "category": "sheds",
+  "note": "Sheds"
+ },
+ {
+  "id": 14089,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Rental yard"
+ },
+ {
+  "id": 14093,
+  "heavy_equipment": "No",
+  "category": "restaurant",
+  "note": "Bar"
+ },
+ {
+  "id": 14094,
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "note": "Power center"
+ },
+ {
+  "id": 14098,
+  "heavy_equipment": "No",
+  "category": "training",
+  "note": "CDL training"
+ },
+ {
+  "id": 14116,
+  "heavy_equipment": "No",
+  "category": "unknown",
+  "note": "Unclear"
+ },
+ {
+  "id": 14117,
+  "heavy_equipment": "No",
+  "category": "unknown",
+  "note": "Unclear"
+ },
+ {
+  "id": 14120,
+  "heavy_equipment": "No",
+  "category": "powersports",
+  "note": "Motorsports"
+ },
+ {
+  "id": 14121,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Equipment rental"
+ },
+ {
+  "id": 14124,
+  "heavy_equipment": "No",
+  "category": "unknown",
+  "note": "Unclear"
+ },
+ {
+  "id": 14129,
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "note": "Material handling"
+ },
+ {
+  "id": 14132,
+  "heavy_equipment": "No",
+  "category": "unknown",
+  "note": "Unclear"
+ },
+ {
+  "id": 14133,
+  "heavy_equipment": "No",
+  "category": "farm retail",
+  "note": "Ranch store"
+ },
+ {
+  "id": 14142,
+  "heavy_equipment": "No",
+  "category": "trailer dealer",
+  "note": "Trailers"
+ },
+ {
+  "id": 14147,
+  "heavy_equipment": "No",
+  "category": "trailer dealer",
+  "note": "Featherlite trailers"
+ },
+ {
+  "id": 14162,
+  "heavy_equipment": "Yes",
+  "category": "ag equipment",
+  "note": "Krone hay equipment"
+ },
+ {
+  "id": 14175,
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "note": "Power products"
+ },
+ {
+  "id": 14177,
+  "heavy_equipment": "No",
+  "category": "unknown",
+  "note": "Unclear"
+ },
+ {
+  "id": 14187,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Rentals"
+ },
+ {
+  "id": 14193,
+  "heavy_equipment": "No",
+  "category": "trailer dealer",
+  "note": "Rigs/trailers"
+ },
+ {
+  "id": 14197,
+  "heavy_equipment": "No",
+  "category": "general rental",
+  "note": "Unclear rental"
+ },
+ {
+  "id": 14201,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "Rush Truck Centers"
+ },
+ {
+  "id": 14204,
+  "heavy_equipment": "No",
+  "category": "industrial",
+  "note": "Unclear"
+ },
+ {
+  "id": 14210,
+  "heavy_equipment": "No",
+  "category": "auto repair",
+  "note": "Garage"
+ },
+ {
+  "id": 14214,
+  "heavy_equipment": "No",
+  "category": "luxury rental",
+  "note": "Luxury"
+ },
+ {
+  "id": 14219,
+  "heavy_equipment": "Yes",
+  "category": "ag equipment parts",
+  "note": "Ag parts"
+ },
+ {
+  "id": 14225,
+  "heavy_equipment": "No",
+  "category": "tool supply",
+  "note": "Tools"
+ },
+ {
+  "id": 14226,
+  "heavy_equipment": "No",
+  "category": "concrete forming",
+  "note": "Forming supply"
+ },
+ {
+  "id": 14229,
+  "heavy_equipment": "Yes",
+  "category": "telehandler manufacturer",
+  "note": "Xtreme telehandlers/lifts"
+ },
+ {
+  "id": 14233,
+  "heavy_equipment": "No",
+  "category": "pressure wash",
+  "note": "Washing"
+ },
+ {
+  "id": 14235,
+  "heavy_equipment": "No",
+  "category": "contractor",
+  "note": "Contracting"
+ },
+ {
+  "id": 14241,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Builder supply with rentals"
+ },
+ {
+  "id": 14242,
+  "heavy_equipment": "No",
+  "category": "emergency supply",
+  "note": "Supply"
+ },
+ {
+  "id": 14246,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Hardware and rental"
+ },
+ {
+  "id": 14247,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Rental sales service"
+ },
+ {
+  "id": 14248,
+  "heavy_equipment": "No",
+  "category": "roofing supply",
+  "note": "Roofing"
+ },
+ {
+  "id": 14256,
+  "heavy_equipment": "No",
+  "category": "camera rental",
+  "note": "Camera"
+ },
+ {
+  "id": 14272,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Tool rental"
+ },
+ {
+  "id": 14274,
+  "heavy_equipment": "No",
+  "category": "medical supply",
+  "note": "Medical"
+ },
+ {
+  "id": 14275,
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "note": "Platforms"
+ },
+ {
+  "id": 14278,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Tool rental"
+ },
+ {
+  "id": 14282,
+  "heavy_equipment": "No",
+  "category": "contractor",
+  "note": "Unclear"
+ },
+ {
+  "id": 14286,
+  "heavy_equipment": "No",
+  "category": "unknown",
+  "note": "Unclear"
+ },
+ {
+  "id": 14291,
+  "heavy_equipment": "No",
+  "category": "services",
+  "note": "Unclear"
+ },
+ {
+  "id": 14292,
+  "heavy_equipment": "No",
+  "category": "industrial",
+  "note": "Unclear"
+ },
+ {
+  "id": 14296,
+  "heavy_equipment": "No",
+  "category": "unknown",
+  "note": "Unclear"
+ },
+ {
+  "id": 14298,
+  "heavy_equipment": "No",
+  "category": "farm retail",
+  "note": "Agway store"
+ },
+ {
+  "id": 14300,
+  "heavy_equipment": "No",
+  "category": "scaffolding",
+  "note": "Scaffold/masons"
+ },
+ {
+  "id": 14302,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "Truck group"
+ },
+ {
+  "id": 14305,
+  "heavy_equipment": "No",
+  "category": "property management",
+  "note": "Property"
+ },
+ {
+  "id": 14306,
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "note": "Material handling"
+ },
+ {
+  "id": 14316,
+  "heavy_equipment": "No",
+  "category": "unknown",
+  "note": "Unclear"
+ },
+ {
+  "id": 14319,
+  "heavy_equipment": "Yes",
+  "category": "equipment attachments",
+  "note": "Breakers for excavators"
+ },
+ {
+  "id": 14320,
+  "heavy_equipment": "No",
+  "category": "tool supply",
+  "note": "Tools"
+ },
+ {
+  "id": 14322,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Taylor Rental"
+ },
+ {
+  "id": 14333,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Rental supply"
+ },
+ {
+  "id": 14334,
+  "heavy_equipment": "Yes",
+  "category": "demolition contractor",
+  "note": "Wrecking with heavy equipment"
+ },
+ {
+  "id": 14339,
+  "heavy_equipment": "No",
+  "category": "marina",
+  "note": "Yacht club"
+ },
+ {
+  "id": 14340,
+  "heavy_equipment": "No",
+  "category": "building supply",
+  "note": "Supply"
+ },
+ {
+  "id": 14341,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Tool rental"
+ },
+ {
+  "id": 14342,
+  "heavy_equipment": "No",
+  "category": "property services",
+  "note": "Property"
+ },
+ {
+  "id": 14343,
+  "heavy_equipment": "No",
+  "category": "supply",
+  "note": "Supply"
+ },
+ {
+  "id": 14346,
+  "heavy_equipment": "No",
+  "category": "supply",
+  "note": "Supply"
+ },
+ {
+  "id": 14357,
+  "heavy_equipment": "No",
+  "category": "tool retail",
+  "note": "Tools"
+ },
+ {
+  "id": 14362,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck parts",
+  "note": "Truck parts"
+ },
+ {
+  "id": 14363,
+  "heavy_equipment": "No",
+  "category": "waterworks supply",
+  "note": "Pipe"
+ },
+ {
+  "id": 14364,
+  "heavy_equipment": "No",
+  "category": "hardware",
+  "note": "Hardware"
+ },
+ {
+  "id": 14375,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Equipment hire"
+ },
+ {
+  "id": 14376,
+  "heavy_equipment": "No",
+  "category": "imports",
+  "note": "Imports"
+ },
+ {
+  "id": 14378,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Tool rentals"
+ },
+ {
+  "id": 14379,
+  "heavy_equipment": "No",
+  "category": "scaffolding",
+  "note": "Scaffold"
+ },
+ {
+  "id": 14381,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "Fleet trucks"
+ },
+ {
+  "id": 14383,
+  "heavy_equipment": "No",
+  "category": "dumpster rental",
+  "note": "Dumpster"
+ },
+ {
+  "id": 14384,
+  "heavy_equipment": "Yes",
+  "category": "equipment attachments",
+  "note": "Attachments"
+ },
+ {
+  "id": 14385,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "Earthworks rentals"
+ },
+ {
+  "id": 14386,
+  "heavy_equipment": "No",
+  "category": "hvac",
+  "note": "Boilers"
+ },
+ {
+  "id": 14388,
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment parts",
+  "note": "Equipment parts"
+ },
+ {
+  "id": 14392,
+  "heavy_equipment": "No",
+  "category": "fire apparatus",
+  "note": "Fire trucks"
+ },
+ {
+  "id": 14398,
+  "heavy_equipment": "No",
+  "category": "pumps",
+  "note": "Sewer pumps"
+ },
+ {
+  "id": 14407,
+  "heavy_equipment": "No",
+  "category": "av production",
+  "note": "Production"
+ },
+ {
+  "id": 14409,
+  "heavy_equipment": "No",
+  "category": "plumbing supply",
+  "note": "Plumbing"
+ },
+ {
+  "id": 14425,
+  "heavy_equipment": "No",
+  "category": "services",
+  "note": "Unclear"
+ },
+ {
+  "id": 14426,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Rentals"
+ },
+ {
+  "id": 14428,
+  "heavy_equipment": "No",
+  "category": "machining",
+  "note": "Machine shop"
+ },
+ {
+  "id": 14432,
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "note": "Grand Rental Station"
+ },
+ {
+  "id": 14437,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck repair",
+  "note": "Truck repair"
+ },
+ {
+  "id": 14440,
+  "heavy_equipment": "No",
+  "category": "hardware",
+  "note": "Hardware"
+ },
+ {
+  "id": 14442,
+  "heavy_equipment": "No",
+  "category": "hvac",
+  "note": "Heating"
+ },
+ {
+  "id": 14444,
+  "heavy_equipment": "No",
+  "category": "parts",
+  "note": "Unclear"
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "id": 5072,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck/equipment dealer",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5080,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment dealer",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5089,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "machine shop",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5094,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5097,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5105,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "general contractor",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5109,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5111,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5116,
+  "domain": "ubequipment.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment dealer",
+  "us_based": "unknown",
+  "note": "kept existing; name matches domain; search budget exhausted; unverified"
+ },
+ {
+  "id": 5118,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "tool supplier",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5124,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift service",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5127,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck/equipment buyer",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5128,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift service",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5129,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5132,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5137,
+  "domain": "us-ac.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC distributor",
+  "us_based": "unknown",
+  "note": "kept existing; name matches domain; search budget exhausted; unverified"
+ },
+ {
+  "id": 5138,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5140,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "rental (possibly party rental)",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5146,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift repair",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5149,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "thrift store",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5151,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "auto machine shop",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5152,
+  "domain": "vasquezpartyrental.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "kept existing; name matches domain; search budget exhausted; unverified"
+ },
+ {
+  "id": 5156,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5158,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5159,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "agronomy/farm supply",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5161,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5168,
+  "domain": "valpacsales.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "sales/distributor",
+  "us_based": "unknown",
+  "note": "kept existing; name matches domain; search budget exhausted; unverified"
+ },
+ {
+  "id": 5173,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag/compact tractor dealer",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5178,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party supplies",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5186,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "vending machines",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5189,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC repair",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5191,
+  "domain": "victorvilletents.wixsite.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party/tent rental",
+  "us_based": "unknown",
+  "note": "kept existing; name matches domain; search budget exhausted; unverified"
+ },
+ {
+  "id": 5195,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5199,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "supply store",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ },
+ {
+  "id": 5204,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "no search possible; search budget exhausted; unverified"
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "id": 11797,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11801,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "tree service/crane",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11802,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "yes",
+  "note": "unverified: web search budget exhausted; name says Minnesota"
+ },
+ {
+  "id": 11817,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11820,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11822,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11823,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11828,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11835,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11838,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "material handling",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11852,
+  "domain": "gkrental.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted; domain plausibly matches G&K"
+ },
+ {
+  "id": 11858,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "industrial supply",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted; wrighttool.com likely other company"
+ },
+ {
+  "id": 11873,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11874,
+  "domain": "55rental.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted; domain plausibly matches Highway 55"
+ },
+ {
+  "id": 11879,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11886,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11900,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11914,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11918,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11920,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "machine shop supply",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11923,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11924,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11925,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11926,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11929,
+  "domain": "mcsales.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "tool & safety supply",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted; MC Sales plausibly same"
+ },
+ {
+  "id": 11931,
+  "domain": "saintpaulmntreeremoval.wordpress.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "tree service/crane",
+  "us_based": "yes",
+  "note": "unverified: web search budget exhausted; wordpress builder site kept"
+ },
+ {
+  "id": 11932,
+  "domain": "metrotree.godaddysites.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "tree service",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted; godaddysites builder site kept"
+ },
+ {
+  "id": 11943,
+  "domain": "mnaggroup.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "yes",
+  "note": "unverified: web search budget exhausted; domain matches Minnesota Ag Group"
+ },
+ {
+  "id": 11951,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11952,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11957,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11963,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11966,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "hardware & rental",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11968,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane & hoist",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ },
+ {
+  "id": 11971,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor/equipment dealer",
+  "us_based": "unknown",
+  "note": "unverified: web search budget exhausted"
+ }
+]

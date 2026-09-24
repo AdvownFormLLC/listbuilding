@@ -1,0 +1,352 @@
+[
+ {
+  "id": 1252,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor/equipment dealer",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1255,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment dealer",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1256,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment & trailer dealer",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1257,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment sales",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1260,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1261,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1262,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "trailer rental",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1269,
+  "domain": "arcb.com",
+  "status": "verified_existing",
+  "confidence": "medium",
+  "heavy_equipment": "Yes",
+  "category": "used truck & trailer sales",
+  "us_based": "yes",
+  "note": "ABF Freight is ArcBest subsidiary (arcb.com); from prior knowledge, no search"
+ },
+ {
+  "id": 1270,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "tree service/arborist",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1277,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "automotive shop equipment",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1278,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "construction supply",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1279,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment dealer",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1283,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment dealer",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1286,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1287,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1289,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "tractor services",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1299,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment",
+  "us_based": "unknown",
+  "note": "prntscr.com is a screenshot host, not company; web search budget exhausted; not researched"
+ },
+ {
+  "id": 1300,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "automotive machine shop",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1304,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1305,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1307,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1312,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1313,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "skid steer rental",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1315,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "crane operator training",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1325,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1334,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "AV/sound rental",
+  "us_based": "unknown",
+  "note": "gatheringguide.com likely directory, unverified; web search budget exhausted; not researched"
+ },
+ {
+  "id": 1337,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "towing/truck rental",
+  "us_based": "unknown",
+  "note": "hinessc.com mismatch, unverified; web search budget exhausted; not researched"
+ },
+ {
+  "id": 1349,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "truck and trailer",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1350,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1351,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1352,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "feed store",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1353,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor dealer",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1358,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment dealer",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1360,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ },
+ {
+  "id": 1361,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor & implement dealer",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not researched; qualified by name only"
+ }
+]

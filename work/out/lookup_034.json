@@ -1,0 +1,352 @@
+[
+ {
+  "id": 4019,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4023,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4026,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4028,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "building supply",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4031,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "outdoor power equipment",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4032,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4035,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "powersports dealer",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4040,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4041,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "tool repair",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4043,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched. Current buydozers.com unverified."
+ },
+ {
+  "id": 4052,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4053,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4056,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "steel supplier",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4057,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4059,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4064,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4077,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "truck & RV repair",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4086,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4088,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck equipment",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched. Current dieselemissionsservice.com unverified."
+ },
+ {
+  "id": 4090,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck & equipment service",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched. Current usacommetix.top looks spam; dropped."
+ },
+ {
+  "id": 4091,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "lift service",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4092,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4093,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "rental",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4094,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4103,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general tool rental",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched. Current toolrentalplace.com unverified."
+ },
+ {
+  "id": 4105,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4108,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4111,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4112,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4113,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4119,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "city park/ranch",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched. Current domain is Walnut Creek city site."
+ },
+ {
+  "id": 4122,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4125,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4132,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy haul",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4133,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift parts",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "id": 13720,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13721,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer/service",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13722,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck repair",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13726,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13728,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "power equipment dealer",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13734,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "skid steer rental",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13744,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "machine shop",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13745,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13747,
+  "domain": "rjutvsales.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "powersports/UTV dealer",
+  "us_based": "unknown",
+  "note": "kept existing unverified; web search budget exhausted; not verified"
+ },
+ {
+  "id": 13752,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13753,
+  "domain": "lowes.com",
+  "status": "found",
+  "confidence": "medium",
+  "heavy_equipment": "No",
+  "category": "general retail",
+  "us_based": "yes",
+  "note": "Lowe's brand domain (known); web search budget exhausted; not verified"
+ },
+ {
+  "id": 13754,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13760,
+  "domain": "manheim.com",
+  "status": "replaced",
+  "confidence": "medium",
+  "heavy_equipment": "No",
+  "category": "auto auction",
+  "us_based": "yes",
+  "note": "Manheim brand domain (known); web search budget exhausted; not verified"
+ },
+ {
+  "id": 13762,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13764,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13771,
+  "domain": "mzequipment.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "yes",
+  "note": "MZ initials match name; web search budget exhausted; not verified"
+ },
+ {
+  "id": 13773,
+  "domain": "mitforklift.com",
+  "status": "found",
+  "confidence": "medium",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "yes",
+  "note": "Mitsubishi forklift brand domain (known); web search budget exhausted; not verified"
+ },
+ {
+  "id": 13777,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13778,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13782,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13784,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13785,
+  "domain": "uskrane.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "yes",
+  "note": "kept existing unverified; web search budget exhausted; not verified"
+ },
+ {
+  "id": 13789,
+  "domain": "njresupply.net",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "restaurant equipment",
+  "us_based": "yes",
+  "note": "NJ restaurant equipment supply matches; web search budget exhausted; not verified"
+ },
+ {
+  "id": 13796,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13799,
+  "domain": "njmobilemechanic.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "mobile diesel repair",
+  "us_based": "yes",
+  "note": "kept existing unverified; web search budget exhausted; not verified"
+ },
+ {
+  "id": 13800,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment services",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13805,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13806,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13812,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13813,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13814,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13815,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13816,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "construction supply",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ },
+ {
+  "id": 13818,
+  "domain": "generatorrentalnortheast.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "generator rental",
+  "us_based": "yes",
+  "note": "kept existing unverified; web search budget exhausted; not verified"
+ },
+ {
+  "id": 13820,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "lift/forklift service",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; not verified"
+ }
+]

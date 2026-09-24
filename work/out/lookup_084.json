@@ -1,0 +1,352 @@
+[
+ {
+  "id": 11445,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "truck equipment upfitter",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11453,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11459,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11466,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11469,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment dealer",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11471,
+  "domain": "towmycarannarbor.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "towing",
+  "us_based": "yes",
+  "note": "unverified (search budget exhausted); towing domain plausible"
+ },
+ {
+  "id": 11476,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "farm supply store",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11479,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "industrial sales",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11484,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11501,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "medical equipment",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11503,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11504,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11505,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11506,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11507,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "power equipment supply",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11509,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11511,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11512,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11514,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "lift equipment",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11516,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11517,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "machinery dealer",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11518,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor dealer",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11519,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment rental",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11533,
+  "domain": "rainbowsystem.com",
+  "status": "verified_existing",
+  "confidence": "medium",
+  "heavy_equipment": "No",
+  "category": "vacuum manufacturer",
+  "us_based": "yes",
+  "note": "Rexair makes Rainbow vacuums; not searched (budget exhausted)"
+ },
+ {
+  "id": 11537,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "rental",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11539,
+  "domain": "rvrcty.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment dealer",
+  "us_based": "yes",
+  "note": "unverified (search budget exhausted); abbreviation matches River City"
+ },
+ {
+  "id": 11541,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "excavation contractor",
+  "us_based": "yes",
+  "note": "soloist.ai unrelated; search budget exhausted; not researched"
+ },
+ {
+  "id": 11546,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11547,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11552,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11563,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "yes",
+  "note": "Stihl dealer-locator page removed; search budget exhausted; not researched"
+ },
+ {
+  "id": 11566,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment rental",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11570,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment tires",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11576,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment dealer",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 11577,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ }
+]

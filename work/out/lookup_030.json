@@ -1,0 +1,352 @@
+[
+ {
+  "id": 3592,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3597,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party supplies",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3606,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3612,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment dealer",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; kdreq.com unverified, not kept"
+ },
+ {
+  "id": 3618,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3619,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "fastener supply",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3625,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "compact tractor dealer",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3628,
+  "domain": "kjspartyrentals.square.site",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "Square site matches name; unverified, search budget exhausted"
+ },
+ {
+  "id": 3630,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3631,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3632,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "medical equipment",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3633,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "medical equipment",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3639,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3644,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3648,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "scaffolding rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3653,
+  "domain": "lswatertrucks.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment rental",
+  "us_based": "unknown",
+  "note": "L&S water trucks plausible; unverified, search budget exhausted"
+ },
+ {
+  "id": 3654,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment rental",
+  "us_based": "unknown",
+  "note": "Current domain looks like typo of lswatertrucks.com; unverified"
+ },
+ {
+  "id": 3656,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "feed store",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3658,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "feed store",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3659,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3660,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "pet store",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3663,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3664,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3665,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "truck dealer",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3667,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3670,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3672,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3674,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3675,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3676,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general tool rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3678,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3679,
+  "domain": "le-rentals.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "le = Lakeside Equipment plausible; unverified, search budget exhausted"
+ },
+ {
+  "id": 3680,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3683,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ },
+ {
+  "id": 3689,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted"
+ }
+]

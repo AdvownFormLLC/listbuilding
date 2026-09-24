@@ -1,0 +1,352 @@
+[
+ {
+  "id": 16628,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16631,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment company",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16644,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment company",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16650,
+  "domain": "lowcountry-mobile-mechanic.square.site",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "small engine repair",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; current domain retained"
+ },
+ {
+  "id": 16651,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment company",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16658,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16663,
+  "domain": "scfarmsales.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; current domain retained"
+ },
+ {
+  "id": 16691,
+  "domain": "sctractor.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "compact tractor dealer",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; current domain retained"
+ },
+ {
+  "id": 16694,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16701,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16706,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16707,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16713,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16714,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "farm supply",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16716,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16720,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "farm supply",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16724,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16726,
+  "domain": "lifttruckcapacitycalculator.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift engineering services",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; current domain retained"
+ },
+ {
+  "id": 16731,
+  "domain": "rdcranes.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane dealer",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; current domain retained"
+ },
+ {
+  "id": 16735,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16736,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16738,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16755,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16761,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16762,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment dealer",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16764,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16773,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16778,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "trenching equipment manufacturer",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16786,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16787,
+  "domain": "rentle.store",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "lawn care and rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; current domain retained"
+ },
+ {
+  "id": 16791,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment dealer",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16792,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; qualification inferred from name"
+ },
+ {
+  "id": 16793,
+  "domain": "bestusedskidsteer.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; current domain retained"
+ },
+ {
+  "id": 16801,
+  "domain": "okeefeimplement.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; current domain retained"
+ },
+ {
+  "id": 16804,
+  "domain": "automotivecompanyinc.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; current domain retained"
+ }
+]

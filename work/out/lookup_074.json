@@ -1,0 +1,352 @@
+[
+ {
+  "id": 9814,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9820,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9831,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9833,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "industrial supply",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9835,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9842,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9848,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9852,
+  "domain": "polarisoflagrange.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "powersports/equipment dealer",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; kept current domain unverified"
+ },
+ {
+  "id": 9862,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general tool rental",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9866,
+  "domain": "breauxbridgerental.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "outdoor power & rental",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; kept current domain unverified"
+ },
+ {
+  "id": 9867,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9869,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "restaurant equipment",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9870,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general tool rental",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9871,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9874,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9875,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9876,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9882,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9883,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "trailer rental",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9886,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9890,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9892,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9898,
+  "domain": "marshmaster.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "amphibious equipment manufacturer",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; kept current domain unverified"
+ },
+ {
+  "id": 9899,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9901,
+  "domain": "mybigmower.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; kept current domain unverified"
+ },
+ {
+  "id": 9911,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9917,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "construction materials",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9921,
+  "domain": "ep-er.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "oilfield pipe/equipment rental",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; kept current domain unverified"
+ },
+ {
+  "id": 9925,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9930,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9934,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "used equipment dealer",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9935,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9947,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9948,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment services",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ },
+ {
+  "id": 9952,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; category from name only"
+ }
+]

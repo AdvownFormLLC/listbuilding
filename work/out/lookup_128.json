@@ -1,0 +1,352 @@
+[
+ {
+  "id": 18668,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18669,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18670,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18672,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general rental",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18678,
+  "domain": "underwoodequipmentcompany.godaddysites.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "yes",
+  "note": "builder site kept from input; search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18692,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "yes",
+  "note": "docs.google.com is not own site; search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18695,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18696,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment service",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18699,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "welding services",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18700,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18702,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18703,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18709,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "farm & ranch supply",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18710,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18716,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor dealer",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18722,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor dealer",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18731,
+  "domain": "wctkubota.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "compact tractor dealer",
+  "us_based": "yes",
+  "note": "kept input; WC Tractor Kubota name fit; search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18733,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18735,
+  "domain": "wtabilene.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "trailer dealer",
+  "us_based": "yes",
+  "note": "kept input; Western Trailer Abilene fit; search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18736,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18740,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18743,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18745,
+  "domain": "wmcoequip.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment dealer",
+  "us_based": "yes",
+  "note": "kept input; Williamson Co abbreviation fit; search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18749,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "hardware store",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18753,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18756,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "supply",
+  "us_based": "unknown",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18760,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "rental",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18764,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18766,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18768,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "auto/truck parts supply",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18770,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18776,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment manufacturer",
+  "us_based": "unknown",
+  "note": "only domain is Chinese .cn; non-US; search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18777,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ },
+ {
+  "id": 18778,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "junk record",
+  "us_based": "unknown",
+  "note": "name appears to be garbage entry"
+ },
+ {
+  "id": 18779,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "yes",
+  "note": "search budget exhausted; unverified, re-research"
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "id": 11080,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "industrial machinery dealer",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11083,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11084,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11086,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "spring manufacturer",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11088,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11090,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11100,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11103,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11110,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "cutlery",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11115,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "construction materials",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11116,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11133,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general tool rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11138,
+  "domain": "cedealer.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "yes",
+  "note": "kept existing; search budget exhausted; not verified"
+ },
+ {
+  "id": 11152,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "feed store",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11154,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11161,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11164,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11168,
+  "domain": "concordrents.co",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "rental",
+  "us_based": "unknown",
+  "note": ".co not necessarily non-US; kept; search budget exhausted; not verified"
+ },
+ {
+  "id": 11170,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment",
+  "us_based": "unknown",
+  "note": "generic name; search budget exhausted; not verified"
+ },
+ {
+  "id": 11171,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11178,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "hardware/outdoor power equipment",
+  "us_based": "unknown",
+  "note": "stihldealer.net is brand locator; search budget exhausted; not verified"
+ },
+ {
+  "id": 11180,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11181,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11182,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11184,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11188,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "machinery dealer",
+  "us_based": "unknown",
+  "note": "ebay rejected; search budget exhausted; not verified"
+ },
+ {
+  "id": 11195,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11198,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11199,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11200,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11214,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "hardware store",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11219,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11227,
+  "domain": "infoequipmentville.wixsite.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment dealer",
+  "us_based": "yes",
+  "note": "own wixsite kept; custom domain unchecked; search budget exhausted; not verified"
+ },
+ {
+  "id": 11231,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "excavation contractor",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11239,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "search budget exhausted; not verified"
+ }
+]

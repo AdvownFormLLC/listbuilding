@@ -1,0 +1,352 @@
+[
+ {
+  "id": 10586,
+  "domain": "rentalandsupply.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; kept current domain"
+ },
+ {
+  "id": 10589,
+  "domain": "rsturf.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "turf equipment sharpening",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; kept current domain"
+ },
+ {
+  "id": 10590,
+  "domain": "reqinc.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "medical equipment",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; kept current domain"
+ },
+ {
+  "id": 10593,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general tool rental",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10601,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10602,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "machine shop",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10606,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "battery supplier",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10611,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10612,
+  "domain": "proctorlandscapesupply.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general equipment rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; kept current domain"
+ },
+ {
+  "id": 10619,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck equipment",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10622,
+  "domain": "lothropcompanies.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "scaffolding rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; kept current domain"
+ },
+ {
+  "id": 10625,
+  "domain": "theniceco.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment dealer",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; kept current domain"
+ },
+ {
+  "id": 10632,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10633,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10634,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "dumpster rental",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10636,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10640,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "farm stand",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10644,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10659,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10660,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment repair",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10663,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10673,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10677,
+  "domain": "chris4repair.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; kept current domain"
+ },
+ {
+  "id": 10682,
+  "domain": "hampshirecountyrentals.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general equipment rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; kept current domain"
+ },
+ {
+  "id": 10685,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10686,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment dealer",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10687,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10694,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10702,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10708,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment dealer",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10710,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "lumber/building products",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10718,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "tool retail",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10719,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10726,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted; qualification from name only"
+ },
+ {
+  "id": 10733,
+  "domain": "wmape.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; kept current domain"
+ }
+]

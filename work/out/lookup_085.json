@@ -1,0 +1,352 @@
+[
+ {
+  "id": 11578,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11582,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11592,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11593,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11594,
+  "domain": "steweng.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "note": "UNVERIFIED: kept existing; web search budget exhausted, no lookup done",
+  "heavy_equipment": "Unsure",
+  "category": "industrial equipment sales",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11603,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11605,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "No",
+  "category": "towing",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11607,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11618,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment repair",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11619,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "Yes",
+  "category": "tractor dealer",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11627,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11647,
+  "domain": "urentit.net",
+  "status": "verified_existing",
+  "confidence": "low",
+  "note": "UNVERIFIED: kept existing; web search budget exhausted, no lookup done",
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11651,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11657,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11664,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "Unsure",
+  "category": "equipment dealer",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11665,
+  "domain": "michigantractor.net",
+  "status": "verified_existing",
+  "confidence": "low",
+  "note": "UNVERIFIED: kept existing; web search budget exhausted, no lookup done",
+  "heavy_equipment": "Unsure",
+  "category": "equipment dealer",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11673,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11693,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11702,
+  "domain": "web.abcwmc.org",
+  "status": "verified_existing",
+  "confidence": "low",
+  "note": "UNVERIFIED: kept existing; web search budget exhausted, no lookup done",
+  "heavy_equipment": "Yes",
+  "category": "excavation contractor",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11708,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "Unsure",
+  "category": "general tool rental",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11710,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "Unsure",
+  "category": "general tool rental",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11716,
+  "domain": "a-zrental.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "note": "UNVERIFIED: kept existing; web search budget exhausted, no lookup done",
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11717,
+  "domain": "atozrentalmankato.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "note": "UNVERIFIED: kept existing; web search budget exhausted, no lookup done",
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11730,
+  "domain": "akequipment.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "note": "UNVERIFIED: kept existing; web search budget exhausted, no lookup done",
+  "heavy_equipment": "Yes",
+  "category": "material handling dealer",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11743,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "No",
+  "category": "grain/feed",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11752,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "Yes",
+  "category": "truck equipment dealer",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11754,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "No",
+  "category": "AV rental",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11756,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11757,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11761,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "Unsure",
+  "category": "equipment supply",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11767,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "Unsure",
+  "category": "equipment dealer",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11771,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11774,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11779,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "note": "Not searched: web search budget exhausted; qualification from name only",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown"
+ },
+ {
+  "id": 11789,
+  "domain": "mplso2.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "note": "UNVERIFIED: kept existing; web search budget exhausted, no lookup done",
+  "heavy_equipment": "No",
+  "category": "welding gas supply",
+  "us_based": "unknown"
+ }
+]

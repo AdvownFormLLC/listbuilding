@@ -1,0 +1,352 @@
+[
+ {
+  "id": 8413,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8417,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "construction supply",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8432,
+  "domain": "uswatercompany.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "water treatment",
+  "us_based": "yes",
+  "note": "Unverified; Culligan dealer likely operates as US Water Company"
+ },
+ {
+  "id": 8433,
+  "domain": "cranepi.com",
+  "status": "verified_existing",
+  "confidence": "medium",
+  "heavy_equipment": "No",
+  "category": "currency processing equipment",
+  "us_based": "yes",
+  "note": "Cummins Allison acquired by Crane Payment Innovations; unverified by search"
+ },
+ {
+  "id": 8437,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "used equipment dealer",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8439,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8442,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8444,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "truck accessories/lifts",
+  "us_based": "yes",
+  "note": "rhinolinings.com is national brand site; web search budget exhausted; not researched"
+ },
+ {
+  "id": 8447,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8450,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8455,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8459,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment manufacturer",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8463,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8465,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "rental",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8470,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8472,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8474,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8476,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8477,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment rental",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8481,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "excavation contractor/equipment rental",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8488,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8490,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane rental",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8491,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8495,
+  "domain": "thesweeper.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "floor cleaning equipment",
+  "us_based": "yes",
+  "note": "Unverified; sweeper dealer domain plausibly theirs"
+ },
+ {
+  "id": 8498,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor repair",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8500,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor restoration/repair",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8502,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "compact tractor dealer",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8504,
+  "domain": "finnrv.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "RV dealer",
+  "us_based": "yes",
+  "note": "Unverified; finnrv plausibly Finnegans RV"
+ },
+ {
+  "id": 8520,
+  "domain": "frankssmallenginerepair.weebly.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "yes",
+  "note": "Weebly builder site matching name; unverified"
+ },
+ {
+  "id": 8521,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8522,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8526,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "rental",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8541,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8542,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ },
+ {
+  "id": 8546,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "compact tractor dealer",
+  "us_based": "yes",
+  "note": "web search budget exhausted; not researched"
+ }
+]

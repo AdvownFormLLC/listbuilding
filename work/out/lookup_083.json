@@ -1,0 +1,352 @@
+[
+ {
+  "id": 11242,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11249,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11252,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11253,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11256,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "yes",
+  "note": "search budget exhausted; not verified; Howell MI per name"
+ },
+ {
+  "id": 11258,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "forklift tires",
+  "us_based": "unknown",
+  "note": "jambestone subdomain doubtful; search budget exhausted; not verified"
+ },
+ {
+  "id": 11259,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "forklift training",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11271,
+  "domain": "ftlgr.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "us_based": "yes",
+  "note": "Kept existing; plausible FTL Grand Rapids; search budget exhausted; not verified"
+ },
+ {
+  "id": 11272,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11279,
+  "domain": "gm.com",
+  "status": "verified_existing",
+  "confidence": "medium",
+  "heavy_equipment": "No",
+  "category": "auto manufacturing plant",
+  "us_based": "yes",
+  "note": "GM parent domain; auto plant, not equipment business"
+ },
+ {
+  "id": 11287,
+  "domain": "gordonsrental.wixsite.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "rental",
+  "us_based": "unknown",
+  "note": "Kept existing Wix site; search budget exhausted; not verified"
+ },
+ {
+  "id": 11295,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "yes",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11306,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "meters and parts",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11308,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "excavation contractor",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11311,
+  "domain": "hamtramck-tool-rentals.pointofrentalcloud.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "general tool rental",
+  "us_based": "yes",
+  "note": "Kept Point of Rental storefront subdomain; search budget exhausted; not verified"
+ },
+ {
+  "id": 11336,
+  "domain": "ib-rentals.pointofrentalcloud.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "general tool rental",
+  "us_based": "unknown",
+  "note": "Kept Point of Rental storefront subdomain; search budget exhausted; not verified"
+ },
+ {
+  "id": 11343,
+  "domain": "icegatesystems.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "gate/access control systems",
+  "us_based": "unknown",
+  "note": "ICE acronym plausible; search budget exhausted; not verified"
+ },
+ {
+  "id": 11346,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11348,
+  "domain": "jandjoutdoorpower.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "farm/outdoor power equipment",
+  "us_based": "unknown",
+  "note": "Kept existing, J&J plausible; search budget exhausted; not verified"
+ },
+ {
+  "id": 11354,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "contractor",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11356,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11360,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift repair",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11363,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "junk removal/dumpster",
+  "us_based": "unknown",
+  "note": "trailersbusters.com mismatch; search budget exhausted; not verified"
+ },
+ {
+  "id": 11370,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11383,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "industrial tool retail",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11393,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11394,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11395,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "general tool rental",
+  "us_based": "yes",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11406,
+  "domain": "lwshauling.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "trailer rental/hauling",
+  "us_based": "unknown",
+  "note": "Kept existing, LW's name match; search budget exhausted; not verified"
+ },
+ {
+  "id": 11410,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "machine shop",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11416,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment dealer",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11419,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not verified"
+ },
+ {
+  "id": 11433,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "shelbytwprental.com unverified match; search budget exhausted; not verified"
+ },
+ {
+  "id": 11436,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "rental",
+  "us_based": "unknown",
+  "note": "mtrental.com unverified match; search budget exhausted; not verified"
+ },
+ {
+  "id": 11437,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "yes",
+  "note": "search budget exhausted; not verified"
+ }
+]

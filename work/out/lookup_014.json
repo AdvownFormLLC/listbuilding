@@ -1,0 +1,352 @@
+[
+ {
+  "id": 1797,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1804,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1811,
+  "domain": "toolrentshop.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "general tool rental",
+  "us_based": "unknown",
+  "note": "TRS likely = Tool Rent Shop; unverified, search budget exhausted"
+ },
+ {
+  "id": 1823,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1829,
+  "domain": "wackerneuson.com",
+  "status": "found",
+  "confidence": "medium",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment manufacturer",
+  "us_based": "yes",
+  "note": "Known brand domain; not search-verified, budget exhausted"
+ },
+ {
+  "id": 1831,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC repair",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1833,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment dealer",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1834,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment dealer",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1837,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1841,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "farm and home supply",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1845,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1848,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "camera rental",
+  "us_based": "unknown",
+  "note": "sharegrid.com is a rental marketplace, not own site; no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1851,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general tool rental",
+  "us_based": "unknown",
+  "note": "address-named listing, likely brand location; no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1853,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general tool rental",
+  "us_based": "unknown",
+  "note": "address-named listing, likely brand location; no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1855,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general tool rental",
+  "us_based": "unknown",
+  "note": "address-named listing, likely brand location; no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1857,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1863,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general tool rental",
+  "us_based": "unknown",
+  "note": "address-named listing, likely brand location; no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1866,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general tool rental",
+  "us_based": "unknown",
+  "note": "address-named listing, likely brand location; no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1867,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "construction contractor",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1869,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general tool rental",
+  "us_based": "unknown",
+  "note": "address-named listing, likely brand location; no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1872,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general tool rental",
+  "us_based": "unknown",
+  "note": "address-named listing, likely brand location; no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1876,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "truck and trailer repair",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1877,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1878,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1879,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1881,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1885,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "dumpster/container rental",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1886,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1891,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1892,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "building supply",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1894,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1898,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1914,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment sales",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1917,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "scaffolding rental",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ },
+ {
+  "id": 1920,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment sales",
+  "us_based": "unknown",
+  "note": "no search: session web-search budget exhausted"
+ }
+]

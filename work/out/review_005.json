@@ -1,0 +1,1502 @@
+[
+ {
+  "id": 5496,
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5498,
+  "heavy_equipment": "No",
+  "category": "trailer rental",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5503,
+  "heavy_equipment": "Yes",
+  "category": "forklift/lift equipment",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5507,
+  "heavy_equipment": "No",
+  "category": "manufacturing",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5509,
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5512,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck parts",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5514,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5515,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5520,
+  "heavy_equipment": "No",
+  "category": "hardware store",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5527,
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5529,
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5535,
+  "heavy_equipment": "No",
+  "category": "locksmith",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5546,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5547,
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5548,
+  "heavy_equipment": "No",
+  "category": "trailer dealer",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5549,
+  "heavy_equipment": "No",
+  "category": "medical clinic",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5551,
+  "heavy_equipment": "No",
+  "category": "hardware store",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5552,
+  "heavy_equipment": "No",
+  "category": "trailer dealer",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5553,
+  "heavy_equipment": "No",
+  "category": "hardware store",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5554,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5556,
+  "heavy_equipment": "Yes",
+  "category": "equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5558,
+  "heavy_equipment": "No",
+  "category": "hardware store",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5559,
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment parts",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5560,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5561,
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5562,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5567,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5568,
+  "heavy_equipment": "No",
+  "category": "trailer rental",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5569,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5570,
+  "heavy_equipment": "No",
+  "category": "feed store",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5582,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5592,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5595,
+  "heavy_equipment": "No",
+  "category": "industrial supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5600,
+  "heavy_equipment": "Yes",
+  "category": "excavation contractor",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5601,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5602,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5607,
+  "heavy_equipment": "No",
+  "category": "trailer rental",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5613,
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment attachments",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5617,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5620,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5622,
+  "heavy_equipment": "No",
+  "category": "safety supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5623,
+  "heavy_equipment": "No",
+  "category": "trailer dealer",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5625,
+  "heavy_equipment": "No",
+  "category": "car dealer",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5626,
+  "heavy_equipment": "Yes",
+  "category": "machine control dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5627,
+  "heavy_equipment": "No",
+  "category": "ski shop",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5628,
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5630,
+  "heavy_equipment": "No",
+  "category": "rail trackwork",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5631,
+  "heavy_equipment": "No",
+  "category": "scrap metal",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5632,
+  "heavy_equipment": "No",
+  "category": "industrial supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5634,
+  "heavy_equipment": "No",
+  "category": "ranch supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5635,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5639,
+  "heavy_equipment": "No",
+  "category": "tool cases",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5640,
+  "heavy_equipment": "No",
+  "category": "playground retail",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5646,
+  "heavy_equipment": "No",
+  "category": "retail",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5647,
+  "heavy_equipment": "No",
+  "category": "tool supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5648,
+  "heavy_equipment": "No",
+  "category": "trailer rental",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5656,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5657,
+  "heavy_equipment": "No",
+  "category": "exhaust manufacturer",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5668,
+  "heavy_equipment": "No",
+  "category": "retail",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5674,
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5679,
+  "heavy_equipment": "Yes",
+  "category": "material handling dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5685,
+  "heavy_equipment": "No",
+  "category": "boiler rental",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5687,
+  "heavy_equipment": "No",
+  "category": "building supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5701,
+  "heavy_equipment": "No",
+  "category": "scaffolding",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5709,
+  "heavy_equipment": "No",
+  "category": "safety supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5711,
+  "heavy_equipment": "No",
+  "category": "industrial services",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5715,
+  "heavy_equipment": "No",
+  "category": "car dealer",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5717,
+  "heavy_equipment": "No",
+  "category": "services",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5718,
+  "heavy_equipment": "No",
+  "category": "truck export",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5724,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5726,
+  "heavy_equipment": "No",
+  "category": "car dealer",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5727,
+  "heavy_equipment": "No",
+  "category": "auto service",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5732,
+  "heavy_equipment": "No",
+  "category": "cable management",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5734,
+  "heavy_equipment": "Yes",
+  "category": "general tool rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5737,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5740,
+  "heavy_equipment": "No",
+  "category": "hardware store",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5742,
+  "heavy_equipment": "No",
+  "category": "HVAC",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5744,
+  "heavy_equipment": "No",
+  "category": "tool supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5746,
+  "heavy_equipment": "No",
+  "category": "hardware store",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5751,
+  "heavy_equipment": "No",
+  "category": "scaffolding",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5754,
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment manufacturer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5760,
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5767,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5768,
+  "heavy_equipment": "No",
+  "category": "services",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5780,
+  "heavy_equipment": "Yes",
+  "category": "general tool rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5781,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5786,
+  "heavy_equipment": "No",
+  "category": "scrap metal",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5788,
+  "heavy_equipment": "No",
+  "category": "turf equipment dealer",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5792,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5795,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5798,
+  "heavy_equipment": "Yes",
+  "category": "general tool rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5802,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5813,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5814,
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment attachments",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5815,
+  "heavy_equipment": "No",
+  "category": "engineering",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5818,
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5821,
+  "heavy_equipment": "No",
+  "category": "services",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5825,
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5828,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5830,
+  "heavy_equipment": "No",
+  "category": "self storage",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5836,
+  "heavy_equipment": "No",
+  "category": "services",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5841,
+  "heavy_equipment": "No",
+  "category": "feed store",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5842,
+  "heavy_equipment": "No",
+  "category": "steel supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5843,
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5846,
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment attachments",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5848,
+  "heavy_equipment": "Yes",
+  "category": "material handling dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5849,
+  "heavy_equipment": "No",
+  "category": "scrap metal",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5850,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5851,
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5854,
+  "heavy_equipment": "No",
+  "category": "transportation",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5857,
+  "heavy_equipment": "No",
+  "category": "hardware store",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5858,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5864,
+  "heavy_equipment": "No",
+  "category": "industrial supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5869,
+  "heavy_equipment": "No",
+  "category": "vehicle rental",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5871,
+  "heavy_equipment": "No",
+  "category": "building supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5881,
+  "heavy_equipment": "No",
+  "category": "tool supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5889,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5890,
+  "heavy_equipment": "No",
+  "category": "luxury services",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5892,
+  "heavy_equipment": "No",
+  "category": "paving contractor",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5896,
+  "heavy_equipment": "No",
+  "category": "power equipment",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5899,
+  "heavy_equipment": "No",
+  "category": "manufacturing",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5915,
+  "heavy_equipment": "Yes",
+  "category": "general tool rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5917,
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5920,
+  "heavy_equipment": "No",
+  "category": "car dealer",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5921,
+  "heavy_equipment": "No",
+  "category": "generator rental",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5933,
+  "heavy_equipment": "No",
+  "category": "services",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5935,
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment attachments",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5936,
+  "heavy_equipment": "No",
+  "category": "entertainment",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5937,
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5940,
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5943,
+  "heavy_equipment": "No",
+  "category": "building supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5944,
+  "heavy_equipment": "No",
+  "category": "distribution",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5945,
+  "heavy_equipment": "Yes",
+  "category": "general tool rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5946,
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5949,
+  "heavy_equipment": "Yes",
+  "category": "general tool rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5951,
+  "heavy_equipment": "No",
+  "category": "plumbing supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5953,
+  "heavy_equipment": "No",
+  "category": "plumbing supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5954,
+  "heavy_equipment": "No",
+  "category": "HVAC supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5956,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5958,
+  "heavy_equipment": "No",
+  "category": "tree service",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5972,
+  "heavy_equipment": "No",
+  "category": "tool & die",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5976,
+  "heavy_equipment": "No",
+  "category": "nonprofit",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5978,
+  "heavy_equipment": "No",
+  "category": "engine manufacturer",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5981,
+  "heavy_equipment": "Yes",
+  "category": "general tool rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 5982,
+  "heavy_equipment": "No",
+  "category": "building supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5984,
+  "heavy_equipment": "No",
+  "category": "building supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5988,
+  "heavy_equipment": "No",
+  "category": "building supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5989,
+  "heavy_equipment": "No",
+  "category": "scaffolding",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 5993,
+  "heavy_equipment": "No",
+  "category": "building supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6000,
+  "heavy_equipment": "No",
+  "category": "HVAC supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6002,
+  "heavy_equipment": "No",
+  "category": "industrial",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6003,
+  "heavy_equipment": "No",
+  "category": "air compressor rental",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6004,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6007,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6009,
+  "heavy_equipment": "No",
+  "category": "agriculture",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6012,
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6013,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6014,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6026,
+  "heavy_equipment": "Yes",
+  "category": "general tool rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6028,
+  "heavy_equipment": "No",
+  "category": "fleet services",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6043,
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment attachments",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6045,
+  "heavy_equipment": "No",
+  "category": "farm supply co-op",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6050,
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6051,
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6054,
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6059,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6067,
+  "heavy_equipment": "No",
+  "category": "services",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6068,
+  "heavy_equipment": "No",
+  "category": "industrial supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6072,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6080,
+  "heavy_equipment": "No",
+  "category": "trailer dealer",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6083,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6090,
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6098,
+  "heavy_equipment": "No",
+  "category": "hardware rental",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6107,
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment repair",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6114,
+  "heavy_equipment": "No",
+  "category": "auto parts",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6119,
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6120,
+  "heavy_equipment": "No",
+  "category": "HVAC rental",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6121,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6125,
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6137,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6138,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6146,
+  "heavy_equipment": "No",
+  "category": "building supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6147,
+  "heavy_equipment": "Yes",
+  "category": "general tool rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6162,
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6165,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6166,
+  "heavy_equipment": "No",
+  "category": "trailer dealer",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6168,
+  "heavy_equipment": "No",
+  "category": "production rental",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6176,
+  "heavy_equipment": "No",
+  "category": "water treatment",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6180,
+  "heavy_equipment": "No",
+  "category": "generators",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6220,
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6221,
+  "heavy_equipment": "No",
+  "category": "scaffolding",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6223,
+  "heavy_equipment": "No",
+  "category": "dumpster rental",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6226,
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6229,
+  "heavy_equipment": "No",
+  "category": "tool supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6233,
+  "heavy_equipment": "No",
+  "category": "saw blades",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6235,
+  "heavy_equipment": "No",
+  "category": "trailer rental",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6236,
+  "heavy_equipment": "No",
+  "category": "cleaning",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6249,
+  "heavy_equipment": "No",
+  "category": "trailer dealer",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6281,
+  "heavy_equipment": "No",
+  "category": "incubators",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6282,
+  "heavy_equipment": "Yes",
+  "category": "scaffolding/industrial services",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6287,
+  "heavy_equipment": "No",
+  "category": "motorsports dealer",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6288,
+  "heavy_equipment": "No",
+  "category": "motorsports dealer",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6300,
+  "heavy_equipment": "No",
+  "category": "services",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6303,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6314,
+  "heavy_equipment": "No",
+  "category": "tool supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6320,
+  "heavy_equipment": "No",
+  "category": "tree service",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6332,
+  "heavy_equipment": "No",
+  "category": "services",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6334,
+  "heavy_equipment": "No",
+  "category": "industrial supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6354,
+  "heavy_equipment": "Yes",
+  "category": "general tool rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6358,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck parts",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6365,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6366,
+  "heavy_equipment": "No",
+  "category": "tool supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6401,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6406,
+  "heavy_equipment": "No",
+  "category": "pump services",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6417,
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6418,
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6423,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6427,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6428,
+  "heavy_equipment": "Yes",
+  "category": "general tool rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6431,
+  "heavy_equipment": "No",
+  "category": "tool supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6432,
+  "heavy_equipment": "No",
+  "category": "tool retail",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6437,
+  "heavy_equipment": "No",
+  "category": "display rental",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6438,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6439,
+  "heavy_equipment": "No",
+  "category": "mower dealer",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6440,
+  "heavy_equipment": "No",
+  "category": "scaffolding",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6443,
+  "heavy_equipment": "Yes",
+  "category": "general tool rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6459,
+  "heavy_equipment": "Yes",
+  "category": "excavation contractor",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6471,
+  "heavy_equipment": "No",
+  "category": "safety rental",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6473,
+  "heavy_equipment": "No",
+  "category": "trailer rental",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6479,
+  "heavy_equipment": "Yes",
+  "category": "general tool rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6480,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6481,
+  "heavy_equipment": "No",
+  "category": "coolers",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6498,
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6506,
+  "heavy_equipment": "No",
+  "category": "industrial supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6509,
+  "heavy_equipment": "No",
+  "category": "hardware store",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6517,
+  "heavy_equipment": "No",
+  "category": "fire protection",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6524,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6530,
+  "heavy_equipment": "No",
+  "category": "distribution",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6537,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6557,
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6562,
+  "heavy_equipment": "No",
+  "category": "plumbing/HVAC",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6564,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6565,
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6571,
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6577,
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment parts",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6586,
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment dealer",
+  "note": "name/domain indicates heavy equipment business"
+ },
+ {
+  "id": 6593,
+  "heavy_equipment": "No",
+  "category": "generators",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6594,
+  "heavy_equipment": "No",
+  "category": "generators",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6601,
+  "heavy_equipment": "No",
+  "category": "landscape supply",
+  "note": "not heavy equipment core business"
+ },
+ {
+  "id": 6603,
+  "heavy_equipment": "No",
+  "category": "trailer manufacturer",
+  "note": "not heavy equipment core business"
+ }
+]

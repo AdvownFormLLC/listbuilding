@@ -1,0 +1,352 @@
+[
+ {
+  "id": 7241,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment rental",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7252,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "turf equipment service",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7265,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "used equipment/salvage",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7266,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "distributor",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7267,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment",
+  "us_based": "yes",
+  "note": "catpumps.com is Cat Pumps, not this company; search budget exhausted"
+ },
+ {
+  "id": 7281,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7285,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor services",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7286,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7287,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "trailer rental/sales",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7290,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7293,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7300,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "yes",
+  "note": "ironlisting.com is a listing marketplace; search budget exhausted"
+ },
+ {
+  "id": 7301,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "tools",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7303,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "marine power products",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7304,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7306,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor services",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7309,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general tool rental",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7318,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift equipment",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7322,
+  "domain": "aircompsales.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "air compressor/equipment rental",
+  "us_based": "yes",
+  "note": "Unverified; ACS acronym matches Air Comp Sales; search budget exhausted"
+ },
+ {
+  "id": 7333,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift/lift dealer",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7335,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift repair",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7348,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7350,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment repair",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7357,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7371,
+  "domain": "shoemakerequipment.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "yes",
+  "note": "Unverified; kept as possible Bobcat dealer group; search budget exhausted"
+ },
+ {
+  "id": 7375,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7380,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor/equipment services",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7382,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment rental",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7390,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7402,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "store/restaurant equipment",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7404,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment leasing",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7407,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "contractor",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7413,
+  "domain": "cutsew.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "sewing room equipment",
+  "us_based": "yes",
+  "note": "Unverified; domain matches name (cut/sew); search budget exhausted"
+ },
+ {
+  "id": 7414,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "rentals",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 7435,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "overhead crane systems",
+  "us_based": "yes",
+  "note": "Not researched: web search budget exhausted"
+ }
+]

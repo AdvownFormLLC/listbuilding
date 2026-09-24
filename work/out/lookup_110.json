@@ -1,0 +1,352 @@
+[
+ {
+  "id": 15719,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift repair",
+  "us_based": "unknown",
+  "note": "No search possible; web search budget exhausted; unverified"
+ },
+ {
+  "id": 15720,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "Ambiguous name; web search budget exhausted; unverified"
+ },
+ {
+  "id": 15724,
+  "domain": "ambarr.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "traffic barricades",
+  "us_based": "yes",
+  "note": "ambarr = American Barricade abbreviation; web search budget exhausted; unverified"
+ },
+ {
+  "id": 15728,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; unverified"
+ },
+ {
+  "id": 15734,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; unverified"
+ },
+ {
+  "id": 15736,
+  "domain": "bobcatofportland.com",
+  "status": "verified_existing",
+  "confidence": "medium",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "yes",
+  "note": "Blaine Machinery operates Bobcat of Portland (prior knowledge); web search budget exhausted; unverified"
+ },
+ {
+  "id": 15739,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "yes",
+  "note": "web search budget exhausted; unverified"
+ },
+ {
+  "id": 15744,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; unverified"
+ },
+ {
+  "id": 15746,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment company",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; unverified"
+ },
+ {
+  "id": 15755,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; unverified"
+ },
+ {
+  "id": 15766,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; unverified"
+ },
+ {
+  "id": 15767,
+  "domain": "rentcats.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "yes",
+  "note": "Kept existing, match unconfirmed; web search budget exhausted; unverified"
+ },
+ {
+  "id": 15770,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "contractor equipment",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; unverified"
+ },
+ {
+  "id": 15772,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor dealer",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; unverified"
+ },
+ {
+  "id": 15773,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "yes",
+  "note": "web search budget exhausted; unverified"
+ },
+ {
+  "id": 15774,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "yes",
+  "note": "stihlusa.com is brand locator, removed; web search budget exhausted; unverified"
+ },
+ {
+  "id": 15779,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; unverified"
+ },
+ {
+  "id": 15781,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "farm",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; unverified"
+ },
+ {
+  "id": 15782,
+  "domain": "medfordtrucks.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "us_based": "yes",
+  "note": "Kept existing, match unconfirmed; web search budget exhausted; unverified"
+ },
+ {
+  "id": 15784,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; unverified"
+ },
+ {
+  "id": 15800,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; unverified"
+ },
+ {
+  "id": 15804,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment company",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; unverified"
+ },
+ {
+  "id": 15805,
+  "domain": "grental.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "general equipment rental",
+  "us_based": "yes",
+  "note": "grental plausibly General Rental; web search budget exhausted; unverified"
+ },
+ {
+  "id": 15810,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "yes",
+  "note": "web search budget exhausted; unverified"
+ },
+ {
+  "id": 15811,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "skid steer rental",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; unverified"
+ },
+ {
+  "id": 15820,
+  "domain": "highdeserteventrentals.co",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "yes",
+  "note": ".co generic TLD, name matches; web search budget exhausted; unverified"
+ },
+ {
+  "id": 15829,
+  "domain": "industrialsurplusoregon.com",
+  "status": "verified_existing",
+  "confidence": "medium",
+  "heavy_equipment": "Unsure",
+  "category": "scrap/used machinery",
+  "us_based": "yes",
+  "note": "Domain matches name 'Industrial Surplus Oregon'"
+ },
+ {
+  "id": 15836,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; unverified"
+ },
+ {
+  "id": 15840,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "web search budget exhausted; unverified"
+ },
+ {
+  "id": 15846,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "lift service",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; unverified"
+ },
+ {
+  "id": 15848,
+  "domain": "orequipmentsales.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "yes",
+  "note": "Kept existing, match unconfirmed; web search budget exhausted; unverified"
+ },
+ {
+  "id": 15855,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; unverified"
+ },
+ {
+  "id": 15856,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "skid steer rental",
+  "us_based": "unknown",
+  "note": "web search budget exhausted; unverified"
+ },
+ {
+  "id": 15863,
+  "domain": "plattequipment.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "outdoor power equipment",
+  "us_based": "yes",
+  "note": "Kept existing, match unconfirmed; web search budget exhausted; unverified"
+ },
+ {
+  "id": 15877,
+  "domain": "nwlt.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "yes",
+  "note": "nwlt = NW Lift Truck abbreviation; web search budget exhausted; unverified"
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "id": 15586,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "sales and rental (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; current ksrsales.com unverified"
+ },
+ {
+  "id": 15588,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment and motor sales (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15589,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "machine shop (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15591,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "machine shop/welding (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15594,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15610,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15612,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15613,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15615,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "skid steer rental (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15616,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15618,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15624,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "generator sales/service (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; current okgen.com unverified"
+ },
+ {
+  "id": 15628,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; current livingstonmachinery.com unverified"
+ },
+ {
+  "id": 15630,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "industrial supply (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15631,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "veterinary/farm supply (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15632,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "machine shop/engine repair (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15636,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment rental (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15638,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15646,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "dozer/earthwork contractor (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15649,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown service (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15651,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15656,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "pipeline services (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15662,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck/equipment dealer (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15664,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "material handling dealer (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15667,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "underground construction equipment sales/rental (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15668,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "feed store (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15672,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15675,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor dealer (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15677,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "construction contractor (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15684,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag implement dealer (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15691,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "used equipment dealer (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15693,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment rental (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15707,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment buyer (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted; current sites.google.com unverified"
+ },
+ {
+  "id": 15708,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment services (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ },
+ {
+  "id": 15717,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor dealer (name-based)",
+  "us_based": "unknown",
+  "note": "UNRESEARCHED: web search budget exhausted"
+ }
+]

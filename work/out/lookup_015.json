@@ -1,0 +1,352 @@
+[
+ {
+  "id": 1921,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift service",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 1923,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer/repair",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 1926,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift repair",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 1930,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 1931,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 1941,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "medical/mobility equipment",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; existing socalstairlifts.com unverified"
+ },
+ {
+  "id": 1946,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 1947,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 1952,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment sales",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 1953,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment sales",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 1958,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "towing",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 1961,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment repair/rental",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 1963,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment company",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 1964,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 1969,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "display/trailer systems",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; existing nurserytrailers.com unverified"
+ },
+ {
+  "id": 1971,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment repair",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; existing bluepeakgaragedoor.com unverified"
+ },
+ {
+  "id": 1978,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "tractor services",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 1981,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aggregate equipment dealer",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; existing aggequipment.com unverified"
+ },
+ {
+  "id": 1983,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "farm equipment supply",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 1985,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "university facility",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; existing cpp.edu unverified"
+ },
+ {
+  "id": 1988,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "feed store",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 1990,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "ag industrial manufacturing",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; existing agindustrialmanufacturing.com unverified"
+ },
+ {
+  "id": 1992,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 1993,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 1996,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 1998,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 1999,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 2000,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 2006,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "air duct cleaning",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 2009,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 2011,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "steel supply",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 2012,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "machinery",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 2018,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 2019,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, name-based classification only"
+ },
+ {
+  "id": 2020,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; existing encinitaseventrentals.com unverified"
+ }
+]

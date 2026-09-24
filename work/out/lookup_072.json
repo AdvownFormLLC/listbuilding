@@ -1,0 +1,352 @@
+[
+ {
+  "id": 9393,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "farm supply",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9405,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9410,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9414,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9429,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9441,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "hobby shop",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9467,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "automotive machine shop",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9476,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9477,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction supply/rental",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9482,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "machinery dealer",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9494,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9512,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9516,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment company",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9522,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9523,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "turf equipment parts",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9525,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9530,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9531,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9541,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck/trailer repair",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9544,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9546,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment company",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9550,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9552,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9555,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9559,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9560,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9567,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment repair",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9572,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9574,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "machinery",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9576,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9578,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9582,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9583,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "general tool rental",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9584,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ },
+ {
+  "id": 9594,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "machinery",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched. Classification from name only; retry needed."
+ }
+]

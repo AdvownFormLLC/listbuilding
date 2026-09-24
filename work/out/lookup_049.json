@@ -1,0 +1,352 @@
+[
+ {
+  "id": 5918,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 5923,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 5928,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 5931,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 5947,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 5952,
+  "domain": "ctbankruptcyattorneys.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "law firm",
+  "us_based": "yes",
+  "note": "Neil Crane CT bankruptcy firm; prior knowledge only, searches unavailable"
+ },
+ {
+  "id": 5967,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "industrial supply",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 5970,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 5974,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 5979,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 5980,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "power equipment",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 5985,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 5990,
+  "domain": "elfaonline.org",
+  "status": "verified_existing",
+  "confidence": "medium",
+  "heavy_equipment": "No",
+  "category": "trade association",
+  "us_based": "yes",
+  "note": "ELFA's known official site; prior knowledge, searches unavailable"
+ },
+ {
+  "id": 5994,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 5996,
+  "domain": "mhiamerica.com",
+  "status": "found",
+  "confidence": "medium",
+  "heavy_equipment": "Yes",
+  "category": "heavy industrial manufacturer",
+  "us_based": "yes",
+  "note": "Known MHI America site; prior knowledge, searches unavailable"
+ },
+ {
+  "id": 5997,
+  "domain": "newholland.com",
+  "status": "found",
+  "confidence": "medium",
+  "heavy_equipment": "Yes",
+  "category": "ag/construction equipment manufacturer",
+  "us_based": "yes",
+  "note": "Known New Holland brand site; prior knowledge, searches unavailable"
+ },
+ {
+  "id": 5998,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "excavation contractor",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 6006,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 6017,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "construction materials",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 6018,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 6020,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 6021,
+  "domain": "deernessmachinery.square.site",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "machinery dealer/repair",
+  "us_based": "yes",
+  "note": "Square builder site kept; could not search for custom domain"
+ },
+ {
+  "id": 6032,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "feed store",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 6036,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 6038,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 6039,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "mobile mechanical repair",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 6046,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "industrial supply",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 6052,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 6056,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general tool rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 6058,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general tool rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 6063,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment sales",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 6065,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 6073,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 6074,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 6079,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ }
+]

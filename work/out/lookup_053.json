@@ -1,0 +1,352 @@
+[
+ {
+  "id": 6477,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "trailer rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6482,
+  "domain": "e-esupply.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment supply",
+  "us_based": "unknown",
+  "note": "kept current domain; name-match only, not web-verified"
+ },
+ {
+  "id": 6484,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "bookkeeping",
+  "us_based": "unknown",
+  "note": "domain unrelated to bookkeeping name; search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6485,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment dealer",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6491,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6495,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment dealer",
+  "us_based": "yes",
+  "note": "Florida by name; search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6496,
+  "domain": "equipment-service-supply.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment service/supply",
+  "us_based": "unknown",
+  "note": "kept current domain; name-match only, not web-verified"
+ },
+ {
+  "id": 6512,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "feed/farm store",
+  "us_based": "yes",
+  "note": "Osteen FL; search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6515,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6518,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment supply",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6525,
+  "domain": "flcrinc.net",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "concrete recycling",
+  "us_based": "yes",
+  "note": "kept current domain; name-match only, not web-verified"
+ },
+ {
+  "id": 6529,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "yes",
+  "note": "search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6532,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "yes",
+  "note": "search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6533,
+  "domain": "flmech.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "mechanical contractor",
+  "us_based": "yes",
+  "note": "kept current domain; name-match only, not web-verified"
+ },
+ {
+  "id": 6536,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "trailer dealer",
+  "us_based": "yes",
+  "note": "trmfl.com unconfirmed for this company; search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6538,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6539,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6541,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift batteries/material handling",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6542,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6544,
+  "domain": "aflmiami.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "yes",
+  "note": "kept current domain; name-match only, not web-verified"
+ },
+ {
+  "id": 6553,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6554,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6563,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6566,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6567,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6568,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "unknown",
+  "note": "drsdrills.com unconfirmed for this company; search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6569,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift parts",
+  "us_based": "yes",
+  "note": "search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6576,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6580,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "yes",
+  "note": "search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6595,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6599,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "used heavy equipment dealer",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6602,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "yes",
+  "note": "search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6612,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6616,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy-duty diesel repair",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not web-verified"
+ },
+ {
+  "id": 6619,
+  "domain": "gtmowers.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "kept current domain; name-match only, not web-verified"
+ }
+]

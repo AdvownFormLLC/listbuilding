@@ -1,0 +1,1502 @@
+[
+{
+"id": 15375,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15378,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15380,
+"heavy_equipment": "No",
+"category": "HVAC",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15382,
+"heavy_equipment": "No",
+"category": "lumber yard",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15383,
+"heavy_equipment": "No",
+"category": "auto restoration tools",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15385,
+"heavy_equipment": "No",
+"category": "building supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15386,
+"heavy_equipment": "No",
+"category": "tool library",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15387,
+"heavy_equipment": "No",
+"category": "sheet metal manufacturer",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15391,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15397,
+"heavy_equipment": "No",
+"category": "tools",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15398,
+"heavy_equipment": "No",
+"category": "tool manufacturer",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15399,
+"heavy_equipment": "No",
+"category": "warehouse solutions",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15406,
+"heavy_equipment": "Yes",
+"category": "heavy haul",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15409,
+"heavy_equipment": "No",
+"category": "power tool retail",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15412,
+"heavy_equipment": "No",
+"category": "hydraulic hose store",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15415,
+"heavy_equipment": "Yes",
+"category": "aerial lift rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15417,
+"heavy_equipment": "No",
+"category": "event/AV",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15418,
+"heavy_equipment": "Yes",
+"category": "truck trailer dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15423,
+"heavy_equipment": "No",
+"category": "unknown industrial",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15424,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15425,
+"heavy_equipment": "Yes",
+"category": "ag equipment dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15427,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15428,
+"heavy_equipment": "Yes",
+"category": "forklift dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15430,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15434,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15435,
+"heavy_equipment": "Yes",
+"category": "heavy truck/equipment dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15436,
+"heavy_equipment": "No",
+"category": "construction supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15437,
+"heavy_equipment": "No",
+"category": "plumbing supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15444,
+"heavy_equipment": "No",
+"category": "pallet racking",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15445,
+"heavy_equipment": "No",
+"category": "design build contractor",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15448,
+"heavy_equipment": "No",
+"category": "welding fabrication",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15451,
+"heavy_equipment": "No",
+"category": "bakery equipment manufacturer",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15468,
+"heavy_equipment": "Yes",
+"category": "engine/equipment dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15469,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15472,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15482,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15484,
+"heavy_equipment": "No",
+"category": "traffic control",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15492,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15497,
+"heavy_equipment": "No",
+"category": "pipe supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15498,
+"heavy_equipment": "No",
+"category": "farm retail store",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15503,
+"heavy_equipment": "Yes",
+"category": "rigging/heavy haul",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15508,
+"heavy_equipment": "Yes",
+"category": "equipment sales rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15516,
+"heavy_equipment": "Yes",
+"category": "bucket truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15522,
+"heavy_equipment": "No",
+"category": "wire rope supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15523,
+"heavy_equipment": "No",
+"category": "CDL training",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15527,
+"heavy_equipment": "Yes",
+"category": "crane/equipment dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15529,
+"heavy_equipment": "No",
+"category": "cooperative services",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15539,
+"heavy_equipment": "No",
+"category": "tools supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15540,
+"heavy_equipment": "No",
+"category": "commercial real estate",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15541,
+"heavy_equipment": "No",
+"category": "trailer dealer",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15545,
+"heavy_equipment": "Yes",
+"category": "trencher dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15547,
+"heavy_equipment": "No",
+"category": "oilfield services",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15548,
+"heavy_equipment": "No",
+"category": "oilfield rental tools",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15561,
+"heavy_equipment": "No",
+"category": "party rental",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15565,
+"heavy_equipment": "Yes",
+"category": "Kubota dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15566,
+"heavy_equipment": "Unsure",
+"category": "services",
+"note": "cannot determine from name"
+},
+{
+"id": 15574,
+"heavy_equipment": "Yes",
+"category": "industrial supply/forklift",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15576,
+"heavy_equipment": "No",
+"category": "industrial supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15577,
+"heavy_equipment": "No",
+"category": "supplies",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15581,
+"heavy_equipment": "No",
+"category": "event rental",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15584,
+"heavy_equipment": "Yes",
+"category": "forklift dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15596,
+"heavy_equipment": "Yes",
+"category": "truck leasing",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15604,
+"heavy_equipment": "Yes",
+"category": "excavation contractor",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15605,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15607,
+"heavy_equipment": "Yes",
+"category": "vacuum truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15614,
+"heavy_equipment": "Yes",
+"category": "lifting/rigging",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15621,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15637,
+"heavy_equipment": "No",
+"category": "home services",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15642,
+"heavy_equipment": "No",
+"category": "general retail",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15647,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15648,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15652,
+"heavy_equipment": "Yes",
+"category": "Sany excavator dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15665,
+"heavy_equipment": "No",
+"category": "services",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15680,
+"heavy_equipment": "No",
+"category": "tree trimming saw manufacturer",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15689,
+"heavy_equipment": "No",
+"category": "trailer rental",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15692,
+"heavy_equipment": "No",
+"category": "nonprofit",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15694,
+"heavy_equipment": "Unsure",
+"category": "unknown",
+"note": "cannot determine from name"
+},
+{
+"id": 15705,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15706,
+"heavy_equipment": "Yes",
+"category": "heavy haul transport",
+"note": "truck/haul services inferred"
+},
+{
+"id": 15709,
+"heavy_equipment": "No",
+"category": "construction supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15718,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15722,
+"heavy_equipment": "Yes",
+"category": "equipment dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15729,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15731,
+"heavy_equipment": "Yes",
+"category": "compact tractor dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15742,
+"heavy_equipment": "No",
+"category": "metals",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15745,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15749,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15750,
+"heavy_equipment": "No",
+"category": "concrete trailer",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15753,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15760,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15761,
+"heavy_equipment": "No",
+"category": "tool library",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15762,
+"heavy_equipment": "Yes",
+"category": "equipment parts",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15763,
+"heavy_equipment": "Yes",
+"category": "fabrication/equipment repair",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15776,
+"heavy_equipment": "No",
+"category": "tool retail",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15780,
+"heavy_equipment": "No",
+"category": "construction supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15788,
+"heavy_equipment": "Unsure",
+"category": "rental services",
+"note": "cannot determine from name"
+},
+{
+"id": 15794,
+"heavy_equipment": "No",
+"category": "industrial supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15806,
+"heavy_equipment": "No",
+"category": "trailer parts",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15813,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15814,
+"heavy_equipment": "No",
+"category": "hydroponics retail",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15818,
+"heavy_equipment": "Yes",
+"category": "millwright",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15827,
+"heavy_equipment": "No",
+"category": "industrial supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15830,
+"heavy_equipment": "Unsure",
+"category": "unknown",
+"note": "cannot determine from name"
+},
+{
+"id": 15831,
+"heavy_equipment": "No",
+"category": "discount retail",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15832,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15835,
+"heavy_equipment": "No",
+"category": "safety services",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15839,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15842,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15847,
+"heavy_equipment": "Yes",
+"category": "forklift parts",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15852,
+"heavy_equipment": "No",
+"category": "hardware",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15859,
+"heavy_equipment": "No",
+"category": "hydraulic hose store",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15864,
+"heavy_equipment": "No",
+"category": "discount retail",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15874,
+"heavy_equipment": "No",
+"category": "abatement equipment rental",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15879,
+"heavy_equipment": "Yes",
+"category": "heavy haul/rigging",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15880,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15884,
+"heavy_equipment": "No",
+"category": "trailer dealer",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15886,
+"heavy_equipment": "No",
+"category": "safety training",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15887,
+"heavy_equipment": "No",
+"category": "welding gas supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15892,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15893,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15895,
+"heavy_equipment": "No",
+"category": "supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15896,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15897,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15898,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15902,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15903,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15906,
+"heavy_equipment": "No",
+"category": "welding supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15909,
+"heavy_equipment": "No",
+"category": "orchard sprayer manufacturer",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15910,
+"heavy_equipment": "No",
+"category": "outdoor recreation",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15912,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15913,
+"heavy_equipment": "No",
+"category": "AV rental",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15915,
+"heavy_equipment": "Yes",
+"category": "forestry equipment dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15917,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15918,
+"heavy_equipment": "No",
+"category": "recreation rental",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15919,
+"heavy_equipment": "No",
+"category": "plumbing supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15929,
+"heavy_equipment": "No",
+"category": "event rental",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15932,
+"heavy_equipment": "Yes",
+"category": "ag equipment dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15934,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15944,
+"heavy_equipment": "No",
+"category": "tool library",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15948,
+"heavy_equipment": "Yes",
+"category": "truck repair",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15949,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15950,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15954,
+"heavy_equipment": "Yes",
+"category": "bucket truck service",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15955,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15974,
+"heavy_equipment": "Yes",
+"category": "diesel repair",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 15976,
+"heavy_equipment": "No",
+"category": "mobility equipment",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15978,
+"heavy_equipment": "No",
+"category": "supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15980,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 15982,
+"heavy_equipment": "No",
+"category": "hardware store",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 15992,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16005,
+"heavy_equipment": "Yes",
+"category": "truck repair",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16011,
+"heavy_equipment": "No",
+"category": "supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16015,
+"heavy_equipment": "Yes",
+"category": "truck parts",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16023,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 16032,
+"heavy_equipment": "Yes",
+"category": "excavation contractor",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16033,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 16034,
+"heavy_equipment": "No",
+"category": "building supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16043,
+"heavy_equipment": "No",
+"category": "building supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16044,
+"heavy_equipment": "Yes",
+"category": "hydraulic equipment",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16052,
+"heavy_equipment": "No",
+"category": "manufacturing",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16055,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16056,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16059,
+"heavy_equipment": "No",
+"category": "gas compression",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16062,
+"heavy_equipment": "Yes",
+"category": "construction equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16076,
+"heavy_equipment": "No",
+"category": "electrical supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16079,
+"heavy_equipment": "No",
+"category": "utility contractor",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16083,
+"heavy_equipment": "Yes",
+"category": "construction supply/rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16085,
+"heavy_equipment": "Yes",
+"category": "forklift dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16088,
+"heavy_equipment": "No",
+"category": "junk removal",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16094,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 16095,
+"heavy_equipment": "Yes",
+"category": "excavation contractor",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16098,
+"heavy_equipment": "No",
+"category": "plumbing supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16111,
+"heavy_equipment": "No",
+"category": "trailer dealer",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16114,
+"heavy_equipment": "Yes",
+"category": "excavation contractor",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16115,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 16116,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 16125,
+"heavy_equipment": "Yes",
+"category": "generator/equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16128,
+"heavy_equipment": "No",
+"category": "batteries",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16130,
+"heavy_equipment": "Yes",
+"category": "construction tool rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16134,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 16135,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 16136,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 16142,
+"heavy_equipment": "No",
+"category": "ground mats",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16156,
+"heavy_equipment": "No",
+"category": "financing",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16162,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 16163,
+"heavy_equipment": "Yes",
+"category": "ag equipment dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16165,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16168,
+"heavy_equipment": "Yes",
+"category": "equipment dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16175,
+"heavy_equipment": "Yes",
+"category": "fleet truck repair",
+"note": "truck/haul services inferred"
+},
+{
+"id": 16200,
+"heavy_equipment": "Yes",
+"category": "construction equipment dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16202,
+"heavy_equipment": "No",
+"category": "party rental",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16209,
+"heavy_equipment": "Yes",
+"category": "excavation contractor",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16219,
+"heavy_equipment": "No",
+"category": "tire service",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16221,
+"heavy_equipment": "Yes",
+"category": "equipment auction",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16223,
+"heavy_equipment": "No",
+"category": "HVAC supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16232,
+"heavy_equipment": "Yes",
+"category": "forklift dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16234,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 16236,
+"heavy_equipment": "Unsure",
+"category": "unknown",
+"note": "cannot determine from name"
+},
+{
+"id": 16240,
+"heavy_equipment": "No",
+"category": "liquidation retail",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16242,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 16248,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16253,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16254,
+"heavy_equipment": "No",
+"category": "hauling",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16258,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16259,
+"heavy_equipment": "Yes",
+"category": "forklift dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16260,
+"heavy_equipment": "Yes",
+"category": "supply",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16263,
+"heavy_equipment": "Yes",
+"category": "forklift dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16270,
+"heavy_equipment": "No",
+"category": "steel",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16274,
+"heavy_equipment": "No",
+"category": "pallet racking",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16284,
+"heavy_equipment": "No",
+"category": "dumpster rental",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16288,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 16291,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 16293,
+"heavy_equipment": "No",
+"category": "trailer rental",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16295,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16302,
+"heavy_equipment": "No",
+"category": "tool supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16303,
+"heavy_equipment": "Unsure",
+"category": "unknown",
+"note": "cannot determine from name"
+},
+{
+"id": 16306,
+"heavy_equipment": "No",
+"category": "hardware",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16309,
+"heavy_equipment": "No",
+"category": "supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16311,
+"heavy_equipment": "Yes",
+"category": "machine control",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16312,
+"heavy_equipment": "Yes",
+"category": "machine control",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16314,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 16315,
+"heavy_equipment": "Unsure",
+"category": "unknown",
+"note": "cannot determine from name"
+},
+{
+"id": 16318,
+"heavy_equipment": "No",
+"category": "concrete products",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16320,
+"heavy_equipment": "No",
+"category": "manufacturing",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16328,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 16333,
+"heavy_equipment": "Yes",
+"category": "excavation contractor",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16334,
+"heavy_equipment": "Unsure",
+"category": "unknown",
+"note": "cannot determine from name"
+},
+{
+"id": 16339,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 16343,
+"heavy_equipment": "No",
+"category": "trailer dealer",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16344,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16346,
+"heavy_equipment": "No",
+"category": "industrial supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16350,
+"heavy_equipment": "Yes",
+"category": "forklift parts",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16356,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16357,
+"heavy_equipment": "Yes",
+"category": "bucket truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16360,
+"heavy_equipment": "No",
+"category": "metal fabrication",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16363,
+"heavy_equipment": "No",
+"category": "concrete supplier",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16366,
+"heavy_equipment": "Unsure",
+"category": "unknown",
+"note": "cannot determine from name"
+},
+{
+"id": 16375,
+"heavy_equipment": "No",
+"category": "tool library",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16376,
+"heavy_equipment": "No",
+"category": "supply",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16378,
+"heavy_equipment": "No",
+"category": "construction supply distributor",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16384,
+"heavy_equipment": "Yes",
+"category": "general equipment rental",
+"note": "rental yard likely with skid steers/lifts"
+},
+{
+"id": 16386,
+"heavy_equipment": "Unsure",
+"category": "unknown",
+"note": "cannot determine from name"
+},
+{
+"id": 16387,
+"heavy_equipment": "Yes",
+"category": "equipment dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16390,
+"heavy_equipment": "No",
+"category": "aggregates",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16395,
+"heavy_equipment": "Yes",
+"category": "equipment leasing",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 16404,
+"heavy_equipment": "No",
+"category": "surplus retail",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16405,
+"heavy_equipment": "No",
+"category": "car dealer",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16408,
+"heavy_equipment": "No",
+"category": "treehouse",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16410,
+"heavy_equipment": "No",
+"category": "motorsports",
+"note": "name/domain indicates non heavy-equipment"
+},
+{
+"id": 16411,
+"heavy_equipment": "No",
+"category": "jewelry supplies",
+"note": "name/domain indicates non heavy-equipment"
+}
+]

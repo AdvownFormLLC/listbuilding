@@ -1,0 +1,352 @@
+[
+ {
+  "id": 6976,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "power equipment (unclear)",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 6989,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 6993,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 6994,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "prestressed concrete contractor",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 6998,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 7000,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift/material handling dealer",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry; current sideloadlifts.com unverified"
+ },
+ {
+  "id": 7004,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown (garbled name)",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 7005,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 7011,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment / golf carts",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 7012,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane rental",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 7013,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "machine shop",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 7030,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "rental (unclear)",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 7037,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "restaurant equipment",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry; current equipmentod.com unverified"
+ },
+ {
+  "id": 7040,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 7043,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 7044,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 7051,
+  "domain": "rbauction.com",
+  "status": "verified_existing",
+  "confidence": "medium",
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment auction",
+  "us_based": "yes",
+  "note": "rbauction.com is Ritchie Bros own site (prior knowledge; searches unavailable)"
+ },
+ {
+  "id": 7052,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "skid steer services",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 7054,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry; current bayharborservices.com unverified"
+ },
+ {
+  "id": 7056,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry; current ocalatentrentals.com unverified"
+ },
+ {
+  "id": 7058,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment company (unclear)",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 7060,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 7061,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment rental & repair (unclear)",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 7067,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "tennis ball machine rental",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry; current ronantennis.com unverified"
+ },
+ {
+  "id": 7072,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "motors (unclear)",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 7077,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 7078,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry; current euromaya.com unverified"
+ },
+ {
+  "id": 7079,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 7080,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry; current benitezequipment.com unverified"
+ },
+ {
+  "id": 7081,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 7082,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry; current weknowmow.com unverified"
+ },
+ {
+  "id": 7085,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "skid steer services",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 7094,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer/service",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 7106,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "excavation/skid steer contractor",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry"
+ },
+ {
+  "id": 7107,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "WebSearch budget exhausted; not researched - retry; current equipmentmarketing.pro unverified"
+ }
+]

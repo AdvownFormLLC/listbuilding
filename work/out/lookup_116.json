@@ -1,0 +1,352 @@
+[
+ {
+  "id": 16805,
+  "domain": "deerequipment.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search budget exhausted; kept existing domain, needs re-check"
+ },
+ {
+  "id": 16806,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16807,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor parts",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16824,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment supplier",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16825,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16835,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "repair shop",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16839,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "material handling/telehandler manufacturer",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16840,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "skid steer rental",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16842,
+  "domain": "viperlifttrucks.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search budget exhausted; kept existing domain, needs re-check"
+ },
+ {
+  "id": 16844,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "material handling dealer",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16851,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16884,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16886,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "home supply retail",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16890,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16894,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16899,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16900,
+  "domain": "599rent.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search budget exhausted; kept existing domain, needs re-check"
+ },
+ {
+  "id": 16909,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16915,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment company",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16928,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane rental",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16936,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "lawn care",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16940,
+  "domain": "ctcrents.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "tent & equipment rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search budget exhausted; kept existing domain, needs re-check"
+ },
+ {
+  "id": 16942,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "supply company",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16945,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16947,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment company",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16949,
+  "domain": "equip1.net",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search budget exhausted; kept existing domain, needs re-check"
+ },
+ {
+  "id": 16950,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "tool & supply",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16951,
+  "domain": "cmicase.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search budget exhausted; kept existing domain, needs re-check"
+ },
+ {
+  "id": 16955,
+  "domain": "dandcequipment.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search budget exhausted; kept existing domain, needs re-check"
+ },
+ {
+  "id": 16956,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "machinery dealer",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16966,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "power equipment",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16967,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane & rigging",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16970,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16984,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck/trailer repair",
+  "us_based": "unknown",
+  "note": "Not searched: web search budget exhausted; needs re-run"
+ },
+ {
+  "id": 16988,
+  "domain": "254court.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "office space",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search budget exhausted; kept existing domain, needs re-check"
+ }
+]

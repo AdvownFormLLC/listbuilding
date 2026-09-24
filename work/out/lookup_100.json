@@ -1,0 +1,352 @@
+[
+ {
+  "id": 14055,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "excavation contractor",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14058,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14061,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14069,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14079,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14082,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14086,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14091,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "scale/construction",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14096,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "oilfield supply",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14103,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment sales/service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14107,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "irrigation/machine shop",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14109,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14111,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14114,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14125,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14130,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14131,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14135,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14136,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14150,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14154,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14159,
+  "domain": "machinerymovingnv.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "machinery moving/rigging",
+  "us_based": "yes",
+  "note": "Unverified (no searches left); domain topic fits NV machinery moving"
+ },
+ {
+  "id": 14160,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane/rigging/heavy haul",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14161,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment dealer",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14165,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14169,
+  "domain": "mbcrusher.com",
+  "status": "verified_existing",
+  "confidence": "medium",
+  "heavy_equipment": "Yes",
+  "category": "crusher bucket manufacturer",
+  "us_based": "yes",
+  "note": "MB America is US arm of MB Crusher; not search-verified"
+ },
+ {
+  "id": 14170,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14171,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "hotcityhomes.com unrelated (real estate); no searches left"
+ },
+ {
+  "id": 14172,
+  "domain": "store106431144.company.site",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "feed store",
+  "us_based": "unknown",
+  "note": "Ecwid builder store kept unverified; no searches left"
+ },
+ {
+  "id": 14173,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor parts",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14174,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment dealer",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14176,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14181,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14185,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 14192,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "feed store",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ }
+]

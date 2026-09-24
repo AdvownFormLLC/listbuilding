@@ -1,0 +1,352 @@
+[
+ {
+  "id": 3805,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3807,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift service",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3808,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3810,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3811,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment (unclear)",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3812,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "photo booth rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3813,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3817,
+  "domain": "lv-rents.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "event rental",
+  "us_based": "unknown",
+  "note": "Kept existing domain; UNVERIFIED: web search budget exhausted; no lookup done"
+ },
+ {
+  "id": 3820,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3821,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "surplus dealer",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3832,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "machinery dealer",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3836,
+  "domain": "mascosocal.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "unknown",
+  "note": "Kept existing domain; UNVERIFIED: web search budget exhausted; no lookup done"
+ },
+ {
+  "id": 3837,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "law firm",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3839,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "garden supply",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3842,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3848,
+  "domain": "alm9.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "compact tractor dealer",
+  "us_based": "unknown",
+  "note": "Kept existing domain; UNVERIFIED: web search budget exhausted; no lookup done"
+ },
+ {
+  "id": 3850,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3853,
+  "domain": "liftmasterbindumper.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "material handling equipment",
+  "us_based": "unknown",
+  "note": "Kept existing domain; UNVERIFIED: web search budget exhausted; no lookup done"
+ },
+ {
+  "id": 3854,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3856,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift parts/service",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3857,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3858,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3859,
+  "domain": "mfloresconcrete.wordpress.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "concrete contractor",
+  "us_based": "unknown",
+  "note": "Kept existing domain; UNVERIFIED: web search budget exhausted; no lookup done"
+ },
+ {
+  "id": 3862,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3863,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3864,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party supply",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3867,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3868,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor dealer",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3871,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "machinery",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3875,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3877,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3879,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3880,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3882,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ },
+ {
+  "id": 3885,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "excavation contractor",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: web search budget exhausted; no lookup done; category from name only"
+ }
+]

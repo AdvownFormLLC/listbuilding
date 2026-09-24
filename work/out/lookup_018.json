@@ -1,0 +1,352 @@
+[
+ {
+  "id": 2299,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2301,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2304,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2306,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2321,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2323,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2324,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2327,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2330,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2333,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2344,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2345,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor repair",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2348,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2349,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2356,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2357,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2358,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2359,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2360,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2377,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2378,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2379,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment company",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2380,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2381,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "medical equipment",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2382,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2384,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2385,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2396,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "auto service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2397,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2399,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2408,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor repair",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2411,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2412,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2414,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched - retry; qualification from name only"
+ },
+ {
+  "id": 2415,
+  "domain": "slocbe.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "builders exchange / plan room",
+  "us_based": "unknown",
+  "note": "Unverified (no search); slocbe plausibly SLO County Builders Exchange"
+ }
+]

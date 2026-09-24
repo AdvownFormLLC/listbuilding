@@ -1,0 +1,352 @@
+[
+ {
+  "id": 8712,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck/trailer dealer",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8720,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck repair",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8722,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8724,
+  "domain": "mcagplus.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search budget exhausted; kept current domain"
+ },
+ {
+  "id": 8727,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "repair shop",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8733,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8746,
+  "domain": "mwisales.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "industrial sales",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search budget exhausted; kept current domain"
+ },
+ {
+  "id": 8747,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "industrial supply",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8760,
+  "domain": "mistnt.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck/trailer dealer",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search budget exhausted; kept current domain"
+ },
+ {
+  "id": 8764,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8770,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8776,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8779,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "rental",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8784,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "tillage tools manufacturer",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8788,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8790,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8794,
+  "domain": "nsmglenview.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "medical equipment",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search budget exhausted; kept current domain"
+ },
+ {
+  "id": 8798,
+  "domain": "nvatransportation.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck repair",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search budget exhausted; kept current domain"
+ },
+ {
+  "id": 8808,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8816,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8821,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8834,
+  "domain": "nutechseed.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "seed company",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: search budget exhausted; kept current domain"
+ },
+ {
+  "id": 8841,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment company",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8855,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8859,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment dealer",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8862,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8863,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8864,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8873,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8876,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8880,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "housing rental",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8884,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8890,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "auto/truck rental",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8891,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ },
+ {
+  "id": 8897,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Not researched: web search budget exhausted"
+ }
+]

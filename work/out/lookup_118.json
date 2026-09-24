@@ -1,0 +1,352 @@
+[
+ {
+  "id": 17150,
+  "domain": "tnvequipment.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment dealer",
+  "us_based": "yes",
+  "note": "Domain initials match name; unverified, search budget exhausted"
+ },
+ {
+  "id": 17151,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment rental",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 17153,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment dealer",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 17161,
+  "domain": "tractorsupply.com",
+  "status": "found",
+  "confidence": "medium",
+  "heavy_equipment": "No",
+  "category": "farm/ranch retail",
+  "us_based": "yes",
+  "note": "Well-known corporate domain; not search-verified (budget exhausted)"
+ },
+ {
+  "id": 17183,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "machinery",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 17184,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 17185,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "medium",
+  "heavy_equipment": "No",
+  "category": "public park",
+  "us_based": "yes",
+  "note": "A municipal park; colliervilletn.gov is town site, not a company"
+ },
+ {
+  "id": 17191,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 17200,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment rental",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 17204,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general tool rental",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 17207,
+  "domain": "3canda.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "yes",
+  "note": "Domain matches 3C&A; unverified, search budget exhausted"
+ },
+ {
+  "id": 17208,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 17215,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general tool rental",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 17216,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "general tool rental",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 17218,
+  "domain": "915craneservice.wixsite.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "yes",
+  "note": "Wix builder site matching name; unverified, search budget exhausted"
+ },
+ {
+  "id": 17220,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "feed store",
+  "us_based": "yes",
+  "note": "Only Facebook page known; search budget exhausted; not researched"
+ },
+ {
+  "id": 17223,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 17225,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 17226,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 17228,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "machine shop",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 17231,
+  "domain": "amirandaforklift.wixsite.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift service",
+  "us_based": "yes",
+  "note": "Wix builder site matching name; unverified, search budget exhausted"
+ },
+ {
+  "id": 17233,
+  "domain": "alphaomegaequipment.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "yes",
+  "note": "A&O likely Alpha Omega; unverified, search budget exhausted"
+ },
+ {
+  "id": 17236,
+  "domain": "atozrentals.squarespace.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "rental",
+  "us_based": "yes",
+  "note": "Squarespace site matching name; unverified, search budget exhausted"
+ },
+ {
+  "id": 17237,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane rental",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 17238,
+  "domain": "aarental.net",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment rental",
+  "us_based": "yes",
+  "note": "Domain matches AA Rental; unverified, search budget exhausted"
+ },
+ {
+  "id": 17240,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck/equipment dealer",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 17247,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment rental",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 17256,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor/equipment dealer",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 17263,
+  "domain": "advequiprental.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment rental",
+  "us_based": "yes",
+  "note": "Domain abbreviates name; unverified, search budget exhausted"
+ },
+ {
+  "id": 17264,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment dealer",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 17266,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift equipment",
+  "us_based": "yes",
+  "note": "kdllifts.com does not match AEL; search budget exhausted; not researched"
+ },
+ {
+  "id": 17269,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift rental",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 17272,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 17277,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "tractor dealer/repair",
+  "us_based": "yes",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 17279,
+  "domain": "aj-trailer-rental-llc.square.site",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "trailer rental",
+  "us_based": "yes",
+  "note": "Square builder site matching name; unverified, search budget exhausted"
+ }
+]

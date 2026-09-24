@@ -1,0 +1,1502 @@
+[
+{
+"id": 2389,
+"heavy_equipment": "Yes",
+"category": "demolition contractor",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2390,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2400,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2402,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2403,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2409,
+"heavy_equipment": "Yes",
+"category": "excavator attachment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2413,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2417,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2419,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2423,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2427,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2430,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2433,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2435,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2437,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2441,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2442,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2452,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2461,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2462,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2466,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2467,
+"heavy_equipment": "Yes",
+"category": "construction equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2468,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2472,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2478,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2480,
+"heavy_equipment": "Yes",
+"category": "compaction equipment",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2491,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2493,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2495,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2496,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2499,
+"heavy_equipment": "Yes",
+"category": "heavy truck parts",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2503,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2505,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2510,
+"heavy_equipment": "Yes",
+"category": "excavation contractor",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2513,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2516,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2519,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2523,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2525,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2530,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2535,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2536,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2542,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2543,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2544,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2546,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2553,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2554,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2559,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2560,
+"heavy_equipment": "Unsure",
+"category": "auction",
+"note": "cannot determine equipment type"
+},
+{
+"id": 2565,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2575,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2586,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2589,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2592,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2597,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2611,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2615,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2623,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2633,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2634,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2637,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2639,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2640,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2646,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2650,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2655,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2656,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2657,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2658,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2659,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2660,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2663,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2666,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2670,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2674,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2676,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2683,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2684,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2689,
+"heavy_equipment": "Yes",
+"category": "material handling rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2691,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2693,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2694,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2697,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2730,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2739,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2741,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2743,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2748,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2751,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2752,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2754,
+"heavy_equipment": "Yes",
+"category": "heavy truck/crane dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2755,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2756,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2757,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2758,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2759,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2761,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2770,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2771,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2780,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2796,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2800,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2804,
+"heavy_equipment": "Yes",
+"category": "heavy truck service",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2805,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2812,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2816,
+"heavy_equipment": "Yes",
+"category": "demolition contractor",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2829,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2830,
+"heavy_equipment": "Yes",
+"category": "heavy truck parts",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2839,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2841,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2842,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2843,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2851,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2858,
+"heavy_equipment": "Yes",
+"category": "water truck builder",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2859,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2866,
+"heavy_equipment": "Yes",
+"category": "ag equipment dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2877,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2878,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2881,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2887,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2888,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2889,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2890,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2891,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2898,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2902,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2903,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2907,
+"heavy_equipment": "Yes",
+"category": "excavation contractor",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2908,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2916,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2933,
+"heavy_equipment": "Yes",
+"category": "forklift dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2936,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2939,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2952,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2953,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2957,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2964,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2965,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2966,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2967,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2975,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2978,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 2983,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2985,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 2986,
+"heavy_equipment": "Yes",
+"category": "forklift manufacturer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3006,
+"heavy_equipment": "Yes",
+"category": "aerial lift rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3012,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3017,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3018,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3019,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3022,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3023,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3026,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3034,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3035,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3042,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3045,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3053,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3058,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3059,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3063,
+"heavy_equipment": "Yes",
+"category": "forklift dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3069,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3071,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3075,
+"heavy_equipment": "Yes",
+"category": "ag equipment manufacturer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3078,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3083,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3085,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3086,
+"heavy_equipment": "Yes",
+"category": "crushing contractor",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3088,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3091,
+"heavy_equipment": "Yes",
+"category": "forklift dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3116,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3117,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3118,
+"heavy_equipment": "Yes",
+"category": "foundation/pile contractor",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3132,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3140,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3146,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3148,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3149,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3151,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3159,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3166,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3176,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3179,
+"heavy_equipment": "Yes",
+"category": "tractor implements",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3182,
+"heavy_equipment": "Unsure",
+"category": "auction",
+"note": "cannot determine equipment type"
+},
+{
+"id": 3186,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3188,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3189,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3190,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3191,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3194,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3202,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3206,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3208,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3213,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3215,
+"heavy_equipment": "Unsure",
+"category": "unknown",
+"note": "cannot determine equipment type"
+},
+{
+"id": 3227,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3231,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3235,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3236,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3237,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3239,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3245,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3251,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3252,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3257,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3261,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3264,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3268,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3273,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3275,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3277,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3282,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3286,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3298,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3301,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3303,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3306,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3316,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3319,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3324,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3325,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3328,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3331,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3332,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3337,
+"heavy_equipment": "Yes",
+"category": "heavy truck parts",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3344,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3345,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3349,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3354,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3356,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3358,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3364,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3371,
+"heavy_equipment": "Yes",
+"category": "hoist/crane manufacturer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3375,
+"heavy_equipment": "Yes",
+"category": "heavy truck dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3378,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3388,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3389,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3390,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3391,
+"heavy_equipment": "Unsure",
+"category": "rental",
+"note": "cannot determine equipment type"
+},
+{
+"id": 3394,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3395,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3405,
+"heavy_equipment": "Yes",
+"category": "Caterpillar dealer",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3406,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3407,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3411,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3418,
+"heavy_equipment": "Yes",
+"category": "equipment rental",
+"note": "name/domain indicates heavy equipment business"
+},
+{
+"id": 3422,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3425,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+},
+{
+"id": 3432,
+"heavy_equipment": "No",
+"category": "unrelated/other",
+"note": "name/domain indicates non-heavy-equipment business"
+}
+]

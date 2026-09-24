@@ -1,0 +1,352 @@
+[
+ {
+  "id": 1095,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "concrete products",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1097,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1100,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "exmark.com is mower brand, not company site; search budget exhausted; not researched"
+ },
+ {
+  "id": 1101,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1103,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1111,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1112,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "HVAC service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1114,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "ag equipment dealer",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1117,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift repair",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1130,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment (unknown type)",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1134,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "machinery (unknown type)",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1135,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "machine shop",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1147,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment services (unknown type)",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1149,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1154,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1157,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "machine shop",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1160,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1182,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1186,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1187,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1188,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1191,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "rental (unknown type)",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1192,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "develon-ce.com is manufacturer site, not company's; search budget exhausted; not researched"
+ },
+ {
+  "id": 1202,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1204,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1221,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "rental (unknown type)",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1222,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1224,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "machinery (unknown type)",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1227,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck dealer",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1228,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment parts",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1231,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "apartments",
+  "us_based": "unknown",
+  "note": "livebh.com unverified; search budget exhausted; not researched"
+ },
+ {
+  "id": 1238,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment dealer",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1242,
+  "domain": "traxxequipmentsource.tapgoods.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "TapGoods storefront name matches; custom domain not checked"
+ },
+ {
+  "id": 1246,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ },
+ {
+  "id": 1249,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "fleet services",
+  "us_based": "unknown",
+  "note": "search budget exhausted; not researched"
+ }
+]

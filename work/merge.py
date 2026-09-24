@@ -1,9 +1,14 @@
 """Merge rule-based pass + agent outputs into the final CSV."""
 import csv, json, glob, re
 recs = json.load(open('recs.json'))
-look, rev = {}, {}
+look, rev, name_only = {}, {}, {}
 for f in sorted(glob.glob('out/lookup_*.json')):
-    for o in json.load(open(f)): look[o['id']] = o
+    for o in json.load(open(f)):
+        # agents that ran out of web-search budget wrote name-only placeholders: treat as not researched
+        if not re.search(r'budget|not researched|not searched|no search', o.get('note', ''), re.I):
+            look[o['id']] = o
+        else:
+            name_only[o['id']] = o
 for f in sorted(glob.glob('out/review_*.json')):
     for o in json.load(open(f)): rev[o['id']] = o
 # propagate lookups to duplicate (name, domain) rows
@@ -37,6 +42,13 @@ for r in recs:
             row['notes'] = L.get('note', '')
         else:
             row['domain_status'] = 'not_researched'
+            if r['rule'] == 'Review' and r['id'] in rev:
+                row['heavy_equipment'] = rev[r['id']].get('heavy_equipment', 'Unsure')
+            elif r['rule'] == 'Review' and r['id'] in name_only:
+                v = name_only[r['id']]
+                row.update(heavy_equipment=v.get('heavy_equipment') or 'Unsure', category=v.get('category', ''),
+                           qualification_source='AI review (name only)')
+            row['notes'] = 'domain not researched (web-search limit reached); ' + row['notes']
     elif r['rule'] == 'Review' and r['id'] in rev:
         v = rev[r['id']]
         row.update(heavy_equipment=v.get('heavy_equipment', 'Unsure'), category=v.get('category', ''),

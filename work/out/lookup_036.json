@@ -1,0 +1,352 @@
+[
+ {
+  "id": 4235,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4239,
+  "domain": "877parties.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: kept current domain; search budget exhausted."
+ },
+ {
+  "id": 4242,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4249,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4250,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4254,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "Name-based qualification; search budget exhausted."
+ },
+ {
+  "id": 4257,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "Name-based qualification; search budget exhausted."
+ },
+ {
+  "id": 4258,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "excavation contractor",
+  "us_based": "unknown",
+  "note": "Name-based qualification; search budget exhausted."
+ },
+ {
+  "id": 4260,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4264,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4268,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "plumbing",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4270,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "rent-to-own retail",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4271,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "Name only; equipment type unknown; search budget exhausted."
+ },
+ {
+  "id": 4278,
+  "domain": "peninsulagolfshop.weebly.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "golf shop",
+  "us_based": "unknown",
+  "note": "UNVERIFIED weebly site matching name kept; search budget exhausted."
+ },
+ {
+  "id": 4284,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "Name-based qualification; search budget exhausted."
+ },
+ {
+  "id": 4289,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "construction contractor",
+  "us_based": "unknown",
+  "note": "Wix subdomain name mismatched, unverified; search budget exhausted."
+ },
+ {
+  "id": 4290,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment sales",
+  "us_based": "unknown",
+  "note": "Name only; search budget exhausted."
+ },
+ {
+  "id": 4292,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift rental",
+  "us_based": "unknown",
+  "note": "Name-based qualification; search budget exhausted."
+ },
+ {
+  "id": 4293,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4296,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "unknown",
+  "note": "Name suggests outdoor power; search budget exhausted."
+ },
+ {
+  "id": 4303,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "skid steer/excavation services",
+  "us_based": "unknown",
+  "note": "Name-based qualification; search budget exhausted."
+ },
+ {
+  "id": 4305,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4314,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4315,
+  "domain": "pizztow.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "towing",
+  "us_based": "unknown",
+  "note": "UNVERIFIED: domain plausibly matches; search budget exhausted."
+ },
+ {
+  "id": 4317,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "Name only; search budget exhausted."
+ },
+ {
+  "id": 4323,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy truck & equipment dealer",
+  "us_based": "unknown",
+  "note": "Name-based qualification; search budget exhausted."
+ },
+ {
+  "id": 4327,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "unknown",
+  "note": "Name-based qualification; search budget exhausted."
+ },
+ {
+  "id": 4328,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4331,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment rental",
+  "us_based": "unknown",
+  "note": "Name only; search budget exhausted."
+ },
+ {
+  "id": 4340,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4341,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4342,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4343,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4344,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched."
+ },
+ {
+  "id": 4348,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "unknown",
+  "note": "Name-based qualification; search budget exhausted."
+ }
+]

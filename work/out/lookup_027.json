@@ -1,0 +1,352 @@
+[
+ {
+  "id": 3289,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "hvac",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3290,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "hydroponics retail",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3292,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3296,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift rental",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3300,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3302,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "heavy equipment repair",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3308,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3309,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "automotive lift service",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3310,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "machinery",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3312,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3314,
+  "domain": "h4eqrentals.com",
+  "status": "verified_existing",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "yes",
+  "note": "Unverified: search budget exhausted; domain plausibly matches H4 name"
+ },
+ {
+  "id": 3318,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment rental",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3320,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3327,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "forklift dealer",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3330,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3333,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "crane service",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3338,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "grinding and rentals",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3340,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3341,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3342,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "hardware retail",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3347,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "ag supply",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3355,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "equipment sales",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3357,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "portable toilets",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3361,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3365,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3366,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "hvac",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3370,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "construction equipment",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3373,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "industrial supply",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3374,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "tool supply",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3377,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "skid steer rental",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3379,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "party rental",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3381,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "No",
+  "category": "outdoor power equipment",
+  "us_based": "yes",
+  "note": "Search budget exhausted; stihldealer.net is brand platform, removed"
+ },
+ {
+  "id": 3393,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "unknown",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3399,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Yes",
+  "category": "aerial lift rental",
+  "us_based": "yes",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ },
+ {
+  "id": 3401,
+  "domain": "",
+  "status": "not_found",
+  "confidence": "low",
+  "heavy_equipment": "Unsure",
+  "category": "hoist service",
+  "us_based": "unknown",
+  "note": "Search budget exhausted; not researched, needs rerun; classified by name only"
+ }
+]
