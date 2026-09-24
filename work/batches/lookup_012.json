@@ -1,0 +1,212 @@
+[
+{
+"id": 1528,
+"name": "Crownridge Porta Potties",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1532,
+"name": "D'Cario Crane Rental",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1533,
+"name": "D. Lamoreaux Farms",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1535,
+"name": "Daniels Aerial Equipment Rental",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1537,
+"name": "Desert West Equipment & Tractor",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1539,
+"name": "DirtPro Skidsteer Rental",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1540,
+"name": "Discount Dumpster Rentals Phoenix",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1546,
+"name": "Easy Lift Crane Service",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1557,
+"name": "Excalibur Equipment & Diesel",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1559,
+"name": "Flagstaff Equipment",
+"current_domain": "flagequip.com",
+"issue": "domain does not match name"
+},
+{
+"id": 1560,
+"name": "Flagstaff Equipment Rentals",
+"current_domain": "rent.flagequip.com",
+"issue": "domain does not match name"
+},
+{
+"id": 1561,
+"name": "Flagstaff Portable Toilet Rentals",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1574,
+"name": "Goodyear Porta Potty Rentals",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1575,
+"name": "Goodyear Portable Toilet Rentals",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1592,
+"name": "Hodge Equipment Rental Rental",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1595,
+"name": "Huffman Aerial Equipment Rental",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1605,
+"name": "JET RENTAL",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1606,
+"name": "JMJ Equipment Transport Inc",
+"current_domain": "safer.fmcsa.dot.gov",
+"issue": "domain does not match name"
+},
+{
+"id": 1607,
+"name": "John Deere Construction Equipment",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1613,
+"name": "KC Forklift Service Company",
+"current_domain": "kcflsc.com",
+"issue": "domain does not match name"
+},
+{
+"id": 1615,
+"name": "KE&G Construction",
+"current_domain": "kegtus.com",
+"issue": "domain does not match name"
+},
+{
+"id": 1629,
+"name": "Lower River Ranch",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1640,
+"name": "Mesa Crane Inc",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1642,
+"name": "Mex-Ari Sales",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1646,
+"name": "Mobile Forklift service",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1649,
+"name": "Mohawks Transport",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1657,
+"name": "Nescon LLC",
+"current_domain": "xbroom.com",
+"issue": "domain does not match name"
+},
+{
+"id": 1658,
+"name": "New Western Rentals",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1659,
+"name": "NexGen Mobile Auto & Equipment Repair",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1660,
+"name": "Next level crane services llc",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1670,
+"name": "Padilla Aerial Lift Rentals",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1671,
+"name": "Palo Verde Rentals",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1676,
+"name": "Peoria Portable Toilets",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1682,
+"name": "Pinal Crane Services",
+"current_domain": "",
+"issue": "missing"
+},
+{
+"id": 1683,
+"name": "Pioneer Mountain Rentals",
+"current_domain": "",
+"issue": "missing"
+}
+]
