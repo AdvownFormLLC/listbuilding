@@ -1,0 +1,2882 @@
+[
+{
+"id": 10355,
+"domain": "generaltoolworldwide.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "general tool supply",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10356,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "heavy truck dealer",
+"us_based": "unknown",
+"note": "parked: 'parked'"
+},
+{
+"id": 10357,
+"domain": "thegbcmc.org",
+"domain_status": "verified",
+"icp": "No",
+"category": "community center",
+"us_based": "unknown",
+"note": "live: 'George B. Crane Memorial Center - MEETINGS'"
+},
+{
+"id": 10358,
+"domain": "ggf-service.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "equipment supplier (Togo)",
+"us_based": "no",
+"note": "live: 'GGF Services - Fourniture d'\u00e9quipements et R\u00e9alisation d'ouv'"
+},
+{
+"id": 10359,
+"domain": "gilbertandcole.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "building supply",
+"us_based": "yes",
+"note": "live: 'Gilbert and Cole Building Products, Inc. Supplier of buildin'"
+},
+{
+"id": 10360,
+"domain": "gilletteequipment.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "restaurant equipment",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10361,
+"domain": "glancycompanies.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "live: 'Cranes & Rigging in Boston MA | Glancy Companies'"
+},
+{
+"id": 10363,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10364,
+"domain": "grantsrental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "yes",
+"note": "live: 'Grants Rental | Party & Equipment Rentals in Bridgewater'"
+},
+{
+"id": 10365,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "garden center",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10366,
+"domain": "guidosservices.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "dumpster rental",
+"us_based": "yes",
+"note": "live: 'Central Massachusetts Dumpster Rentals | Guido\u2019s Services'"
+},
+{
+"id": 10368,
+"domain": "reynoldslawnmower.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "yes",
+"note": "live: 'Home | H.D. Reynolds | Cheshire, MA'"
+},
+{
+"id": 10370,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10371,
+"domain": "imperialbrady.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "foodservice supply",
+"us_based": "unknown",
+"note": "live: 'Imperial Brady | Foodservice, Packaging & Facility Supply Di'"
+},
+{
+"id": 10372,
+"domain": "hardwareproducts.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "hardware supplier",
+"us_based": "unknown",
+"note": "blocked: 'blocked'"
+},
+{
+"id": 10373,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "scaffolding/infrastructure services",
+"us_based": "unknown",
+"note": "live: '\u30b9\u30de\u30db\u306f\u3044\u3064\u304b\u3089\u666e\u53ca\uff1f\u30b9\u30de\u30fc\u30c8\u30d5\u30a9\u30f3\u306e\u7a2e\u985e\u3068\u9032\u5316'"
+},
+{
+"id": 10374,
+"domain": "harvardpower.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "yes",
+"note": "live: 'Lawn Mower Store in Harvard Massachusetts | Home'"
+},
+{
+"id": 10375,
+"domain": "haverhillsteel.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "steel fabrication/scrap",
+"us_based": "yes",
+"note": "live: 'Steel Aluminum Fabricators | Haverhill Steel Salvage'"
+},
+{
+"id": 10376,
+"domain": "heavyequipmentsolutions.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy equipment dealer",
+"us_based": "unknown",
+"note": "live: 'Heavy Equipment Solutions Inc (HES) - Heavy Equipment Soluti'"
+},
+{
+"id": 10377,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "rigging",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10378,
+"domain": "herculessupply.com",
+"domain_status": "likely",
+"icp": "Unsure",
+"category": "industrial supply",
+"us_based": "unknown",
+"note": "live: 'herculessupply.com'"
+},
+{
+"id": 10379,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "construction supply",
+"us_based": "unknown",
+"note": "parked: 'parked'"
+},
+{
+"id": 10380,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "live: 'Hill Construction | Hayward, WI Custom New Home Builder'"
+},
+{
+"id": 10381,
+"domain": "hillsidelawnandfarm.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "outdoor power repair",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10382,
+"domain": "hillsidemachineinc.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "diesel engine repair",
+"us_based": "yes",
+"note": "live: 'Diesel Engine Rebuilding Machine Shop Service : MA, CT, RI ,'"
+},
+{
+"id": 10383,
+"domain": "hilltopequipmentllc.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "equipment dealer",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10384,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "equipment rental",
+"us_based": "unknown",
+"note": "live: 'hilltown.net - This website is for sale! - hilltown hill tow'"
+},
+{
+"id": 10386,
+"domain": "hinoofmethuen.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy truck dealer",
+"us_based": "yes",
+"note": "live: 'Hino of Methuen - Hino Light and Medium Duty Truck Dealer in'"
+},
+{
+"id": 10388,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "dumpster rental",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10390,
+"domain": "huntsphotoandvideo.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "AV/camera",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10391,
+"domain": "illumitubes.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "event decor",
+"us_based": "yes",
+"note": "live: 'Custom Illuminated Centerpieces for Events | iLLUMITUBES'"
+},
+{
+"id": 10392,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "forklift dealer",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10393,
+"domain": "industrialfleetservice.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "forklift service",
+"us_based": "yes",
+"note": "live: 'Industrial Fleet Service - Lansing, Michigan forklift repair'"
+},
+{
+"id": 10394,
+"domain": "industrialhandlingsystems.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "material handling dealer",
+"us_based": "yes",
+"note": "live: 'live'"
+},
+{
+"id": 10395,
+"domain": "inmansquarehardware.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "hardware store",
+"us_based": "yes",
+"note": "live: 'Hardware Supplies - Cambridge, MA - Inman Square Hardware'"
+},
+{
+"id": 10396,
+"domain": "interstateequiprental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "yes",
+"note": "live: 'Equipment Rental, Construction, Forklift, Aerial Lift: New B'"
+},
+{
+"id": 10397,
+"domain": "interstateequiprental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "yes",
+"note": "live: 'Equipment Rental, Construction, Forklift, Aerial Lift: New B'"
+},
+{
+"id": 10398,
+"domain": "interstatefoodservice.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "food equipment repair",
+"us_based": "yes",
+"note": "live: 'On-Demand Commercial Food Equipment Repair - Interstate Food'"
+},
+{
+"id": 10399,
+"domain": "interstaterental.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "yes",
+"note": "live: 'Rental Service, Event Rentals Boston, MA Interstate Rental S'"
+},
+{
+"id": 10401,
+"domain": "jandb.com",
+"domain_status": "likely",
+"icp": "Unsure",
+"category": "unknown",
+"us_based": "unknown",
+"note": "live: 'J&B Enterprises'"
+},
+{
+"id": 10402,
+"domain": "jmequipmentco.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy equipment/demolition",
+"us_based": "yes",
+"note": "live: 'JM Equipment Company - Crushed Stone, Heavy Equipment, Demol'"
+},
+{
+"id": 10403,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10404,
+"domain": "haydist.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "unknown",
+"note": "live: 'Hayward Distributing Co.'"
+},
+{
+"id": 10405,
+"domain": "jakiley.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "utility truck/aerial equipment",
+"us_based": "yes",
+"note": "live: 'Utility Aerial Device and Digger Derrick Experts - James A K'"
+},
+{
+"id": 10406,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "mobility equipment",
+"us_based": "unknown",
+"note": "live: '\u30af\u30e9\u30b7\u30c3\u30af\u30ab\u30fcEV\u6539\u9020\u5c02\u9580\u5e97\uff5c\u65e7\u8eca\u3092\u96fb\u6c17\u81ea\u52d5\u8eca\u306b\uff5c\u30b8\u30e3\u30d1\u30f3\u30af\u30ea\u30f3\u30e2\u30d3\u30ea\u30c6\u30a3\u682a\u5f0f\u4f1a\u793e'"
+},
+{
+"id": 10407,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "stairlifts",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10408,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "hardware store",
+"us_based": "yes",
+"note": "live: 'Jed's Hardware & Garden Center | Shop Hardware & Home Improv'"
+},
+{
+"id": 10410,
+"domain": "johnsbuildingsupply.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "building supply",
+"us_based": "yes",
+"note": "live: 'Johns Building Supply & Ace Hardware'"
+},
+{
+"id": 10411,
+"domain": "jomicorp.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "excavation contractor",
+"us_based": "yes",
+"note": "live: 'Construction | Jomi Corp | Weymouth'"
+},
+{
+"id": 10413,
+"domain": "jsptreeremoval.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "tree service",
+"us_based": "yes",
+"note": "live: 'JSP Tree Solutions | Tree Services Fitchburg, MA'"
+},
+{
+"id": 10414,
+"domain": "juliancrane.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "live: 'Home'"
+},
+{
+"id": 10415,
+"domain": "jumpinjackpot.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "yes",
+"note": "live: 'Bounce House Rentals MA & NH | Leominster, Fitchburg & Centr'"
+},
+{
+"id": 10416,
+"domain": "kbgranite.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "countertops",
+"us_based": "yes",
+"note": "live: 'K&B Granite & Marble \u2013 Countertops Fabricators MA, Quartz Co'"
+},
+{
+"id": 10417,
+"domain": "kelleytree.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "tree service",
+"us_based": "yes",
+"note": "live: 'Kelley Tree Service | A Premier Tree Company in MA'"
+},
+{
+"id": 10418,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "car dealer",
+"us_based": "yes",
+"note": "live: 'Car Dealer in Strasburg, ND'"
+},
+{
+"id": 10419,
+"domain": "kenworthne.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy truck dealer",
+"us_based": "unknown",
+"note": "live: 'Kenworth Northeast | Home'"
+},
+{
+"id": 10420,
+"domain": "krmoffice.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "office equipment",
+"us_based": "yes",
+"note": "live: 'KRM Office Equipment - Westfield, Massachusetts'"
+},
+{
+"id": 10421,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "unknown",
+"us_based": "unknown",
+"note": "live: 'Bravo ! Votre domaine l-l-services.com a bien \u00e9t\u00e9 cr\u00e9\u00e9 avec '"
+},
+{
+"id": 10422,
+"domain": "l-mrentals.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "unknown",
+"note": "blocked: 'blocked'"
+},
+{
+"id": 10423,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "heavy truck dealer",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10424,
+"domain": "lamarreequipment.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "equipment company (non-US)",
+"us_based": "no",
+"note": "live: 'Lamarre Equipment Inc'"
+},
+{
+"id": 10425,
+"domain": "lancoscaffolding.net",
+"domain_status": "verified",
+"icp": "No",
+"category": "scaffolding",
+"us_based": "yes",
+"note": "live: 'Scaffolding Contractor | New England | 617-623-0060'"
+},
+{
+"id": 10426,
+"domain": "landroverpeabody.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "car dealer",
+"us_based": "unknown",
+"note": "blocked: 'Access Denied'"
+},
+{
+"id": 10427,
+"domain": "landryrental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "general tool rental",
+"us_based": "yes",
+"note": "live: 'Official Landry Rental Center website'"
+},
+{
+"id": 10428,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "engineering",
+"us_based": "unknown",
+"note": "dead: 'dead'"
+},
+{
+"id": 10429,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10430,
+"domain": "masslandscapesupplies.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "yes",
+"note": "live: 'Equipment Rentals, Bobcat & Toro Dingo Rentals | Leominster '"
+},
+{
+"id": 10433,
+"domain": "lincolnequip.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "foodservice equipment",
+"us_based": "yes",
+"note": "live: 'Home - Lincoln Equipment Associates, Inc.'"
+},
+{
+"id": 10434,
+"domain": "littlemowershop.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "yes",
+"note": "live: 'Little Mower Shop \u2014 Mobile Lawn Mower & Snowblower Repair'"
+},
+{
+"id": 10435,
+"domain": "lopeztreeservices.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "tree service",
+"us_based": "yes",
+"note": "live: 'Lynn MA Landscaping & Tree Service | Residential & Commercia'"
+},
+{
+"id": 10436,
+"domain": "lhequip.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy equipment dealer",
+"us_based": "yes",
+"note": "live: 'Lorusso Heavy Equipment'"
+},
+{
+"id": 10439,
+"domain": "lumberdogsusa.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "lumber supply",
+"us_based": "yes",
+"note": "live: 'Lumber Dogs | Discount Lumber & Building Supplies | Lumber D'"
+},
+{
+"id": 10440,
+"domain": "lvjtrailers.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment/trailer dealer",
+"us_based": "yes",
+"note": "live: 'LVJ Trailer & Equipment - For All Your Equipment & Trailer N'"
+},
+{
+"id": 10441,
+"domain": "lynnladder.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "ladders/scaffolding",
+"us_based": "yes",
+"note": "live: 'Home - Lynn Ladder'"
+},
+{
+"id": 10442,
+"domain": "lynnwaytoolsandcollectables.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "used tools retail",
+"us_based": "yes",
+"note": "live: 'Lynnway Tools & Collectables | Used Tools in Lynn, MA'"
+},
+{
+"id": 10443,
+"domain": "mstrucktrailerrepair.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy truck & equipment repair",
+"us_based": "yes",
+"note": "live: 'MS Truck | Westfield, MA | Heavy Equipment Specialists'"
+},
+{
+"id": 10444,
+"domain": "macdonaldcrane.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "live: 'Top Crane Rental and Rigging Services across Massachusetts'"
+},
+{
+"id": 10446,
+"domain": "maestranzi.com",
+"domain_status": "likely",
+"icp": "Unsure",
+"category": "unknown",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10448,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Yes",
+"category": "general equipment rental",
+"us_based": "unknown",
+"note": "live: 'Point of Rental Essentials'"
+},
+{
+"id": 10449,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "machine shop",
+"us_based": "unknown",
+"note": "live: 'Welcome maldenmachine.com - BlueHost.com'"
+},
+{
+"id": 10450,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10451,
+"domain": "mannysforkliftrepair.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "forklift repair",
+"us_based": "yes",
+"note": "live: 'Manny's Forklift Repair | Massachusetts Forklift Service'"
+},
+{
+"id": 10453,
+"domain": "marlborohydraulic.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "hydraulic hose supply",
+"us_based": "unknown",
+"note": "blocked: 'blocked'"
+},
+{
+"id": 10454,
+"domain": "marlbororentals.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "general equipment rental",
+"us_based": "yes",
+"note": "live: 'Lawn, Garden, Party Equipment Rentals Marlborough-Framingham'"
+},
+{
+"id": 10456,
+"domain": "martelcraneandtree.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "live: 'Welcome to Martel Crane Service & Tree Removal | Martel Cran'"
+},
+{
+"id": 10457,
+"domain": "martellpartyrentals.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "yes",
+"note": "live: 'Martell Party Rentals Weymouth MA - Party and Event Rentals'"
+},
+{
+"id": 10458,
+"domain": "massbaytree.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "tree service",
+"us_based": "unknown",
+"note": "blocked: 'blocked'"
+},
+{
+"id": 10460,
+"domain": "massgeneratorsllc.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "generators",
+"us_based": "unknown",
+"note": "blocked: 'blocked'"
+},
+{
+"id": 10461,
+"domain": "masslandscapesupplies.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "yes",
+"note": "live: 'Home - Mass Landscape Supplies & Equipment Rentals'"
+},
+{
+"id": 10462,
+"domain": "unicorr.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "packaging manufacturer",
+"us_based": "yes",
+"note": "live: 'Corrugated Packaging Manufacturers | Unicorr'"
+},
+{
+"id": 10463,
+"domain": "mastercrafttruckcaps.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "truck caps",
+"us_based": "yes",
+"note": "live: 'Truck Caps & Accessories | Mastercraft Truck Caps LLC | New '"
+},
+{
+"id": 10465,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "material handling dealer",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10467,
+"domain": "mbtractor.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10468,
+"domain": "mccue.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "security/protection products",
+"us_based": "yes",
+"note": "live: 'Your World Protected by McCue | McCue'"
+},
+{
+"id": 10469,
+"domain": "meadowfarmequipment.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10470,
+"domain": "medicalequipmentdynamics.net",
+"domain_status": "verified",
+"icp": "No",
+"category": "medical equipment",
+"us_based": "unknown",
+"note": "live: 'www.MEDICALEQUIPMENTDYNAMICS.com'"
+},
+{
+"id": 10471,
+"domain": "meridianindustrialgroup.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "material handling",
+"us_based": "yes",
+"note": "live: 'Meridian Industrial Group'"
+},
+{
+"id": 10472,
+"domain": "meritmachineinc.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "machine shop",
+"us_based": "yes",
+"note": "live: 'Merit Machine (978)342-7677'"
+},
+{
+"id": 10473,
+"domain": "merrimacindustrial.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "industrial electrical supply",
+"us_based": "yes",
+"note": "live: 'Welcome to Merrimac Industrial Sales - Industrial Electrical'"
+},
+{
+"id": 10474,
+"domain": "metalstone.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "manufacturing",
+"us_based": "yes",
+"note": "live: 'MetalStone Technologies'"
+},
+{
+"id": 10476,
+"domain": "metroindustrial.net",
+"domain_status": "verified",
+"icp": "No",
+"category": "industrial/marine supply",
+"us_based": "yes",
+"note": "live: 'Metro Industrial & Marine Supply \u2013 Metro Industrial & Marine'"
+},
+{
+"id": 10477,
+"domain": "metrowestpower.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "generators",
+"us_based": "yes",
+"note": "live: 'Metrowest Power | Marlborough, MA | Generac Power Systems'"
+},
+{
+"id": 10479,
+"domain": "milantowing.netlify.app",
+"domain_status": "likely",
+"icp": "No",
+"category": "towing",
+"us_based": "unknown",
+"note": "live: 'Milan Towing | Home'"
+},
+{
+"id": 10480,
+"domain": "495rental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "yes",
+"note": "live: 'Equipment & Party Rentals Milford MA | 495 Rental Center'"
+},
+{
+"id": 10481,
+"domain": "powersweeping.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "sweeping/maintenance",
+"us_based": "yes",
+"note": "live: 'Millennium Maintenance - Home'"
+},
+{
+"id": 10483,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "excavation contractor",
+"us_based": "unknown",
+"note": "dead: 'dead'"
+},
+{
+"id": 10484,
+"domain": "mmtreeservicesinc.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "tree service",
+"us_based": "yes",
+"note": "live: 'Top Tree Services Company in MA | MM Tree Services INC'"
+},
+{
+"id": 10485,
+"domain": "mobilemowandsnow.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "unknown",
+"note": "live: 'Mobile Mower & Snowblower Repair LLC - Lawn Mower, Snow Blow'"
+},
+{
+"id": 10486,
+"domain": "monahansmarine.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "boat dealer",
+"us_based": "yes",
+"note": "live: 'Monahan's Marine | New & Used Boats, Yamaha Outboards | Weym'"
+},
+{
+"id": 10487,
+"domain": "monnicksupply.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "hardware store",
+"us_based": "yes",
+"note": "live: 'Family Hardware Store in Marlborough, Framingham, MA - Elect'"
+},
+{
+"id": 10488,
+"domain": "morganpower.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10489,
+"domain": "moschettobros.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "excavation contractor",
+"us_based": "unknown",
+"note": "blocked: 'moschettobrothers.net'"
+},
+{
+"id": 10490,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "live: 'Custom Home Construction & Remodeling: Roswell & Alpharetta,'"
+},
+{
+"id": 10491,
+"domain": "moynihanlumber.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "lumber supply",
+"us_based": "yes",
+"note": "live: 'Home - Moynihan Lumber'"
+},
+{
+"id": 10492,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "entertainment",
+"us_based": "unknown",
+"note": "dead: 'dead'"
+},
+{
+"id": 10493,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10494,
+"domain": "murraystowing.net",
+"domain_status": "verified",
+"icp": "No",
+"category": "towing",
+"us_based": "yes",
+"note": "live: 'Murrays Towing Rochester New York'"
+},
+{
+"id": 10495,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "plumbing supply",
+"us_based": "unknown",
+"note": "live: 'reece.com'"
+},
+{
+"id": 10496,
+"domain": "musicarro.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "car audio",
+"us_based": "yes",
+"note": "live: 'Musicarro'"
+},
+{
+"id": 10497,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "rental",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10499,
+"domain": "nalaequipment.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "equipment dealer",
+"us_based": "unknown",
+"note": "blocked: 'nalaequipment.com'"
+},
+{
+"id": 10500,
+"domain": "nationwideladder.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "ladders/scaffolding",
+"us_based": "yes",
+"note": "live: 'In NH, MA, CT, RI, ME and VT When it Comes to Ladders, Alumi'"
+},
+{
+"id": 10501,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "unknown",
+"note": "live: 'kdddomains'"
+},
+{
+"id": 10502,
+"domain": "needaliftmedivan.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "medical transport",
+"us_based": "yes",
+"note": "live: 'Home'"
+},
+{
+"id": 10503,
+"domain": "nedogbiscuit.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "pet food",
+"us_based": "yes",
+"note": "live: 'New England Dog Biscuit Company'"
+},
+{
+"id": 10504,
+"domain": "newenglandpowersports.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "powersports dealer",
+"us_based": "yes",
+"note": "live: 'Home | New England Powersports'"
+},
+{
+"id": 10505,
+"domain": "nepctr.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "produce market",
+"us_based": "unknown",
+"note": "live: 'live'"
+},
+{
+"id": 10506,
+"domain": "nfscapital.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "equipment financing",
+"us_based": "yes",
+"note": "live: 'Equipment Financing for Non-Investment Grade Companies - NFS'"
+},
+{
+"id": 10507,
+"domain": "nollelectric.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "electrical contractor",
+"us_based": "unknown",
+"note": "blocked: 'blocked'"
+},
+{
+"id": 10508,
+"domain": "norfolkpower.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10510,
+"domain": "naautoequipment.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "auto garage equipment",
+"us_based": "yes",
+"note": "live: 'Auto Garage Equipment Supplier | North American Auto Equipme'"
+},
+{
+"id": 10512,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "model trains",
+"us_based": "yes",
+"note": "live: 'North East Trains'"
+},
+{
+"id": 10514,
+"domain": "northamptonrentalcenter.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "general equipment rental",
+"us_based": "yes",
+"note": "live: 'Northampton Rental Center'"
+},
+{
+"id": 10515,
+"domain": "northeastmachinerysales.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "machine tools dealer",
+"us_based": "yes",
+"note": "live: 'Machine Tool & Fabrication Equipment Distributor'"
+},
+{
+"id": 10516,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "construction services",
+"us_based": "unknown",
+"note": "parked: 'parked'"
+},
+{
+"id": 10517,
+"domain": "northeastrestaurantequipment.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "restaurant equipment",
+"us_based": "yes",
+"note": "live: 'Restaurant Equipment Cape Cod, MA | New Bedford, MA'"
+},
+{
+"id": 10518,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "tools supply",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10519,
+"domain": "northernhydraulicssvc.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy truck parts/hydraulics",
+"us_based": "yes",
+"note": "live: 'Northern Hydraulics Services'"
+},
+{
+"id": 10520,
+"domain": "northernmachinerysales.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "machinery sales",
+"us_based": "yes",
+"note": "live: 'Home - Northern Machinery Sales'"
+},
+{
+"id": 10522,
+"domain": "numotion.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "mobility equipment",
+"us_based": "yes",
+"note": "live: 'Numotion | Leading Provider of Mobility Solutions'"
+},
+{
+"id": 10523,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "real estate",
+"us_based": "yes",
+"note": "live: 'HallKeen | Mission-driven Real Estate Management and Investm'"
+},
+{
+"id": 10524,
+"domain": "oceanstateforklifts.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "forklift dealer",
+"us_based": "yes",
+"note": "live: 'Ocean State Forklifts, Inc. | Learn More Today'"
+},
+{
+"id": 10526,
+"domain": "oleksaklumber.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "lumber supply",
+"us_based": "yes",
+"note": "live: 'Welcome to Oleksak Lumber Company! - Oleksak Lumber Westfiel'"
+},
+{
+"id": 10527,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "party rental",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10528,
+"domain": "orchardhillsales.net",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10529,
+"domain": "orlandosgarage.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10530,
+"domain": "palmsrental.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "live: 'Palms Rental Home - Palms Rental'"
+},
+{
+"id": 10531,
+"domain": "parkerpowerequipment.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "unknown",
+"note": "live: 'Parker Power Equipment | Sales, Service, Rentals | Holden MA'"
+},
+{
+"id": 10533,
+"domain": "partyhopper413.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "yes",
+"note": "live: 'Party Hopper Rentals LLC MA - Party Rental and Bounce House '"
+},
+{
+"id": 10535,
+"domain": "patriotne.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "tow truck dealer",
+"us_based": "yes",
+"note": "live: 'Patriot Sales & Service | New England Tow Truck Sales & Serv'"
+},
+{
+"id": 10536,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10537,
+"domain": "peabodysupply.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "plumbing supply",
+"us_based": "unknown",
+"note": "live: 'Peabody Supply \u2013 Plumbing supply distributor in New England'"
+},
+{
+"id": 10538,
+"domain": "peabodytrucksupply.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy truck parts",
+"us_based": "unknown",
+"note": "live: 'Peabody Truck Supply'"
+},
+{
+"id": 10539,
+"domain": "peakeventservices.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "event rental",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10541,
+"domain": "pensketruckrental.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "truck rental",
+"us_based": "unknown",
+"note": "live: 'Your Moving Truck Rentals Start with Penske'"
+},
+{
+"id": 10542,
+"domain": "perfectpartiesusa.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "yes",
+"note": "live: 'Home | Perfect Parties USA'"
+},
+{
+"id": 10543,
+"domain": "perrycraneservices.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "live: 'Perry Crane Services Inc. | crane service in MA'"
+},
+{
+"id": 10545,
+"domain": "philiparandwireropeandslings.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "rigging supply",
+"us_based": "yes",
+"note": "live: 'Hoisting Supplies | Newton, MA | Philip A. Rand Wire Rope an'"
+},
+{
+"id": 10546,
+"domain": "pickcrane.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "live: 'PICK Crane Service'"
+},
+{
+"id": 10547,
+"domain": "pinehillequipment.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane/equipment dealer",
+"us_based": "yes",
+"note": "live: 'Home :: Pine Hill Equipment'"
+},
+{
+"id": 10548,
+"domain": "pinto-recycling.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "recycling",
+"us_based": "unknown",
+"note": "blocked: 'blocked'"
+},
+{
+"id": 10549,
+"domain": "pioneersalesco.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "foodservice supply",
+"us_based": "yes",
+"note": "live: 'Pioneer Sales Co. | Wholesale distributer of quality food se'"
+},
+{
+"id": 10550,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "portable toilets",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10551,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "entertainment",
+"us_based": "unknown",
+"note": "live: 'Platinum City Gaming Taunton: Fun and Entertainment Hub'"
+},
+{
+"id": 10552,
+"domain": "pleasantrentals.com",
+"domain_status": "likely",
+"icp": "Unsure",
+"category": "rental",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10553,
+"domain": "pittsfieldusedequipment.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "heavy equipment dealer",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10554,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "plumbing supply",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10555,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "aerial lift rental",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10556,
+"domain": "4genset.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "generators",
+"us_based": "yes",
+"note": "live: 'Power Equipment Group Attleboro MA - Generator Service'"
+},
+{
+"id": 10557,
+"domain": "prayfarms.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "farm",
+"us_based": "unknown",
+"note": "live: 'Untitled Page'"
+},
+{
+"id": 10558,
+"domain": "precisionequipmentrepair.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "ag equipment repair",
+"us_based": "yes",
+"note": "live: 'Home - Precision Equipment Repair, LLC'"
+},
+{
+"id": 10559,
+"domain": "precisionfitnessequipment.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "fitness equipment",
+"us_based": "unknown",
+"note": "live: 'Since 1988 - Precision Fitness Equipment'"
+},
+{
+"id": 10560,
+"domain": "precision-handling.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "printer parts",
+"us_based": "yes",
+"note": "live: 'Printer Tractor Feed Belt Replacement Parts'"
+},
+{
+"id": 10561,
+"domain": "premierequipment.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "machine tools dealer",
+"us_based": "yes",
+"note": "live: 'Used CNC Machines For Sale: Used Lathes, Mills, And More'"
+},
+{
+"id": 10562,
+"domain": "premierrestaurantequipmentsolutions.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "restaurant equipment",
+"us_based": "yes",
+"note": "live: 'Appliance Repair North Shore MA Premier Restaurant Equipment'"
+},
+{
+"id": 10563,
+"domain": "premiertrucksnb.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy truck dealer",
+"us_based": "yes",
+"note": "live: 'Premier Trucks'"
+},
+{
+"id": 10564,
+"domain": "premiumply.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "building supply",
+"us_based": "yes",
+"note": "live: 'Premium Plywood + Specialties | Cape Cod Building Supplies +'"
+},
+{
+"id": 10565,
+"domain": "pridemachining.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "machine shop",
+"us_based": "yes",
+"note": "live: 'Pride Machining, Inc. \u2013 Westfield's locally-owned small volu'"
+},
+{
+"id": 10566,
+"domain": "primospartyrentals.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "party rental",
+"us_based": "unknown",
+"note": "blocked: 'blocked'"
+},
+{
+"id": 10567,
+"domain": "priority1restorationservices.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "restoration",
+"us_based": "unknown",
+"note": "blocked: 'blocked'"
+},
+{
+"id": 10568,
+"domain": "protoolandsupply.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "yes",
+"note": "live: 'Pro Tool & Supply | Serving All of New England and Beyond'"
+},
+{
+"id": 10569,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "HVAC",
+"us_based": "unknown",
+"note": "dead: 'dead'"
+},
+{
+"id": 10570,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "entertainment",
+"us_based": "unknown",
+"note": "live: 'pulseentertainment.com - This website is for sale! - pulseen'"
+},
+{
+"id": 10571,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "HVAC",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10572,
+"domain": "qualityfleetservice.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "fleet repair",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10573,
+"domain": "quincymutual.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "insurance",
+"us_based": "unknown",
+"note": "live: 'Quincy Mutual Group - Quincy Mutual'"
+},
+{
+"id": 10575,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10576,
+"domain": "quirkcommercialtrucks.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "commercial truck dealer",
+"us_based": "yes",
+"note": "live: 'Home Page - Quirk Commercial Trucks'"
+},
+{
+"id": 10577,
+"domain": "quirk-ford.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "car dealer",
+"us_based": "unknown",
+"note": "blocked: 'Attention Required! | Cloudflare'"
+},
+{
+"id": 10578,
+"domain": "raindusa.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "hose supply",
+"us_based": "yes",
+"note": "live: 'R & A Industries, INC | Your Direct Source for Hoses and Fit'"
+},
+{
+"id": 10580,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "equipment",
+"us_based": "unknown",
+"note": "parked: 'parked'"
+},
+{
+"id": 10581,
+"domain": "rsequipment.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "unknown",
+"note": "blocked: 'rsequipment.com'"
+},
+{
+"id": 10582,
+"domain": "rwrope.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "rope supply",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10583,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "live: 'Ray's Construction and Development Inc. - Ray's Construction'"
+},
+{
+"id": 10584,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "excavation contractor",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10585,
+"domain": "rcaelectric.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "generators",
+"us_based": "yes",
+"note": "live: 'Generator Sales, Installations, & Electrician Services in Ca'"
+},
+{
+"id": 10587,
+"domain": "redboxplus.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "dumpster rental",
+"us_based": "yes",
+"note": "live: 'Dumpster Rentals | redbox+ Dumpsters'"
+},
+{
+"id": 10588,
+"domain": "rednosedecor.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "holiday lighting",
+"us_based": "yes",
+"note": "live: 'Holiday Lighting | REDNOSE Holiday Lighting and D\u00e9cor'"
+},
+{
+"id": 10590,
+"domain": "reqinc.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "medical equipment",
+"us_based": "unknown",
+"note": "live: 'Home Medical & Mobility Equipment | Rehabilitation Equipment'"
+},
+{
+"id": 10591,
+"domain": "reilsrentals.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "furniture rental",
+"us_based": "yes",
+"note": "live: 'FURNITURE SALES AND RENTALS'"
+},
+{
+"id": 10592,
+"domain": "remodelersoutlet.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "building supply",
+"us_based": "yes",
+"note": "live: 'Remodelers Outlet'"
+},
+{
+"id": 10593,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "general tool rental",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10594,
+"domain": "salemrentall.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "general equipment rental",
+"us_based": "yes",
+"note": "live: 'Rent-All \u2013 Independent We Stand'"
+},
+{
+"id": 10595,
+"domain": "rentaldepotrentals.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "yes",
+"note": "live: 'Home - Rental Depot Boston'"
+},
+{
+"id": 10596,
+"domain": "rentobotics.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "robot rental",
+"us_based": "yes",
+"note": "live: 'RentoBotics | Humanoid Robot Rental & RaaS Provider | Marlbo'"
+},
+{
+"id": 10597,
+"domain": "ribcosupply.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "contractor supply/rigging",
+"us_based": "yes",
+"note": "live: 'Home - RIBCO Supply'"
+},
+{
+"id": 10598,
+"domain": "rippaequipmentsales.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "equipment dealer",
+"us_based": "unknown",
+"note": "blocked: 'blocked'"
+},
+{
+"id": 10599,
+"domain": "rjsoutdoorpower.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10600,
+"domain": "robertchildsinc.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "excavation contractor",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10601,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "tent rental",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10602,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "machine shop",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10603,
+"domain": "rogersspringhill.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "garden center",
+"us_based": "yes",
+"note": "live: 'Home - Rogers Spring Hill Garden Center Rogers Spring Hill G'"
+},
+{
+"id": 10605,
+"domain": "rottispower.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10606,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "batteries",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10607,
+"domain": "rpmclaughlin.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "plumbing/HVAC",
+"us_based": "unknown",
+"note": "blocked: 'Error 403 Forbidden'"
+},
+{
+"id": 10608,
+"domain": "rpmequipment.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "yes",
+"note": "live: 'RPM Small Engine - Your Source for Outdoor Equipment'"
+},
+{
+"id": 10609,
+"domain": "rstthermal.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "HVAC",
+"us_based": "yes",
+"note": "live: 'HVAC Solutions For New England | RST Thermal'"
+},
+{
+"id": 10611,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10612,
+"domain": "proctorlandscapesupply.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "landscape supply",
+"us_based": "yes",
+"note": "live: 'Proctor Landscape Supply | Landscape & Masonry Supply'"
+},
+{
+"id": 10613,
+"domain": "rydemore.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy truck parts",
+"us_based": "unknown",
+"note": "live: 'Rydemore Heavy Duty Truck Parts - Used Semi-Truck Parts'"
+},
+{
+"id": 10614,
+"domain": "sandmfarmsinc.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "farm",
+"us_based": "yes",
+"note": "live: 'Home | S & M Farms Inc. | Fitchburg, MA 01420'"
+},
+{
+"id": 10615,
+"domain": "safesiterentals.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "temporary fence rental",
+"us_based": "yes",
+"note": "live: 'Temporary Fence Rentals | Safe Site Rentals | MA'"
+},
+{
+"id": 10616,
+"domain": "safewayoverhead.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "overhead crane service",
+"us_based": "yes",
+"note": "live: 'Safeway Overhead Crane - Home'"
+},
+{
+"id": 10617,
+"domain": "salem-motorsports.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "powersports dealer",
+"us_based": "unknown",
+"note": "blocked: 'salem-motorsports.com'"
+},
+{
+"id": 10618,
+"domain": "samuelholmesinc.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "unknown",
+"us_based": "unknown",
+"note": "live: 'Samuel Holmes, Inc.'"
+},
+{
+"id": 10619,
+"domain": "sarristruckequip.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "truck equipment",
+"us_based": "yes",
+"note": "live: 'Sarris Truck Equipment | Snow Removal Parts Accessories Repa'"
+},
+{
+"id": 10620,
+"domain": "capworld.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "truck accessories",
+"us_based": "yes",
+"note": "live: 'Cap World - Aftermarket Parts and Upgrades for Pickup Trucks'"
+},
+{
+"id": 10621,
+"domain": "savoyequipmentservice.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy equipment repair",
+"us_based": "yes",
+"note": "live: 'HOME | Savoy Equipment Serv'"
+},
+{
+"id": 10622,
+"domain": "lothropcompanies.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "scaffolding",
+"us_based": "yes",
+"note": "live: 'Scaffolding & Shoring MA, CT, ME, NH, RI, VT | Lothrop Co'"
+},
+{
+"id": 10623,
+"domain": "schofieldpowerequipment.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10624,
+"domain": "schoolstreettruck.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy truck parts",
+"us_based": "yes",
+"note": "live: 'School Street Truck Parts'"
+},
+{
+"id": 10625,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "equipment dealer",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10628,
+"domain": "simpsonstrucksupply.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "truck & construction parts",
+"us_based": "yes",
+"note": "live: 'Simpson's Inc. Truck & Construction Parts'"
+},
+{
+"id": 10629,
+"domain": "skylineservicesma.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "unknown",
+"us_based": "yes",
+"note": "live: 'Skyline Services'"
+},
+{
+"id": 10630,
+"domain": "smithmercedesdealer.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "car dealer",
+"us_based": "unknown",
+"note": "blocked: 'Access Denied'"
+},
+{
+"id": 10631,
+"domain": "smithandsonsmachine.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "machine shop",
+"us_based": "yes",
+"note": "live: 'Smith & Sons Machine Inc | Machinists | Brockton, MA'"
+},
+{
+"id": 10632,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10633,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "portable toilets",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10634,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "dumpster rental",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10635,
+"domain": "sourceequipment.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "material handling dealer",
+"us_based": "unknown",
+"note": "live: 'Source Equipment Company - Material Handling Equipment & Sol'"
+},
+{
+"id": 10636,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10637,
+"domain": "southshoretractor.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "ag/compact tractor dealer",
+"us_based": "yes",
+"note": "live: 'Lawn Equipment | West Bridgewater, MA | South Shore Tractor'"
+},
+{
+"id": 10638,
+"domain": "spectrascientific.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "scientific equipment",
+"us_based": "yes",
+"note": "live: 'Spectra Scientific | Professional Grade Groundwater Monitori'"
+},
+{
+"id": 10639,
+"domain": "spiegelscrapmetal.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "scrap metal",
+"us_based": "yes",
+"note": "live: 'Spiegel Scrap Metal Inc \u2013 Brockton, MA \u2013 Scrap Metal Recycli'"
+},
+{
+"id": 10640,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "farmstand",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10641,
+"domain": "stpierreusa.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "rigging supply",
+"us_based": "yes",
+"note": "live: 'St Pierre Chain & Wire Rope - Wire Rope, Tire & Industrial C'"
+},
+{
+"id": 10642,
+"domain": "starsignandawning.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "sign company",
+"us_based": "yes",
+"note": "live: 'Star Sign and Awning'"
+},
+{
+"id": 10643,
+"domain": "statelineirrigationsupply.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "irrigation supply",
+"us_based": "yes",
+"note": "live: 'Stateline | New Englands largest suppliers of Irrigation, ou'"
+},
+{
+"id": 10644,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "unknown",
+"us_based": "unknown",
+"note": "live: 'Protected Website'"
+},
+{
+"id": 10645,
+"domain": "sterlingmoving.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "moving services",
+"us_based": "unknown",
+"note": "live: 'Full-Service Moving & Logistics | Sterling Corporation'"
+},
+{
+"id": 10646,
+"domain": "sterlinghvac.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "HVAC",
+"us_based": "yes",
+"note": "live: 'Home Page - Sterling HVAC'"
+},
+{
+"id": 10647,
+"domain": "sterrystreet.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "towing",
+"us_based": "yes",
+"note": "live: 'Towing Providence, RI | Sterry Street Towing'"
+},
+{
+"id": 10648,
+"domain": "stevesrental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "general equipment rental",
+"us_based": "yes",
+"note": "live: 'Steves Rental - Equipment Rental in Millis, MA Steves Rental'"
+},
+{
+"id": 10649,
+"domain": "stewartspower.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "yes",
+"note": "live: 'Stewart's Power Equipment \u2013 Stewart's Power Equipment'"
+},
+{
+"id": 10650,
+"domain": "stonecreekfeeds.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "feed store",
+"us_based": "yes",
+"note": "live: 'Stone Creek Farm Feed and Grain | Farm & Animal Supply Locat'"
+},
+{
+"id": 10651,
+"domain": "stonehamtruckequipment.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "truck bodies/upfitter",
+"us_based": "yes",
+"note": "live: 'Truck Bodies & Upfits in Boston, MA | Stoneham Truck Equipme'"
+},
+{
+"id": 10652,
+"domain": "storagestar.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "self storage",
+"us_based": "yes",
+"note": "live: 'Self Storage Units | Storage Star'"
+},
+{
+"id": 10653,
+"domain": "strongequipmentcoinc.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "scrap/used equipment",
+"us_based": "unknown",
+"note": "live: 'Strong Equipment Co., Inc. \u2013 We buy scrap and deal in second'"
+},
+{
+"id": 10654,
+"domain": "sudburytaylorrental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "general equipment rental",
+"us_based": "yes",
+"note": "live: 'Party Rentals and Equipment Rentals in Greater MetroWest Bos'"
+},
+{
+"id": 10655,
+"domain": "sullivanmetals.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "scrap metal",
+"us_based": "yes",
+"note": "live: 'Sullivan Metals & Scrap'"
+},
+{
+"id": 10657,
+"domain": "superiorforklift.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "forklift repair",
+"us_based": "yes",
+"note": "live: 'Home | superiorforklift'"
+},
+{
+"id": 10658,
+"domain": "supremerentalsnh.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "car rental",
+"us_based": "yes",
+"note": "live: 'Car Rentals in NH & Greater Boston | Supreme Rentals'"
+},
+{
+"id": 10659,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "live: 'Swanson Construction | Custom Home Builders in Bozeman, MT'"
+},
+{
+"id": 10660,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "equipment repair",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10663,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "portable toilets",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10664,
+"domain": "tauntonrental.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "general rental",
+"us_based": "unknown",
+"note": "live: 'Store Home - Taunton Rental'"
+},
+{
+"id": 10665,
+"domain": "trcapecod.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "general equipment rental",
+"us_based": "yes",
+"note": "live: 'Party rentals in North Falmouth MA | Equipment rentals on Ca'"
+},
+{
+"id": 10666,
+"domain": "taylorrentalarlington.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "general equipment rental",
+"us_based": "yes",
+"note": "live: 'Home - Taylor Rental Arlington'"
+},
+{
+"id": 10669,
+"domain": "taylorrentalneedham.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "general equipment rental",
+"us_based": "unknown",
+"note": "live: 'Taylor Rental of Needham, MA'"
+},
+{
+"id": 10671,
+"domain": "taylorrentalweymouth.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "general equipment rental",
+"us_based": "unknown",
+"note": "live: 'Taylor True Value Rental: Hardware, Contractor, Wedding- Wey'"
+},
+{
+"id": 10672,
+"domain": "teamjdc.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "industrial equipment rental",
+"us_based": "yes",
+"note": "live: 'Industrial Equipment Rentals, Sales, Service | JDC (Jack Doh'"
+},
+{
+"id": 10673,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10674,
+"domain": "temprisellc.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "HVAC",
+"us_based": "yes",
+"note": "live: 'TEMP RISE'"
+},
+{
+"id": 10676,
+"domain": "thesandmanstoybox.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "toys",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10677,
+"domain": "chris4repair.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "unknown",
+"note": "live: 'Mobile Small Engine Repair RI & MA | On-Site Tune-Ups & Diag'"
+},
+{
+"id": 10679,
+"domain": "truckstoresales.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy truck dealer",
+"us_based": "yes",
+"note": "live: 'Truck Store Sales \u2013 Raynham, MA'"
+},
+{
+"id": 10680,
+"domain": "timberprosma.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "tree service",
+"us_based": "yes",
+"note": "live: 'Home | Timber Pros | Leominster, MA Tree Services'"
+},
+{
+"id": 10682,
+"domain": "hampshirecountyrentals.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "general rental",
+"us_based": "yes",
+"note": "live: 'Equipment Rentals | TJ's Taylor Rental | South Hadley, MA'"
+},
+{
+"id": 10684,
+"domain": "tlcsupply.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "masonry supply",
+"us_based": "yes",
+"note": "live: 'TLC Supply, Inc. Hardscape & Masonry Product Superstore | Br'"
+},
+{
+"id": 10685,
+"domain": "tmenterprise.net",
+"domain_status": "verified",
+"icp": "No",
+"category": "real estate",
+"us_based": "unknown",
+"note": "live: 'TM Enterprise'"
+},
+{
+"id": 10686,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "equipment",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10687,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10688,
+"domain": "teclifts.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "aerial lift dealer",
+"us_based": "yes",
+"note": "live: 'Home - Tool & Equipment Connection'"
+},
+{
+"id": 10689,
+"domain": "toolrental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "general equipment rental",
+"us_based": "yes",
+"note": "live: 'Ace Tool Rental'"
+},
+{
+"id": 10690,
+"domain": "used-tools.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "tools retail",
+"us_based": "yes",
+"note": "live: 'Tool Shed -Save on all types of tools! | Save on Top Tools T'"
+},
+{
+"id": 10691,
+"domain": "toomeyinc.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "unknown",
+"us_based": "yes",
+"note": "live: 'Toomey Associates Inc.'"
+},
+{
+"id": 10692,
+"domain": "topchoiceheatingairconditioningusa.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "HVAC",
+"us_based": "yes",
+"note": "live: 'AC Repair & Furnace Repair Near Me | 24/7 HVAC Company | Top'"
+},
+{
+"id": 10693,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "car dealer",
+"us_based": "yes",
+"note": "live: 'TopGearCars.com for sale | Spaceship.com'"
+},
+{
+"id": 10694,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10695,
+"domain": "toreku.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "yes",
+"note": "live: 'Home - Toreku Tractor'"
+},
+{
+"id": 10697,
+"domain": "totalhelpequipmentrental.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "scaffolding rental",
+"us_based": "yes",
+"note": "live: 'Total Help Pump Jack Scaffold Rental'"
+},
+{
+"id": 10699,
+"domain": "tricountycontractors.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "contractor equipment supply",
+"us_based": "yes",
+"note": "live: 'Welcome to Tri-County Contractors Supply, Inc.'"
+},
+{
+"id": 10700,
+"domain": "triconsportsinc.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "screen printing",
+"us_based": "yes",
+"note": "live: 'Custom Screen Printing and Embroidery for Businesses and Ath'"
+},
+{
+"id": 10701,
+"domain": "triplegscaffold.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "scaffolding",
+"us_based": "yes",
+"note": "live: 'Scaffold Services | Triple G Scaffold Services Corporation |'"
+},
+{
+"id": 10702,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10703,
+"domain": "truckguys.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "truck accessories",
+"us_based": "yes",
+"note": "live: 'HOME | Truck Guys - Truck Accessories - We Do It All'"
+},
+{
+"id": 10705,
+"domain": "turfequipmentplus.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "turf equipment",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10706,
+"domain": "turnpikepowerequipment.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "unknown",
+"note": "live: 'Turnpike Power Equipment'"
+},
+{
+"id": 10708,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "equipment",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10709,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "truck/trailer rental",
+"us_based": "unknown",
+"note": "live: 'Your moving and storage resource | U-Haul'"
+},
+{
+"id": 10710,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "lumber",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10713,
+"domain": "uri.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "HVAC supply",
+"us_based": "yes",
+"note": "live: 'United Refrigeration Inc. | Refrigeration & HVAC Replacement'"
+},
+{
+"id": 10714,
+"domain": "unitedtextile.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "textile machinery",
+"us_based": "yes",
+"note": "live: 'United Textile Machinery Dealers Equipment Textiles Paper'"
+},
+{
+"id": 10715,
+"domain": "usenvironmental.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "environmental equipment rental",
+"us_based": "yes",
+"note": "live: 'Reliable Environmental Equipment Rental - U.S. Environmental'"
+},
+{
+"id": 10716,
+"domain": "ustoolandfastener.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "tools/fasteners",
+"us_based": "unknown",
+"note": "blocked: 'Just a moment...'"
+},
+{
+"id": 10717,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "powersports",
+"us_based": "unknown",
+"note": "live: 'motor-sport.com - This website is for sale! - Motorsport Res'"
+},
+{
+"id": 10718,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "tools retail",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10719,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "portable toilets",
+"us_based": "unknown",
+"note": "none: 'none'"
+},
+{
+"id": 10720,
+"domain": "venturagraininc.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "feed manufacturer",
+"us_based": "unknown",
+"note": "live: 'Ventura Grain Co. Inc. \u2013 Animal Feed Manufacturers'"
+},
+{
+"id": 10721,
+"domain": "wcgurrisi.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "unknown",
+"us_based": "yes",
+"note": "live: 'W.C. GURRISI & SONS INC'"
+},
+{
+"id": 10722,
+"domain": "mccarthytrucks.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "utility truck/crane dealer",
+"us_based": "yes",
+"note": "live: 'Bucket Trucks, Aerial Lifts, Digger Derricks, Booms, Cranes,'"
+},
+{
+"id": 10723,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "unknown",
+"note": "dead: 'dead'"
+},
+{
+"id": 10725,
+"domain": "communityfarms.org",
+"domain_status": "verified",
+"icp": "No",
+"category": "community farm",
+"us_based": "yes",
+"note": "live: 'Home'"
+},
+{
+"id": 10726,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "portable toilets",
+"us_based": "unknown",
+"note": "live: 'Nirjhors Roofing and Flooring | Quality Roofing & Flooring'"
+},
+{
+"id": 10727,
+"domain": "wamgc.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "excavation contractor",
+"us_based": "yes",
+"note": "live: 'Excavation Utilities Site Work | WAM General Contractors Inc'"
+},
+{
+"id": 10728,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "transportation",
+"us_based": "unknown",
+"note": "live: 'Eagle Leasing: Trusted Storage & Office Solutions Since 1967'"
+},
+{
+"id": 10729,
+"domain": "wejumpllc.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "yes",
+"note": "live: 'Bounce House Rentals in Lynn MA | We Jump LLC'"
+},
+{
+"id": 10730,
+"domain": "welchwelding.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "truck equipment/welding",
+"us_based": "yes",
+"note": "live: 'Search'"
+},
+{
+"id": 10731,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "car dealer",
+"us_based": "yes",
+"note": "live: 'WelcomeMotors.com for sale | Spaceship.com'"
+},
+{
+"id": 10732,
+"domain": "westcountyequipment.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "yes",
+"note": "live: 'West County Equipment Rentals'"
+}
+]

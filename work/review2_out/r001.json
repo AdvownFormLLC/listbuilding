@@ -1,0 +1,2882 @@
+[
+{
+"id": 439,
+"domain": "hoistandcraneservices.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "overhead crane/hoist service",
+"us_based": "yes",
+"note": "title: Hoist and Crane Services, overhead hoists/cranes"
+},
+{
+"id": 440,
+"domain": "hoists.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "hoist distributor (online)",
+"us_based": "yes",
+"note": "online hoist parts store, not heavy equipment"
+},
+{
+"id": 441,
+"domain": "holcombcrane.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "Holcomb Crane Service, Lewiston Idaho crane service"
+},
+{
+"id": 442,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "forklift service",
+"us_based": "unknown",
+"note": "no site; name indicates forklift business"
+},
+{
+"id": 443,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "heavy equipment repair",
+"us_based": "unknown",
+"note": "no site; name says heavy equipment repair"
+},
+{
+"id": 445,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "equipment (unknown)",
+"us_based": "unknown",
+"note": "no site; name ambiguous"
+},
+{
+"id": 446,
+"domain": "hourequipment.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "tool & party rental",
+"us_based": "yes",
+"note": "title: tool rental, party supplies, watercraft"
+},
+{
+"id": 448,
+"domain": "howardcraneserviceca.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "Howard Crane Service, Clovis CA"
+},
+{
+"id": 449,
+"domain": "hughiecrane.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane rental",
+"us_based": "yes",
+"note": "Hughie Crane Rental Inc crane rental"
+},
+{
+"id": 450,
+"domain": "huntingtonbeachscaffolding.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "scaffolding rental",
+"us_based": "yes",
+"note": "scaffolding-only rental site"
+},
+{
+"id": 451,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "plumbing",
+"us_based": "unknown",
+"note": "plumber; site 503"
+},
+{
+"id": 452,
+"domain": "hylancrane.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "Hylan Crane site, crane rental"
+},
+{
+"id": 453,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "general tool rental",
+"us_based": "unknown",
+"note": "no site; DIY tool rental name"
+},
+{
+"id": 454,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "unknown",
+"note": "site dead; name equipment rentals"
+},
+{
+"id": 455,
+"domain": "incrediblejumpers.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "yes",
+"note": "bounce house party rentals Elk Grove CA"
+},
+{
+"id": 456,
+"domain": "industrialbuyers.com",
+"domain_status": "likely",
+"icp": "Unsure",
+"category": "industrial equipment buyer",
+"us_based": "yes",
+"note": "IBC page partial match, unclear trade"
+},
+{
+"id": 461,
+"domain": "inspectracraneservices.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane inspection service",
+"us_based": "yes",
+"note": "Inspectra Crane Services site"
+},
+{
+"id": 462,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "no site; name Intercoastal Cranes"
+},
+{
+"id": 466,
+"domain": "ironfindersrental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "yes",
+"note": "title: Southern California heavy equipment rental"
+},
+{
+"id": 468,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane rental",
+"us_based": "unknown",
+"note": "domain DNS failure"
+},
+{
+"id": 469,
+"domain": "ironroadtrailers.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "trailer rental",
+"us_based": "yes",
+"note": "trailer rentals Vandalia OH"
+},
+{
+"id": 470,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "equipment rental (unknown)",
+"us_based": "yes",
+"note": "site is Eckert student housing, unrelated"
+},
+{
+"id": 471,
+"domain": "ivanscrane.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane rental",
+"us_based": "yes",
+"note": "Utah crane rental, Ivan's Crane"
+},
+{
+"id": 473,
+"domain": "jjcraneservice.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "JJ Crane Service Sarasota; name close"
+},
+{
+"id": 474,
+"domain": "jjscrane.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane rental",
+"us_based": "yes",
+"note": "Central Florida crane rental"
+},
+{
+"id": 477,
+"domain": "jakekubota.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "real estate",
+"us_based": "yes",
+"note": "Illinois realtor, not equipment"
+},
+{
+"id": 479,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "excavation contractor",
+"us_based": "unknown",
+"note": "wix site 404"
+},
+{
+"id": 482,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "equipment service/rental",
+"us_based": "unknown",
+"note": "no site; name vague"
+},
+{
+"id": 485,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "forklift repair",
+"us_based": "unknown",
+"note": "no site; forklift repair name"
+},
+{
+"id": 486,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "heavy truck & machinery dealer",
+"us_based": "unknown",
+"note": "site dead"
+},
+{
+"id": 487,
+"domain": "jerryriggerscraneandtree.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "tree service",
+"us_based": "yes",
+"note": "tree removal with crane, St. Pete"
+},
+{
+"id": 488,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "forklift service",
+"us_based": "unknown",
+"note": "site dead"
+},
+{
+"id": 489,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "party rental",
+"us_based": "unknown",
+"note": "site dead; party rentals name"
+},
+{
+"id": 490,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "mechanical contractor",
+"us_based": "unknown",
+"note": "no site; name vague"
+},
+{
+"id": 492,
+"domain": "jnpwatertrucks.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "water truck service",
+"us_based": "yes",
+"note": "JNP Watertrucks site, little content"
+},
+{
+"id": 493,
+"domain": "jnrequip.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "small family equipment; generators, compressors"
+},
+{
+"id": 494,
+"domain": "deere.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "ag/construction equipment manufacturer",
+"us_based": "no",
+"note": "deere.com; John Deere dealer Matamoros Mexico"
+},
+{
+"id": 495,
+"domain": "johnnycranes.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "boom truck crane Garland TX"
+},
+{
+"id": 498,
+"domain": "jtequipmentrental.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "concrete mixer rental",
+"us_based": "yes",
+"note": "concrete mixer rental Northern Nevada"
+},
+{
+"id": 501,
+"domain": "juliancrane.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "crane rental",
+"us_based": "unknown",
+"note": "juliancrane.com crane page, title generic"
+},
+{
+"id": 507,
+"domain": "jumpingaroundtricities.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "yes",
+"note": "party rentals Kennewick WA"
+},
+{
+"id": 508,
+"domain": "jumpingjennysrentals.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "yes",
+"note": "bounce house rentals Warren OH"
+},
+{
+"id": 509,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "no site found"
+},
+{
+"id": 510,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "small engine repair",
+"us_based": "unknown",
+"note": "site dead; small engine repair"
+},
+{
+"id": 511,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "party rental",
+"us_based": "unknown",
+"note": "no site; party studio"
+},
+{
+"id": 512,
+"domain": "knsequipment.net",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment repair (aerial lifts)",
+"us_based": "yes",
+"note": "boom/scissor lift field repair SoCal"
+},
+{
+"id": 513,
+"domain": "kastlekingsrentals.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "yes",
+"note": "bounce house rentals"
+},
+{
+"id": 514,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "forklift repair",
+"us_based": "unknown",
+"note": "no site; forklift repair name"
+},
+{
+"id": 516,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "forklift dealer",
+"us_based": "unknown",
+"note": "no site; forklifts & equipment name"
+},
+{
+"id": 518,
+"domain": "kingcraneservice.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "King Crane Service site"
+},
+{
+"id": 519,
+"domain": "kingliftservices.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "HVAC crane lifts Orlando"
+},
+{
+"id": 520,
+"domain": "kingcrane.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane rental",
+"us_based": "yes",
+"note": "Bay Area crane rental King Crane"
+},
+{
+"id": 521,
+"domain": "kinsercrane.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "Kinser Crane site, crane rental"
+},
+{
+"id": 522,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "machinery dealer",
+"us_based": "unknown",
+"note": "site dead"
+},
+{
+"id": 523,
+"domain": "koffordcranellc.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "Southern Utah crane services"
+},
+{
+"id": 524,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "trailer rental",
+"us_based": "unknown",
+"note": "no site; equipment trailer rental"
+},
+{
+"id": 525,
+"domain": "kraneworksinc.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane rental",
+"us_based": "unknown",
+"note": "crane rental CT MA NY"
+},
+{
+"id": 526,
+"domain": "krftrailersco.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "trailer dealer",
+"us_based": "unknown",
+"note": "domain matches, blocked"
+},
+{
+"id": 527,
+"domain": "kuz-n.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "crane service Austin TX"
+},
+{
+"id": 528,
+"domain": "larryrazza.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "machinery dealer/appraiser",
+"us_based": "yes",
+"note": "machinery trader & appraisers"
+},
+{
+"id": 529,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "rental (unknown)",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 530,
+"domain": "laborenterprise.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "staffing/other",
+"us_based": "yes",
+"note": "Labor Enterprise page, no equipment signal"
+},
+{
+"id": 531,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "no site found"
+},
+{
+"id": 532,
+"domain": "landliftservices.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "excavation & equipment rental",
+"us_based": "yes",
+"note": "excavation, equipment rental Cleveland TN"
+},
+{
+"id": 533,
+"domain": "larsonequip.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy equipment repair",
+"us_based": "unknown",
+"note": "heavy equipment repair, parts, central CA"
+},
+{
+"id": 534,
+"domain": "cranerentallasvegas.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane rental",
+"us_based": "yes",
+"note": "Las Vegas crane rental"
+},
+{
+"id": 536,
+"domain": "lawnfellows.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "compact equipment rental",
+"us_based": "yes",
+"note": "Ventrac equipment rental, landscaping focus"
+},
+{
+"id": 538,
+"domain": "leftcoasttrailers.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "RV rental",
+"us_based": "yes",
+"note": "luxury RV/toy hauler rental"
+},
+{
+"id": 540,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "computer retail",
+"us_based": "unknown",
+"note": "Lenovo store, unrelated"
+},
+{
+"id": 541,
+"domain": "lvluprentals.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "yes",
+"note": "party rentals Minot ND"
+},
+{
+"id": 542,
+"domain": "leveleduptree.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "tree service",
+"us_based": "yes",
+"note": "tree service Central Illinois"
+},
+{
+"id": 543,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "aerial lift rental",
+"us_based": "unknown",
+"note": "no site; aerial rentals name"
+},
+{
+"id": 544,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "tree service",
+"us_based": "unknown",
+"note": "no site; crane and tree name"
+},
+{
+"id": 545,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "unknown",
+"us_based": "unknown",
+"note": "no site; name vague"
+},
+{
+"id": 546,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "party rental",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 550,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "auto lift installer",
+"us_based": "unknown",
+"note": "redirect page; car lift installer"
+},
+{
+"id": 551,
+"domain": "liftrental.mx",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "aerial lift rental",
+"us_based": "no",
+"note": "Mexican boom lift rental; not US"
+},
+{
+"id": 552,
+"domain": "liftoffcranes.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "Illinois crane service"
+},
+{
+"id": 553,
+"domain": "liftworxinc.com",
+"domain_status": "likely",
+"icp": "Unsure",
+"category": "lift equipment",
+"us_based": "unknown",
+"note": "Liftworx title only"
+},
+{
+"id": 554,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "unknown",
+"note": "domain parked"
+},
+{
+"id": 555,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "party rental",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 556,
+"domain": "livelygamecompany.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "event game rental",
+"us_based": "unknown",
+"note": "event game rentals, weddings"
+},
+{
+"id": 558,
+"domain": "lnequipment.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "ag/compact equipment dealer",
+"us_based": "yes",
+"note": "Bobcat, tractors dealer Burgaw NC"
+},
+{
+"id": 559,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "freight broker",
+"us_based": "unknown",
+"note": "beverage freight broker, unrelated trade"
+},
+{
+"id": 561,
+"domain": "loadstardumpsters.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "dumpster rental",
+"us_based": "yes",
+"note": "dumpster rental site"
+},
+{
+"id": 562,
+"domain": "lobbocranerental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane rental",
+"us_based": "yes",
+"note": "SWFL crane rental"
+},
+{
+"id": 563,
+"domain": "lonepeakrental.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "welding equipment rental",
+"us_based": "yes",
+"note": "welding rentals"
+},
+{
+"id": 564,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane inspection",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 565,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "towing",
+"us_based": "unknown",
+"note": "domain coming soon"
+},
+{
+"id": 567,
+"domain": "lussitrailerrentals.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "trailer rental",
+"us_based": "yes",
+"note": "trailer rentals Camarillo"
+},
+{
+"id": 568,
+"domain": "lutkerscrane.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "Lutkers Crane and Cable"
+},
+{
+"id": 570,
+"domain": "mmmachinerymoving.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "rigging/machinery moving",
+"us_based": "yes",
+"note": "machinery moving and rigging, California"
+},
+{
+"id": 574,
+"domain": "maineventgrills.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "catering equipment rental",
+"us_based": "unknown",
+"note": "party grill rentals"
+},
+{
+"id": 575,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "LED displays",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 576,
+"domain": "manleycrane.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "lifting solutions, crane rental"
+},
+{
+"id": 579,
+"domain": "marchandenvironmental.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "septic/excavation contractor",
+"us_based": "yes",
+"note": "septic contractor, land clearing, site work"
+},
+{
+"id": 584,
+"domain": "mcgrathmuni.net",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "municipal equipment dealer",
+"us_based": "unknown",
+"note": "McGrath municipal equipment, blocked"
+},
+{
+"id": 585,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 586,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "transport",
+"us_based": "unknown",
+"note": "site dead"
+},
+{
+"id": 587,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "forklift service",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 588,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "trailer rental",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 590,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "metal trading",
+"us_based": "unknown",
+"note": "domain for sale page"
+},
+{
+"id": 591,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "equipment rental",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 593,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "domain is gambling spam site"
+},
+{
+"id": 594,
+"domain": "midnightmargaritarentals.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "yes",
+"note": "margarita machine rentals"
+},
+{
+"id": 595,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "trailer rental",
+"us_based": "unknown",
+"note": "site dead"
+},
+{
+"id": 597,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "forklift service",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 598,
+"domain": "moconstructionrentals.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "street sweeper rental",
+"us_based": "yes",
+"note": "TYMCO street sweeper rentals"
+},
+{
+"id": 600,
+"domain": "mobileequipment.repair",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy equipment repair",
+"us_based": "yes",
+"note": "mobile heavy equipment repair NJ"
+},
+{
+"id": 602,
+"domain": "moderncraneco.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "overhead crane service",
+"us_based": "unknown",
+"note": "EOT cranes, hoists install/service"
+},
+{
+"id": 604,
+"domain": "moircrane.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "Moir Crane Service site"
+},
+{
+"id": 605,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "forklift service",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 608,
+"domain": "moralestrailerrental.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "trailer rental",
+"us_based": "yes",
+"note": "trailer rentals Clarksville TN"
+},
+{
+"id": 609,
+"domain": "moran-rentals.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "trailer rental",
+"us_based": "yes",
+"note": "trailer rentals Oak Forest IL"
+},
+{
+"id": 610,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "equipment repair",
+"us_based": "unknown",
+"note": "site dead"
+},
+{
+"id": 612,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "hauling",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 613,
+"domain": "mountainsidecrane.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "crane & rigging Colorado"
+},
+{
+"id": 614,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 616,
+"domain": "mscraneservice.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "mobile crane services Jackson MS"
+},
+{
+"id": 617,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 618,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "gold loan",
+"us_based": "no",
+"note": "Indian gold loan finance"
+},
+{
+"id": 619,
+"domain": "mvprentalstc.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "yes",
+"note": "party rentals Port St Lucie"
+},
+{
+"id": 621,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 622,
+"domain": "naranjocraneservice.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane rental",
+"us_based": "yes",
+"note": "crane rental Hialeah FL"
+},
+{
+"id": 623,
+"domain": "nationalconcreteequipment.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "concrete equipment consulting",
+"us_based": "unknown",
+"note": "concrete equipment consulting"
+},
+{
+"id": 624,
+"domain": "nationalequip-us.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment dealer",
+"us_based": "yes",
+"note": "wholesale construction/aerial equipment"
+},
+{
+"id": 628,
+"domain": "newjerseycrane.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane sales & rental",
+"us_based": "yes",
+"note": "crane sales and rentals NJ"
+},
+{
+"id": 629,
+"domain": "newmanbackhoe.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "excavation contractor",
+"us_based": "unknown",
+"note": "domain matches; contact support page"
+},
+{
+"id": 630,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Yes",
+"category": "crane rental",
+"us_based": "yes",
+"note": "site is SEK Construction, different name"
+},
+{
+"id": 631,
+"domain": "nexaerrentals.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "rental",
+"us_based": "yes",
+"note": "NexAer Rentals, no clear content"
+},
+{
+"id": 633,
+"domain": "nextgencrane.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "NextGen crane services"
+},
+{
+"id": 634,
+"domain": "niagaracrane.ca",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane rental",
+"us_based": "no",
+"note": "Canadian crane rental (.ca)"
+},
+{
+"id": 635,
+"domain": "nickelcontainersllc.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "shipping containers",
+"us_based": "yes",
+"note": "shipping container sales"
+},
+{
+"id": 636,
+"domain": "niehausequip.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy equipment field service",
+"us_based": "unknown",
+"note": "heavy equipment field service, Sennebogen"
+},
+{
+"id": 637,
+"domain": "northpointforklift.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "forklift repair",
+"us_based": "yes",
+"note": "forklift repair Yuba"
+},
+{
+"id": 638,
+"domain": "northshoreproductions.com",
+"domain_status": "likely",
+"icp": "Unsure",
+"category": "productions",
+"us_based": "unknown",
+"note": "index page only"
+},
+{
+"id": 639,
+"domain": "northwestexcavation.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "excavation contractor",
+"us_based": "yes",
+"note": "excavation & land clearing contractor"
+},
+{
+"id": 640,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 641,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "tractor services",
+"us_based": "unknown",
+"note": "site dead"
+},
+{
+"id": 643,
+"domain": "occranes.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane & sign service",
+"us_based": "yes",
+"note": "OC Cranes & Sign Service"
+},
+{
+"id": 644,
+"domain": "partyintheoca.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "yes",
+"note": "inflatable rentals NC"
+},
+{
+"id": 645,
+"domain": "oceanworkcranes.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "aerial lift/crane",
+"us_based": "no",
+"note": "aerial lift, non-US signal"
+},
+{
+"id": 646,
+"domain": "oerents.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "unknown",
+"note": "Odessa Equipment Rentals site"
+},
+{
+"id": 647,
+"domain": "ohanamacrentals.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "unknown",
+"note": "bounce house rentals Montclair"
+},
+{
+"id": 648,
+"domain": "ohiocraneservice.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "Ohio Crane Service"
+},
+{
+"id": 651,
+"domain": "olympiccrane.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "Olympic Crane site"
+},
+{
+"id": 652,
+"domain": "omegarentals.us",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "aerial lift rental",
+"us_based": "unknown",
+"note": "scissor lift rental platform"
+},
+{
+"id": 653,
+"domain": "onpointcranes.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "crane service West Palm Beach"
+},
+{
+"id": 654,
+"domain": "onetouchrigging.wixsite.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "rigging/crane",
+"us_based": "yes",
+"note": "One Touch Rigging wix site"
+},
+{
+"id": 655,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "forklift dealer",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 656,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "dumpster rental",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 657,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "jet ski rental",
+"us_based": "unknown",
+"note": "jet ski rental site"
+},
+{
+"id": 658,
+"domain": "oregoncitycrane.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "domain matches, blocked"
+},
+{
+"id": 660,
+"domain": "osceolacraneservice.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "crane services SE Pennsylvania"
+},
+{
+"id": 661,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "unknown",
+"us_based": "unknown",
+"note": "site not found"
+},
+{
+"id": 662,
+"domain": "oxlandsolutions.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "land services",
+"us_based": "yes",
+"note": "Ox Land Solutions, no content"
+},
+{
+"id": 664,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "excavation contractor",
+"us_based": "unknown",
+"note": "no site; dirtwork name"
+},
+{
+"id": 665,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "watercraft rental",
+"us_based": "yes",
+"note": "watercraft rentals Burien"
+},
+{
+"id": 666,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "trading",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 668,
+"domain": "pd46.net",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "crane rental",
+"us_based": "yes",
+"note": "Palladium crawler crane, domain pd46.net"
+},
+{
+"id": 669,
+"domain": "palmbeachmaterialhandling.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "pallet rack/shelving",
+"us_based": "yes",
+"note": "pallet rack and shelving seller"
+},
+{
+"id": 671,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "tutoring",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 672,
+"domain": "parkscrane.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "crane lifting services"
+},
+{
+"id": 674,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "party supply",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 679,
+"domain": "patioglowheatsupply.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "patio heater supply",
+"us_based": "unknown",
+"note": "domain matches, blocked"
+},
+{
+"id": 680,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "party rental",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 681,
+"domain": "patriotcontainers.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "shipping containers",
+"us_based": "yes",
+"note": "used shipping containers"
+},
+{
+"id": 682,
+"domain": "per-usa.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "rental",
+"us_based": "yes",
+"note": "veteran-owned Patriot Rentals, unclear items"
+},
+{
+"id": 683,
+"domain": "patriottrucks.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy equipment dealer",
+"us_based": "yes",
+"note": "excavators, dozers, loaders, trucks"
+},
+{
+"id": 685,
+"domain": "pennellytrailerandequipmentrental.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "trailer & equipment rental",
+"us_based": "unknown",
+"note": "site minimal content"
+},
+{
+"id": 686,
+"domain": "phatfridge.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "refrigerated trailer rental",
+"us_based": "unknown",
+"note": "mobile refrigeration trailers"
+},
+{
+"id": 687,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "lift service",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 689,
+"domain": "picknroll.us",
+"domain_status": "verified",
+"icp": "No",
+"category": "vehicle & party rental",
+"us_based": "yes",
+"note": "vehicle and party rentals"
+},
+{
+"id": 691,
+"domain": "pirtekusa.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "hydraulic hose service",
+"us_based": "unknown",
+"note": "on-site hydraulic hose service"
+},
+{
+"id": 693,
+"domain": "portcitymachinery.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "machinery dealer",
+"us_based": "unknown",
+"note": "domain matches, blocked"
+},
+{
+"id": 694,
+"domain": "portaprorentals.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "portable toilets",
+"us_based": "yes",
+"note": "porta potty rentals"
+},
+{
+"id": 695,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 696,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "construction & rental",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 697,
+"domain": "precisioncranellc.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane rental",
+"us_based": "yes",
+"note": "crane rentals Western PA"
+},
+{
+"id": 699,
+"domain": "wedigndemo.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "excavation contractor",
+"us_based": "yes",
+"note": "excavation & demolition San Diego"
+},
+{
+"id": 700,
+"domain": "ptrentalsnwa.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "trailer & equipment rental",
+"us_based": "yes",
+"note": "trailers plus skid steers Bentonville"
+},
+{
+"id": 701,
+"domain": "premierexcavation.net",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "excavation contractor",
+"us_based": "yes",
+"note": "excavating contractor Bloomington IN"
+},
+{
+"id": 702,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "equipment rental",
+"us_based": "unknown",
+"note": "Premiere Group innovation company, not rental"
+},
+{
+"id": 703,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 704,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "automotive lifts",
+"us_based": "no",
+"note": "Nova Scotia automotive lifts"
+},
+{
+"id": 706,
+"domain": "projectair.com",
+"domain_status": "likely",
+"icp": "Unsure",
+"category": "unknown",
+"us_based": "unknown",
+"note": "loading page only"
+},
+{
+"id": 707,
+"domain": "proliftrental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "aerial lift rental",
+"us_based": "unknown",
+"note": "scissor lift rental Phoenix"
+},
+{
+"id": 709,
+"domain": "purplecraneservicesinc.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane rental",
+"us_based": "yes",
+"note": "boom truck crane Orange County"
+},
+{
+"id": 710,
+"domain": "qualitycranes.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "Quality Cranes site"
+},
+{
+"id": 711,
+"domain": "quickrentequipment.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "stump grinders, tools"
+},
+{
+"id": 712,
+"domain": "quipli.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "software",
+"us_based": "yes",
+"note": "equipment rental software vendor"
+},
+{
+"id": 713,
+"domain": "randhequipmentrentals.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment & trailer rental",
+"us_based": "yes",
+"note": "excavators, skid steers Surprise AZ"
+},
+{
+"id": 714,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "home automation",
+"us_based": "yes",
+"note": "smart home company"
+},
+{
+"id": 715,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "forklift repair",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 716,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "recycling",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 720,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "equipment repair",
+"us_based": "unknown",
+"note": "site dead"
+},
+{
+"id": 721,
+"domain": "rannsak.com",
+"domain_status": "likely",
+"icp": "Unsure",
+"category": "unknown",
+"us_based": "unknown",
+"note": "placeholder title only"
+},
+{
+"id": 722,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "unknown",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 723,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "forklift dealer",
+"us_based": "unknown",
+"note": "no site; Raymond dealer name"
+},
+{
+"id": 729,
+"domain": "santaferedline.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "excavation contractor",
+"us_based": "yes",
+"note": "excavating Santa Fe"
+},
+{
+"id": 730,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "party rental",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 732,
+"domain": "renegadecrane.ca",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane rental",
+"us_based": "no",
+"note": "Canadian crane rental"
+},
+{
+"id": 734,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "rental",
+"us_based": "unknown",
+"note": "gambling spam site"
+},
+{
+"id": 735,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "equipment rental",
+"us_based": "unknown",
+"note": "gambling spam site"
+},
+{
+"id": 736,
+"domain": "rentmeequipment.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "unknown",
+"note": "excavators, skid steers; odd domain"
+},
+{
+"id": 737,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "3D printers",
+"us_based": "unknown",
+"note": "3D printer kits, unrelated"
+},
+{
+"id": 739,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "general rental",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 741,
+"domain": "rents4baby.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "baby gear rental",
+"us_based": "unknown",
+"note": "domain matches, blocked"
+},
+{
+"id": 742,
+"domain": "republicoftexasrentals.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "forestry mulching/equipment rental",
+"us_based": "yes",
+"note": "skid steers, land clearing TX"
+},
+{
+"id": 743,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "forklift service",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 744,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "forklift parts",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 745,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "rental",
+"us_based": "yes",
+"note": "pharmacy site, unrelated"
+},
+{
+"id": 746,
+"domain": "richmondequipmentrental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "yes",
+"note": "excavators, skid steers rental"
+},
+{
+"id": 748,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "landscaping",
+"us_based": "unknown",
+"note": "domain for sale"
+},
+{
+"id": 750,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "rental",
+"us_based": "unknown",
+"note": "property management portal"
+},
+{
+"id": 751,
+"domain": "ritzyrentalsco.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "event rental",
+"us_based": "yes",
+"note": "event rentals Frisco"
+},
+{
+"id": 752,
+"domain": "riveraspartyrentals.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "party rental",
+"us_based": "unknown",
+"note": "domain matches, blocked"
+},
+{
+"id": 753,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "equipment rental",
+"us_based": "unknown",
+"note": "podcast software site"
+},
+{
+"id": 754,
+"domain": "rjtexcavating.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "excavation contractor",
+"us_based": "unknown",
+"note": "Utah earth moving company"
+},
+{
+"id": 756,
+"domain": "rocklinbouncehouserentals.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "yes",
+"note": "bounce houses Rocklin"
+},
+{
+"id": 758,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "forklift repair",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 762,
+"domain": "royaltyequipment.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service & repair",
+"us_based": "yes",
+"note": "crane services, repairs, transport"
+},
+{
+"id": 765,
+"domain": "rttequipmentrental.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "RTT title only"
+},
+{
+"id": 766,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "rental",
+"us_based": "unknown",
+"note": "site dead"
+},
+{
+"id": 767,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 768,
+"domain": "ryanstrailerrentallubbock.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "trailer rental",
+"us_based": "yes",
+"note": "trailer rentals Lubbock"
+},
+{
+"id": 772,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "home security",
+"us_based": "yes",
+"note": "home security company"
+},
+{
+"id": 773,
+"domain": "safety1stmedicaltransport.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "medical transport",
+"us_based": "yes",
+"note": "non-medical transport"
+},
+{
+"id": 775,
+"domain": "samedaycoolrentals.com",
+"domain_status": "likely",
+"icp": "Unsure",
+"category": "cooling rental",
+"us_based": "unknown",
+"note": "blank page"
+},
+{
+"id": 777,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "entertainment",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 778,
+"domain": "santacruzcabanacompany.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "beach rental",
+"us_based": "yes",
+"note": "beach cabana setup"
+},
+{
+"id": 779,
+"domain": "scarequipment-craneservices.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "crane services Vero Beach"
+},
+{
+"id": 780,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "aerial lift rental",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 781,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "HVAC/air systems",
+"us_based": "yes",
+"note": "RNTR marketplace page"
+},
+{
+"id": 782,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 784,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "party rental",
+"us_based": "unknown",
+"note": "generic redesign demo page"
+},
+{
+"id": 785,
+"domain": "sdheavy.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy haul",
+"us_based": "yes",
+"note": "San Diego Heavy Haul"
+},
+{
+"id": 788,
+"domain": "securetapnow.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "rental",
+"us_based": "unknown",
+"note": "SecureTap title only"
+},
+{
+"id": 789,
+"domain": "selcoequipment.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "equipment dealer",
+"us_based": "unknown",
+"note": "domain matches, blocked"
+},
+{
+"id": 791,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "forklift dealer",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 792,
+"domain": "sewingmachine.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "sewing machines",
+"us_based": "yes",
+"note": "sewing equipment supplier"
+},
+{
+"id": 793,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "outdoor recreation rental",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 794,
+"domain": "shadowfaxaudio.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "audio production",
+"us_based": "yes",
+"note": "live sound company"
+},
+{
+"id": 795,
+"domain": "shamrockcrane.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane rental",
+"us_based": "yes",
+"note": "crane rental San Fernando Valley"
+},
+{
+"id": 797,
+"domain": "shepscrane.ca",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane rental",
+"us_based": "no",
+"note": "Canadian crane rental"
+},
+{
+"id": 798,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "laptop retail",
+"us_based": "no",
+"note": "Indian laptop store"
+},
+{
+"id": 801,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "party rental",
+"us_based": "yes",
+"note": "builder preview placeholder"
+},
+{
+"id": 802,
+"domain": "signgypsies.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "sign rental",
+"us_based": "unknown",
+"note": "yard sign rentals"
+},
+{
+"id": 803,
+"domain": "signaturetrailerrentals.org",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "trailer & equipment rental",
+"us_based": "yes",
+"note": "skid steers, trailers Yuba City"
+},
+{
+"id": 805,
+"domain": "simonmachinery.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "machinery sales",
+"us_based": "unknown",
+"note": "Simon Machinery Sales"
+},
+{
+"id": 806,
+"domain": "simondsmachinery.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "pump systems",
+"us_based": "yes",
+"note": "industrial pump solutions"
+},
+{
+"id": 807,
+"domain": "sinleyrentals.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "trailer rental",
+"us_based": "yes",
+"note": "dump trailer rentals Indio"
+},
+{
+"id": 809,
+"domain": "sjwnorthlandrentals.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "mini skid/trailer rental",
+"us_based": "unknown",
+"note": "mini skid and dump trailers"
+},
+{
+"id": 810,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "jet ski rental",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 811,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "CPA firm site, unrelated"
+},
+{
+"id": 814,
+"domain": "skycraneutah.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "Utah crane services"
+},
+{
+"id": 815,
+"domain": "skylinecranesnv.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "domain matches, Cloudflare blocked"
+},
+{
+"id": 817,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "party rental",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 818,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "equipment supply",
+"us_based": "unknown",
+"note": "expired site"
+},
+{
+"id": 820,
+"domain": "smithcraneincorporated.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "mobile crane company"
+},
+{
+"id": 823,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "unknown",
+"us_based": "unknown",
+"note": "domain for sale page"
+},
+{
+"id": 824,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 825,
+"domain": "socalemergencyplumbingranchosantamargarita.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "plumbing",
+"us_based": "unknown",
+"note": "emergency plumber"
+},
+{
+"id": 826,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 827,
+"domain": "softplayrentalchicago.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "unknown",
+"note": "soft play party rentals"
+},
+{
+"id": 829,
+"domain": "soundrentalny.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "AV rental",
+"us_based": "unknown",
+"note": "domain matches, blocked"
+},
+{
+"id": 830,
+"domain": "soundmn.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "AV rental",
+"us_based": "yes",
+"note": "speaker & lighting rental"
+},
+{
+"id": 831,
+"domain": "southbendexcavation.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "excavation contractor",
+"us_based": "yes",
+"note": "excavating contractor"
+},
+{
+"id": 832,
+"domain": "southeastsiderentals.wordpress.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "rental",
+"us_based": "unknown",
+"note": "wordpress page, contact only"
+},
+{
+"id": 836,
+"domain": "spartansiteservices.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "site services",
+"us_based": "yes",
+"note": "portable toilets, dumpsters"
+},
+{
+"id": 837,
+"domain": "speedydumpsinc.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "dumpster rental",
+"us_based": "yes",
+"note": "roll off dumpsters"
+},
+{
+"id": 838,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "wix domain error"
+},
+{
+"id": 839,
+"domain": "srautogroupma.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "auto dealer",
+"us_based": "unknown",
+"note": "domain matches, blocked"
+},
+{
+"id": 840,
+"domain": "stgeorgedumpsterrentals.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "dumpster rental",
+"us_based": "yes",
+"note": "dumpster rental"
+},
+{
+"id": 841,
+"domain": "stageharbour.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "stage rental",
+"us_based": "unknown",
+"note": "stage rentals Pomona"
+},
+{
+"id": 842,
+"domain": "stallionequipment.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "equipment dealer",
+"us_based": "unknown",
+"note": "domain matches, blocked"
+},
+{
+"id": 843,
+"domain": "statecraneservice.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane rental",
+"us_based": "yes",
+"note": "crane rental Southern California"
+},
+{
+"id": 844,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "equipment rental",
+"us_based": "unknown",
+"note": "Beloit tour page, unrelated"
+},
+{
+"id": 845,
+"domain": "statewidetlc.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane-assisted hauling",
+"us_based": "yes",
+"note": "crane hauling Oklahoma"
+},
+{
+"id": 846,
+"domain": "stensenequipment.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "equipment rentals Eau Claire"
+},
+{
+"id": 847,
+"domain": "stephensons.ca",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "no",
+"note": "Canadian equipment rental, earth moving"
+},
+{
+"id": 852,
+"domain": "summittractors.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "tractor dealer",
+"us_based": "unknown",
+"note": "backhoes and tractors"
+},
+{
+"id": 853,
+"domain": "sunequipment.com",
+"domain_status": "likely",
+"icp": "Unsure",
+"category": "equipment",
+"us_based": "unknown",
+"note": "domain matches, blocked"
+},
+{
+"id": 854,
+"domain": "sunandshadefl.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "beach rental",
+"us_based": "unknown",
+"note": "beach chair rentals"
+},
+{
+"id": 855,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "equipment rental",
+"us_based": "unknown",
+"note": "generic sunrise.com page"
+},
+{
+"id": 857,
+"domain": "supergametrailer.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "game trailer",
+"us_based": "unknown",
+"note": "mobile gaming trailer"
+},
+{
+"id": 858,
+"domain": "superiorcrane.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "overhead crane service",
+"us_based": "yes",
+"note": "industrial crane services Milwaukee"
+},
+{
+"id": 859,
+"domain": "superiormobilerepair.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy equipment repair",
+"us_based": "yes",
+"note": "mobile truck and heavy equipment repair"
+},
+{
+"id": 860,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "industrial supply",
+"us_based": "no",
+"note": "Indian company, site dead"
+},
+{
+"id": 861,
+"domain": "supremediamondtools.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "diamond tools",
+"us_based": "unknown",
+"note": "diamond blades supplier"
+},
+{
+"id": 862,
+"domain": "surgeequipment.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment",
+"us_based": "yes",
+"note": "Surge Equipment, crane signal"
+},
+{
+"id": 863,
+"domain": "treecaresussex.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "tree service",
+"us_based": "yes",
+"note": "Sussex Tree crane tree care"
+},
+{
+"id": 866,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "event rental",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 867,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "structures",
+"us_based": "unknown",
+"note": "site dead"
+},
+{
+"id": 869,
+"domain": "symmetrybuild.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "construction/real estate",
+"us_based": "yes",
+"note": "community building developer"
+},
+{
+"id": 871,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "equipment & excavation",
+"us_based": "unknown",
+"note": "domain parked"
+},
+{
+"id": 872,
+"domain": "tkbuildco.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "builder",
+"us_based": "yes",
+"note": "T&K Builders"
+},
+{
+"id": 873,
+"domain": "tableandchairrentalswestchester.weebly.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "yes",
+"note": "table and chair rentals"
+},
+{
+"id": 874,
+"domain": "taggabox.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "moving equipment",
+"us_based": "yes",
+"note": "college move-in bins"
+},
+{
+"id": 876,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "rental center",
+"us_based": "yes",
+"note": "domain for sale"
+},
+{
+"id": 878,
+"domain": "templehe.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "heavy equipment dealer",
+"us_based": "unknown",
+"note": "domain matches, blocked"
+},
+{
+"id": 879,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "heavy equipment",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 881,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "telehandler rental",
+"us_based": "unknown",
+"note": "site dead"
+},
+{
+"id": 882,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 883,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "equipment",
+"us_based": "unknown",
+"note": "site dead"
+},
+{
+"id": 886,
+"domain": "theforkliftguy.net",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "forklift dealer",
+"us_based": "yes",
+"note": "forklift sales Huntington Beach"
+},
+{
+"id": 887,
+"domain": "hay-boys.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "hay farm",
+"us_based": "unknown",
+"note": "alfalfa hay producer"
+},
+{
+"id": 891,
+"domain": "soleaugroup.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "unknown",
+"us_based": "yes",
+"note": "Soleau Group, no content"
+},
+{
+"id": 894,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "online store",
+"us_based": "no",
+"note": "fitness online store"
+},
+{
+"id": 895,
+"domain": "thetechforyou.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "AV/security",
+"us_based": "yes",
+"note": "camera, tech install"
+},
+{
+"id": 897,
+"domain": "thompsonequipco.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "equipment broker",
+"us_based": "unknown",
+"note": "helps buyers find inventory"
+},
+{
+"id": 901,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "diaper service",
+"us_based": "yes",
+"note": "compost diaper service"
+},
+{
+"id": 902,
+"domain": "titancraneservice.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane & rigging",
+"us_based": "unknown",
+"note": "Titan Crane & Rigging portal"
+},
+{
+"id": 903,
+"domain": "toomuchfunrentals.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "yes",
+"note": "inflatable rentals"
+},
+{
+"id": 904,
+"domain": "toolhoundrentals.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "general tool rental",
+"us_based": "yes",
+"note": "chainsaws, ladders tool rental"
+},
+{
+"id": 905,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "website suspended"
+},
+{
+"id": 906,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "general tool rental",
+"us_based": "unknown",
+"note": "big box retailer tool rental"
+},
+{
+"id": 907,
+"domain": "ttequipmentrentals.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "trenchers, rollers, heavy equipment"
+},
+{
+"id": 909,
+"domain": "tooldashrental.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "general tool rental",
+"us_based": "yes",
+"note": "tool rentals KC"
+},
+{
+"id": 910,
+"domain": "toolifi.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "tool rental platform",
+"us_based": "unknown",
+"note": "domain matches, blocked"
+}
+]

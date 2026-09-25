@@ -1,0 +1,2882 @@
+[
+{
+"id": 11961,
+"domain": "mtidistributing.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "turf/golf equipment distributor",
+"us_based": "yes",
+"note": "Toro golf/grounds, Ventrac distributor"
+},
+{
+"id": 11963,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "unknown",
+"note": "no site; name suggests farm equipment dealer"
+},
+{
+"id": 11964,
+"domain": "nieburtractor.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "unknown",
+"note": "domain matches; Vercel checkpoint blocked"
+},
+{
+"id": 11965,
+"domain": "northcentralinc.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "bus & commercial vehicle dealer",
+"us_based": "yes",
+"note": "bus sales and vehicle upfitting, MN"
+},
+{
+"id": 11966,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "hardware & rental",
+"us_based": "unknown",
+"note": "no site; hardware store with rental"
+},
+{
+"id": 11968,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "no site; name indicates crane & hoist"
+},
+{
+"id": 11969,
+"domain": "northerncraneservice.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "Northern Crane Service, Virginia MN crane rental"
+},
+{
+"id": 11970,
+"domain": "northernengine.com",
+"domain_status": "likely",
+"icp": "Unsure",
+"category": "engine & parts supplier",
+"us_based": "unknown",
+"note": "domain matches; blocked by Cloudflare"
+},
+{
+"id": 11971,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "unknown",
+"note": "no site; name indicates tractor dealer"
+},
+{
+"id": 11972,
+"domain": "northlandcraneservicemn.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "crane company Minneapolis"
+},
+{
+"id": 11975,
+"domain": "northwestexc.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "excavation contractor",
+"us_based": "yes",
+"note": "excavation and demolition, Fargo-Moorhead"
+},
+{
+"id": 11978,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "oakhill.com is investment firm; name implies equipment rental"
+},
+{
+"id": 11979,
+"domain": "oakdalerental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "Oakdale Rental equipment rental store"
+},
+{
+"id": 11981,
+"domain": "olsonpower.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "equipment dealer",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 11982,
+"domain": "olympicmachinery.com",
+"domain_status": "likely",
+"icp": "Unsure",
+"category": "machinery",
+"us_based": "yes",
+"note": "GoDaddy placeholder store; name matches only"
+},
+{
+"id": 11983,
+"domain": "pahls.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "garden center",
+"us_based": "yes",
+"note": "Pahl's Market garden center/nursery"
+},
+{
+"id": 11984,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "equipment sales",
+"us_based": "unknown",
+"note": "no site found"
+},
+{
+"id": 11985,
+"domain": "paulbunyanplumbing.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "plumbing",
+"us_based": "yes",
+"note": "Paul Bunyan Plumbing, Twin Cities"
+},
+{
+"id": 11986,
+"domain": "peakmachinery.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "used industrial machinery",
+"us_based": "unknown",
+"note": "used pulp & paper equipment"
+},
+{
+"id": 11987,
+"domain": "pioneerrentalequipment.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "yes",
+"note": "site lists excavators, skid steers, Kubota"
+},
+{
+"id": 11988,
+"domain": "plantequip.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "industrial equipment",
+"us_based": "yes",
+"note": "Plant Equipment Inc; material handling mention"
+},
+{
+"id": 11989,
+"domain": "playnookadventures.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "unknown",
+"note": "kids play/event rentals"
+},
+{
+"id": 11990,
+"domain": "podeinspowerequipment.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "unknown",
+"note": "domain matches; name suggests power equipment"
+},
+{
+"id": 11991,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "equipment sales",
+"us_based": "unknown",
+"note": "no site found"
+},
+{
+"id": 11993,
+"domain": "powerhouseoutdoorequip.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction & ag equipment dealer",
+"us_based": "yes",
+"note": "tractors, Takeuchi construction equipment, GA"
+},
+{
+"id": 11994,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "equipment",
+"us_based": "unknown",
+"note": "page is tree trimming site, not match"
+},
+{
+"id": 11995,
+"domain": "premiermachineryauctions.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "machinery auction",
+"us_based": "yes",
+"note": "machinery auction company, MN phone"
+},
+{
+"id": 11996,
+"domain": "priorlakerentals.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment & party rental",
+"us_based": "yes",
+"note": "earth moving, Bobcat rentals plus party"
+},
+{
+"id": 11998,
+"domain": "duluthrentalequipment.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "yes",
+"note": "earth moving, skid steer rentals, Duluth"
+},
+{
+"id": 11999,
+"domain": "proteroinc.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "mower attachments manufacturer",
+"us_based": "unknown",
+"note": "leaf and grass catchers"
+},
+{
+"id": 12000,
+"domain": "qualityequipmentmn.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "equipment dealer",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12002,
+"domain": "rwy.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "railway products",
+"us_based": "yes",
+"note": "railway track products"
+},
+{
+"id": 12003,
+"domain": "rapidcraneandriggingllc.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "crane & rigging, northern Minnesota"
+},
+{
+"id": 12005,
+"domain": "reddyrents.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "yes",
+"note": "excavators, skid steers rentals, Minneapolis"
+},
+{
+"id": 12006,
+"domain": "rentaldepot.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment & party rental",
+"us_based": "yes",
+"note": "equipment rentals incl. construction equipment, Rochester"
+},
+{
+"id": 12008,
+"domain": "rivervalleypowerandsport.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "powersports dealer",
+"us_based": "unknown",
+"note": "domain matches powersports; blocked"
+},
+{
+"id": 12009,
+"domain": "rmsrentals.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "yes",
+"note": "excavators, forklifts, aerial rentals"
+},
+{
+"id": 12010,
+"domain": "rmsequipment.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment dealer",
+"us_based": "yes",
+"note": "RMS, Komatsu construction equipment"
+},
+{
+"id": 12011,
+"domain": "rocketcrane.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "crane & rigging services Minnesota"
+},
+{
+"id": 12012,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "woodworking retail",
+"us_based": "unknown",
+"note": "rockler domain dead; woodworking store"
+},
+{
+"id": 12013,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "construction",
+"us_based": "unknown",
+"note": "page is construction company, not rentals"
+},
+{
+"id": 12014,
+"domain": "rootriverequipment.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "equipment dealer",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12015,
+"domain": "rosscoequipment.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "equipment dealer",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12017,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "unknown",
+"us_based": "no",
+"note": "site is property/real estate, non-US"
+},
+{
+"id": 12018,
+"domain": "sssalesinc.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "sales agency",
+"us_based": "yes",
+"note": "S&S Sales merchandising services"
+},
+{
+"id": 12020,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "portable toilets",
+"us_based": "unknown",
+"note": "no site; portable toilet rental"
+},
+{
+"id": 12021,
+"domain": "sancoequipment.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "construction equipment dealer",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12022,
+"domain": "saxonfleet.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy truck repair",
+"us_based": "yes",
+"note": "fleet services, roadside, Houston"
+},
+{
+"id": 12023,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "scaffolding",
+"us_based": "yes",
+"note": "infinityscaffold.com different name; scaffolding"
+},
+{
+"id": 12024,
+"domain": "schaferequipmentcompany.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "masonry tools supplier",
+"us_based": "yes",
+"note": "masonry & concrete tools, Minneapolis"
+},
+{
+"id": 12025,
+"domain": "schlauderaffimp.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12026,
+"domain": "sfsequipment.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "foodservice equipment",
+"us_based": "yes",
+"note": "commercial foodservice equipment"
+},
+{
+"id": 12027,
+"domain": "shankpower.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "components manufacturer",
+"us_based": "yes",
+"note": "engineered components supplier"
+},
+{
+"id": 12028,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "party rental",
+"us_based": "unknown",
+"note": "site stopped"
+},
+{
+"id": 12029,
+"domain": "sitechnorthland.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "construction technology",
+"us_based": "yes",
+"note": "Trimble SITECH machine control provider"
+},
+{
+"id": 12032,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "snow equipment",
+"us_based": "unknown",
+"note": "no site found"
+},
+{
+"id": 12034,
+"domain": "southmetrorental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "unknown",
+"note": "South Metro Rental store page"
+},
+{
+"id": 12035,
+"domain": "sosubrental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "yes",
+"note": "excavators, skid steers, track loaders, Newport MN"
+},
+{
+"id": 12036,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "no site; crane services"
+},
+{
+"id": 12037,
+"domain": "prairielawnandgarden.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "yes",
+"note": "small engine sales/rentals"
+},
+{
+"id": 12039,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "equipment",
+"us_based": "unknown",
+"note": "catalog subdomain, blocked"
+},
+{
+"id": 12040,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "portable toilets",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12041,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "equipment rental",
+"us_based": "unknown",
+"note": "no site found"
+},
+{
+"id": 12042,
+"domain": "stpeterrental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment & party rental",
+"us_based": "yes",
+"note": "excavators, earth moving rentals"
+},
+{
+"id": 12043,
+"domain": "stansequip.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "yes",
+"note": "tractors, equipment trailers"
+},
+{
+"id": 12044,
+"domain": "starequipment.net",
+"domain_status": "verified",
+"icp": "No",
+"category": "used machine tools",
+"us_based": "yes",
+"note": "used CNC machines dealer"
+},
+{
+"id": 12045,
+"domain": "stevensequipmentsupply.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "wholesale distributor",
+"us_based": "yes",
+"note": "wholesale distributor, HVAC"
+},
+{
+"id": 12046,
+"domain": "stonemachinery.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "machine tools",
+"us_based": "yes",
+"note": "CNC machine tool distributor"
+},
+{
+"id": 12047,
+"domain": "strayhorn.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "animal management",
+"us_based": "yes",
+"note": "livestock vaccine coolers"
+},
+{
+"id": 12050,
+"domain": "tandwtowing.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy duty towing",
+"us_based": "yes",
+"note": "semi truck recovery, heavy towing"
+},
+{
+"id": 12051,
+"domain": "tempairsales.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "portable air/heat",
+"us_based": "yes",
+"note": "portable air solutions"
+},
+{
+"id": 12052,
+"domain": "tenetsolutions.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "construction supply",
+"us_based": "unknown",
+"note": "Tenet construction supply store"
+},
+{
+"id": 12053,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "attachments",
+"us_based": "unknown",
+"note": "TianGe attachments, different company"
+},
+{
+"id": 12055,
+"domain": "tjosvoldequip.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "equipment dealer",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12056,
+"domain": "tollgas.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "welding gas supply",
+"us_based": "yes",
+"note": "gas & welding supplies"
+},
+{
+"id": 12057,
+"domain": "tonkacraneservicellc.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "NCCCO certified crane operator"
+},
+{
+"id": 12058,
+"domain": "topnotchequipment.com",
+"domain_status": "likely",
+"icp": "Unsure",
+"category": "equipment",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12059,
+"domain": "torgersonmachinery.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "machinery dealer",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12060,
+"domain": "total-const.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "construction equipment",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12061,
+"domain": "trade-tools.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "tools retail",
+"us_based": "yes",
+"note": "Bosch tools, diamond wheels"
+},
+{
+"id": 12062,
+"domain": "traxlerpower.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "yes",
+"note": "tractors, implements, Kenyon MN"
+},
+{
+"id": 12063,
+"domain": "trenchersplus.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "trencher dealer",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12064,
+"domain": "tristatebobcat.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "construction equipment dealer",
+"us_based": "unknown",
+"note": "Bobcat dealer; blocked"
+},
+{
+"id": 12065,
+"domain": "shop.tristatebobcat.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "equipment parts",
+"us_based": "unknown",
+"note": "Bobcat parts shop subdomain erroring"
+},
+{
+"id": 12066,
+"domain": "trueman-welterspowersports.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "powersports dealer",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12067,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "warehouse",
+"us_based": "yes",
+"note": "Hyderabad warehouse, unrelated"
+},
+{
+"id": 12068,
+"domain": "turfco.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "turf equipment manufacturer",
+"us_based": "yes",
+"note": "turf renovation equipment maker"
+},
+{
+"id": 12069,
+"domain": "davisequip.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "turf equipment distributor",
+"us_based": "yes",
+"note": "Davis & Turfwerks golf turf equipment"
+},
+{
+"id": 12070,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12072,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "yes",
+"note": "Painters Gear small engine repair"
+},
+{
+"id": 12073,
+"domain": "tctr.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy towing & transport",
+"us_based": "yes",
+"note": "towing, heavy equipment transport"
+},
+{
+"id": 12074,
+"domain": "twincityseed.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "seed company",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12075,
+"domain": "twinportsrental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "aerial & equipment rental",
+"us_based": "yes",
+"note": "equipment rental HQ Duluth"
+},
+{
+"id": 12076,
+"domain": "universaltrucksales.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "truck dealer",
+"us_based": "unknown",
+"note": "Universal Truck Sales showroom"
+},
+{
+"id": 12077,
+"domain": "usequip.net",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "used equipment marketplace",
+"us_based": "yes",
+"note": "US Equipment Exchange featured equipment"
+},
+{
+"id": 12078,
+"domain": "usequipmentbroker.com",
+"domain_status": "likely",
+"icp": "Unsure",
+"category": "equipment broker",
+"us_based": "unknown",
+"note": "domain partial match; blocked"
+},
+{
+"id": 12079,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "portable toilets",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12081,
+"domain": "riverbendrentalmankato.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "yes",
+"note": "Riverbend Rental excavators, skid steers, boom lifts"
+},
+{
+"id": 12083,
+"domain": "warnersstellian.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "appliance retail",
+"us_based": "unknown",
+"note": "appliance store; security check"
+},
+{
+"id": 12084,
+"domain": "equipmentofamerica.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "forklift dealer",
+"us_based": "yes",
+"note": "used forklifts Osseo MN"
+},
+{
+"id": 12085,
+"domain": "weekesforest.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "lumber distributor",
+"us_based": "unknown",
+"note": "lumber & building materials"
+},
+{
+"id": 12086,
+"domain": "weltsch.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "equipment dealer",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12087,
+"domain": "wernerimplement.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "yes",
+"note": "New Holland dealership"
+},
+{
+"id": 12088,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "westmetrosalvage.com salvage site, different"
+},
+{
+"id": 12089,
+"domain": "wbrental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment & party rental",
+"us_based": "yes",
+"note": "excavators, backhoes rentals"
+},
+{
+"id": 12090,
+"domain": "whitmoreinc.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "lubrication products",
+"us_based": "unknown",
+"note": "Groeneveld-BEKA lubrication, industrial rubber"
+},
+{
+"id": 12091,
+"domain": "widdesfeed.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "feed store",
+"us_based": "yes",
+"note": "farm supplies feed store"
+},
+{
+"id": 12092,
+"domain": "widdestrailersales.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "trailer dealer",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12094,
+"domain": "woodmachinerysystems.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "woodworking machinery",
+"us_based": "yes",
+"note": "wood machinery systems"
+},
+{
+"id": 12095,
+"domain": "woodburycomfortsolutions.site",
+"domain_status": "verified",
+"icp": "No",
+"category": "hvac",
+"us_based": "yes",
+"note": "air conditioning repair"
+},
+{
+"id": 12096,
+"domain": "woodsequipment.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "attachment manufacturer",
+"us_based": "unknown",
+"note": "Woods tractor attachments manufacturer"
+},
+{
+"id": 12098,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "equipment services",
+"us_based": "unknown",
+"note": "domain dead"
+},
+{
+"id": 12099,
+"domain": "zieglercat.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment dealer",
+"us_based": "unknown",
+"note": "Ziegler CAT dealer"
+},
+{
+"id": 12100,
+"domain": "zieglercat.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "unknown",
+"note": "Ziegler CAT rental"
+},
+{
+"id": 12101,
+"domain": "zymove.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "online retail",
+"us_based": "yes",
+"note": "online store, free shipping"
+},
+{
+"id": 12102,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "tool rental",
+"us_based": "unknown",
+"note": "no site; address-named tool rental"
+},
+{
+"id": 12103,
+"domain": "equipmentrent.net",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "yes",
+"note": "excavators, skid steers, Neosho MO"
+},
+{
+"id": 12104,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "tool rental",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12105,
+"domain": "a1partyfun.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "yes",
+"note": "party & event rentals Columbia MO"
+},
+{
+"id": 12106,
+"domain": "a1rentals.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "mobile office storage",
+"us_based": "yes",
+"note": "mobile office storage rentals"
+},
+{
+"id": 12107,
+"domain": "a1toolrent.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "telehandlers, forklifts, Columbia MO"
+},
+{
+"id": 12108,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "no site; tree and crane service"
+},
+{
+"id": 12109,
+"domain": "abcequipment-rental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "yes",
+"note": "excavators, skid steers, Branson MO"
+},
+{
+"id": 12110,
+"domain": "absolutecrane.net",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "crane service fleet"
+},
+{
+"id": 12111,
+"domain": "acerentalandsales.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12112,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "unknown",
+"note": "no site; skid steer rental"
+},
+{
+"id": 12114,
+"domain": "adapthealth.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "medical equipment",
+"us_based": "yes",
+"note": "home medical equipment"
+},
+{
+"id": 12116,
+"domain": "parts.agcocorp.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "ag equipment parts",
+"us_based": "unknown",
+"note": "AGCO machinery parts"
+},
+{
+"id": 12117,
+"domain": "agnlawn.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "parts retail online",
+"us_based": "yes",
+"note": "lawn mower & ag parts online store"
+},
+{
+"id": 12119,
+"domain": "allrightrental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "excavators, skid steers, man lifts"
+},
+{
+"id": 12120,
+"domain": "ami-metals.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "metals",
+"us_based": "unknown",
+"note": "metals company"
+},
+{
+"id": 12121,
+"domain": "anchorsales.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "overhead cranes",
+"us_based": "yes",
+"note": "cranes, hoists, material handling"
+},
+{
+"id": 12122,
+"domain": "arcolawn.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "yes",
+"note": "outdoor power equipment dealer St. Louis"
+},
+{
+"id": 12123,
+"domain": "artslawnmowershop.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "unknown",
+"note": "lawn mower shop; blocked"
+},
+{
+"id": 12124,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "automotive equipment",
+"us_based": "unknown",
+"note": "domain for sale"
+},
+{
+"id": 12126,
+"domain": "bquip.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "construction equipment rental Warrensburg MO"
+},
+{
+"id": 12127,
+"domain": "bnttractor.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "unknown",
+"note": "domain partial match; blocked"
+},
+{
+"id": 12128,
+"domain": "badboyofrolla.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "unknown",
+"note": "Bad Boy mowers dealer; blocked"
+},
+{
+"id": 12129,
+"domain": "bakerimplement.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12130,
+"domain": "ballpowerequipmentllc.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "yes",
+"note": "lawn mowers, Echo, Ferris"
+},
+{
+"id": 12131,
+"domain": "barnhousetoolandequipment.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment dealer",
+"us_based": "yes",
+"note": "skid steers, tractors, implements"
+},
+{
+"id": 12132,
+"domain": "barthequipment.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "equipment dealer",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12133,
+"domain": "bclauction.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "auction",
+"us_based": "yes",
+"note": "BCL Auction general auctions"
+},
+{
+"id": 12134,
+"domain": "beavertools.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "industrial tools supply",
+"us_based": "yes",
+"note": "pro power tools, machinery supply"
+},
+{
+"id": 12137,
+"domain": "2muddy.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "outdoor recreation",
+"us_based": "yes",
+"note": "river trips"
+},
+{
+"id": 12138,
+"domain": "bigorental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "unknown",
+"note": "name matches equipment rental & sales"
+},
+{
+"id": 12139,
+"domain": "bills-place.net",
+"domain_status": "likely",
+"icp": "Unsure",
+"category": "unknown",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12140,
+"domain": "bledsoesrental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "rental equipment incl. heavy equipment"
+},
+{
+"id": 12141,
+"domain": "bsbeam.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "steel fabrication",
+"us_based": "yes",
+"note": "welding & steel fabrication"
+},
+{
+"id": 12142,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "portable toilets",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12143,
+"domain": "sunflowerrental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "Sunflower and Blue Springs Rental"
+},
+{
+"id": 12146,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12147,
+"domain": "briansfarmequipment.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12149,
+"domain": "buchheits.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "farm & home store",
+"us_based": "yes",
+"note": "farm, ranch, pet supply"
+},
+{
+"id": 12150,
+"domain": "buchheitsupply.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "landscape supplies",
+"us_based": "yes",
+"note": "bulk gravel landscaping supplies"
+},
+{
+"id": 12152,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "equipment",
+"us_based": "unknown",
+"note": "builders.com generic domain"
+},
+{
+"id": 12153,
+"domain": "bullseyerental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "excavators, skid steers, backhoes"
+},
+{
+"id": 12154,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "powersports dealer",
+"us_based": "unknown",
+"note": "domain dead"
+},
+{
+"id": 12156,
+"domain": "c4equipmentrental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "yes",
+"note": "excavators, skid steers Anderson MO"
+},
+{
+"id": 12157,
+"domain": "caldwellequipment.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "compact tractor dealer",
+"us_based": "yes",
+"note": "Kioti tractors plus mowers"
+},
+{
+"id": 12158,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "portable toilets",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12161,
+"domain": "capitalmachinecompany.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "machine shop",
+"us_based": "yes",
+"note": "welding/machine services"
+},
+{
+"id": 12162,
+"domain": "cardinalpump.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "pump distributor",
+"us_based": "yes",
+"note": "pump company"
+},
+{
+"id": 12164,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "government",
+"us_based": "unknown",
+"note": "city website"
+},
+{
+"id": 12165,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "equipment rental",
+"us_based": "unknown",
+"note": "parked domain"
+},
+{
+"id": 12166,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "heavy truck dealer",
+"us_based": "unknown",
+"note": "no site; truck & equipment sales"
+},
+{
+"id": 12167,
+"domain": "ckcraneservice.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "crane rental Eureka MO"
+},
+{
+"id": 12168,
+"domain": "cksupply.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "welding gas supply",
+"us_based": "yes",
+"note": "gases & welding"
+},
+{
+"id": 12169,
+"domain": "cleeks.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "rent-to-own furniture",
+"us_based": "unknown",
+"note": "furniture, appliances rent-to-own"
+},
+{
+"id": 12170,
+"domain": "colestractors.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "compact tractor dealer",
+"us_based": "unknown",
+"note": "LS Tractor dealer"
+},
+{
+"id": 12171,
+"domain": "colemanequip.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment dealer",
+"us_based": "yes",
+"note": "Kubota authorized dealer"
+},
+{
+"id": 12172,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "portable toilets",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12173,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "property rental",
+"us_based": "yes",
+"note": "homes for rent site"
+},
+{
+"id": 12174,
+"domain": "commoncentsrental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "excavators, skid steers Fenton MO"
+},
+{
+"id": 12176,
+"domain": "constructionsupplystl.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "construction supply",
+"us_based": "unknown",
+"note": "construction supplies"
+},
+{
+"id": 12178,
+"domain": "craftsmenind.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "manufacturer",
+"us_based": "unknown",
+"note": "blocked; custom fabrication"
+},
+{
+"id": 12179,
+"domain": "craigequipment.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "equipment dealer",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12180,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "insurance",
+"us_based": "unknown",
+"note": "insurance agency"
+},
+{
+"id": 12182,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "unknown",
+"note": "domain 404"
+},
+{
+"id": 12183,
+"domain": "culliganstlouis.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "water treatment",
+"us_based": "yes",
+"note": "Culligan water"
+},
+{
+"id": 12184,
+"domain": "cmw-equip.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment dealer",
+"us_based": "yes",
+"note": "CMW Equipment, Bomag compactors rentals"
+},
+{
+"id": 12186,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "materials",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12187,
+"domain": "danielsfarmandgreenhouse.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "garden center",
+"us_based": "yes",
+"note": "garden store"
+},
+{
+"id": 12188,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "physician",
+"us_based": "yes",
+"note": "medical group"
+},
+{
+"id": 12189,
+"domain": "davisfarmsupplies.com",
+"domain_status": "likely",
+"icp": "Unsure",
+"category": "farm supply",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12190,
+"domain": "derrequipment.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "equipment",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12191,
+"domain": "deutzsupport.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy equipment repair",
+"us_based": "yes",
+"note": "DEUTZ equipment service, telehandlers"
+},
+{
+"id": 12192,
+"domain": "diamondrequipment.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "yes",
+"note": "tractors, hay equipment"
+},
+{
+"id": 12193,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12194,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "unknown",
+"note": "no site; skid steer rental"
+},
+{
+"id": 12195,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "construction",
+"us_based": "unknown",
+"note": "Dixon Construction, not rentals"
+},
+{
+"id": 12196,
+"domain": "edgellerandharper.net",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12197,
+"domain": "elmel.com",
+"domain_status": "likely",
+"icp": "Unsure",
+"category": "unknown",
+"us_based": "unknown",
+"note": "domain matches; security check"
+},
+{
+"id": 12198,
+"domain": "eljayproducts.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "unknown",
+"note": "lawn products; blocked"
+},
+{
+"id": 12199,
+"domain": "equiprentalsales.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "aerial, earth moving rentals"
+},
+{
+"id": 12200,
+"domain": "equipmentsolutionsoutdoors.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment dealer",
+"us_based": "yes",
+"note": "track loaders, telehandlers plus mowers"
+},
+{
+"id": 12201,
+"domain": "equipmentshare.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "unknown",
+"note": "EquipmentShare rentals"
+},
+{
+"id": 12203,
+"domain": "eurekarental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "earth moving, construction equipment rental"
+},
+{
+"id": 12206,
+"domain": "expert-rentals.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "excavators, forklifts, aerial rentals"
+},
+{
+"id": 12207,
+"domain": "fcfarmandhome.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "farm & home store",
+"us_based": "unknown",
+"note": "blocked; farm & home retail"
+},
+{
+"id": 12208,
+"domain": "fplal.com",
+"domain_status": "likely",
+"icp": "Unsure",
+"category": "farm & lawn equipment",
+"us_based": "unknown",
+"note": "blocked"
+},
+{
+"id": 12209,
+"domain": "farmersvillecranellc.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "crane rental/service"
+},
+{
+"id": 12211,
+"domain": "finlaycraneservicellc.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "Finlay and Sons Crane"
+},
+{
+"id": 12212,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "portable toilets",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12213,
+"domain": "foleyeq.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment dealer",
+"us_based": "yes",
+"note": "Foley Truck Service, Cat equipment"
+},
+{
+"id": 12216,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "forklift dealer",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12218,
+"domain": "friesagandturf.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12219,
+"domain": "funtimestl.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "unknown",
+"note": "party inflatables"
+},
+{
+"id": 12220,
+"domain": "am.gallagher.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "animal management",
+"us_based": "no",
+"note": "livestock fencing products"
+},
+{
+"id": 12221,
+"domain": "kcpete.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "heavy truck parts",
+"us_based": "unknown",
+"note": "kcpete.com Peterbilt-ish; blocked"
+},
+{
+"id": 12222,
+"domain": "thegeneralrental.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "equipment rental",
+"us_based": "unknown",
+"note": "title only, no content"
+},
+{
+"id": 12223,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "stevedoring",
+"us_based": "yes",
+"note": "port authority site"
+},
+{
+"id": 12224,
+"domain": "gkbeq.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "yes",
+"note": "Versatile tractors, scrapers"
+},
+{
+"id": 12226,
+"domain": "goedeckeonline.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "construction supply",
+"us_based": "yes",
+"note": "forming & shoring supplies"
+},
+{
+"id": 12227,
+"domain": "goldkamphvac.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "hvac",
+"us_based": "yes",
+"note": "heating & cooling"
+},
+{
+"id": 12228,
+"domain": "grainvalleyrental.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "general tool rental",
+"us_based": "yes",
+"note": "rentals, lawn mowers"
+},
+{
+"id": 12229,
+"domain": "gregabbottequipmentsales.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "yes",
+"note": "tractors, LS dealer Jackson MO"
+},
+{
+"id": 12230,
+"domain": "gregabbottequipmentsales.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "yes",
+"note": "tractors, LS dealer Jackson MO"
+},
+{
+"id": 12232,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "equipment rental",
+"us_based": "unknown",
+"note": "grindstone.com unrelated"
+},
+{
+"id": 12233,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "forklift dealer",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12234,
+"domain": "hammersteel.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "pile driving equipment",
+"us_based": "yes",
+"note": "drilling & pile driving equipment"
+},
+{
+"id": 12235,
+"domain": "handymanhardwarestl.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "hardware store",
+"us_based": "unknown",
+"note": "blocked"
+},
+{
+"id": 12236,
+"domain": "handymanrentalsonline.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "excavators, skid steers Nixa MO"
+},
+{
+"id": 12237,
+"domain": "hannibalcrane.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "crane rental and service"
+},
+{
+"id": 12238,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "party rental",
+"us_based": "unknown",
+"note": "wix 404"
+},
+{
+"id": 12239,
+"domain": "harrawoodequipment.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "equipment dealer",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12240,
+"domain": "harrisequipmentrental.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "yes",
+"note": "excavators, skid steers Blue Springs"
+},
+{
+"id": 12241,
+"domain": "haydenmachinery.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "used industrial machinery",
+"us_based": "yes",
+"note": "used stamping presses"
+},
+{
+"id": 12242,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "aerial lift rental",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12243,
+"domain": "hddumpsterrentals.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "dumpster rental",
+"us_based": "yes",
+"note": "dumpster rentals"
+},
+{
+"id": 12244,
+"domain": "heartlandtractor.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12245,
+"domain": "heartlandtruck.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy truck dealer",
+"us_based": "yes",
+"note": "Kenworth trucks, trailers"
+},
+{
+"id": 12246,
+"domain": "heavydutyturf.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "ag & construction equipment dealer",
+"us_based": "yes",
+"note": "Kubota dealer Missouri"
+},
+{
+"id": 12248,
+"domain": "herinc.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "heavy equipment",
+"us_based": "unknown",
+"note": "domain abbreviation; blocked"
+},
+{
+"id": 12251,
+"domain": "hitechmachineryinc.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "used machine tools",
+"us_based": "unknown",
+"note": "used CNC machines"
+},
+{
+"id": 12252,
+"domain": "usedequipment.hiab.us",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "truck crane equipment",
+"us_based": "unknown",
+"note": "Hiab used equipment; blocked"
+},
+{
+"id": 12253,
+"domain": "hitachienergy.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "energy equipment",
+"us_based": "no",
+"note": "power grid company, global"
+},
+{
+"id": 12254,
+"domain": "hitchngotrailer.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "trailer rental",
+"us_based": "yes",
+"note": "trailer rental"
+},
+{
+"id": 12255,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "restaurant equipment",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12256,
+"domain": "hmesjoplin.weebly.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "medical equipment",
+"us_based": "unknown",
+"note": "home medical equipment"
+},
+{
+"id": 12257,
+"domain": "hookandheavy.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane repair",
+"us_based": "yes",
+"note": "crane repair & maintenance KC"
+},
+{
+"id": 12258,
+"domain": "hortonsupply.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "quarry equipment supplier",
+"us_based": "yes",
+"note": "quarry supplies & equipment"
+},
+{
+"id": 12260,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "heavy equipment",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12261,
+"domain": "i70towing.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy towing",
+"us_based": "yes",
+"note": "heavy towing & recovery"
+},
+{
+"id": 12262,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "portable toilets",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12263,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "general rental",
+"us_based": "unknown",
+"note": "site not found"
+},
+{
+"id": 12265,
+"domain": "irwinproducts.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "construction supply",
+"us_based": "yes",
+"note": "masonry/concrete products"
+},
+{
+"id": 12267,
+"domain": "isequipmentkc.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment dealer",
+"us_based": "yes",
+"note": "Kubota construction equipment sales"
+},
+{
+"id": 12268,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12269,
+"domain": "jackfarmequipmentandsalvage.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "ag equipment parts",
+"us_based": "unknown",
+"note": "used farm equipment parts salvage"
+},
+{
+"id": 12270,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "construction machinery",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12271,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Unsure",
+"category": "truck rental",
+"us_based": "yes",
+"note": "IWDG logistics, different name"
+},
+{
+"id": 12272,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "industrial supply",
+"us_based": "unknown",
+"note": "domain dead"
+},
+{
+"id": 12273,
+"domain": "jimstow.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy towing",
+"us_based": "unknown",
+"note": "Jim's Big Tow towing"
+},
+{
+"id": 12274,
+"domain": "jmequipment.net",
+"domain_status": "verified",
+"icp": "No",
+"category": "packaging machinery",
+"us_based": "yes",
+"note": "rotary sheeters"
+},
+{
+"id": 12276,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "portable toilets",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12277,
+"domain": "jrsalesco.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "industrial supplier",
+"us_based": "yes",
+"note": "industrial products"
+},
+{
+"id": 12278,
+"domain": "kandksupply.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "equipment rental St. Louis"
+},
+{
+"id": 12279,
+"domain": "kcforklift.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "forklift dealer",
+"us_based": "unknown",
+"note": "domain matches; placeholder content"
+},
+{
+"id": 12280,
+"domain": "ksequipment.net",
+"domain_status": "likely",
+"icp": "Unsure",
+"category": "equipment",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12281,
+"domain": "",
+"domain_status": "wrong",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "swiftcei.com is electrical contractor"
+},
+{
+"id": 12282,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "portable toilets",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12283,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "tool rental",
+"us_based": "unknown",
+"note": "domain dead"
+},
+{
+"id": 12284,
+"domain": "kcbobcat.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment dealer",
+"us_based": "yes",
+"note": "Bobcat dealer KS/MO"
+},
+{
+"id": 12285,
+"domain": "kcequipmentsales.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "heavy truck dealer",
+"us_based": "unknown",
+"note": "partial match; blocked"
+},
+{
+"id": 12287,
+"domain": "kbmachiningandhydraulics.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "machining & hydraulics",
+"us_based": "yes",
+"note": "hydraulic cylinder machining"
+},
+{
+"id": 12288,
+"domain": "landdequipmentrepair.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "forklift repair",
+"us_based": "yes",
+"note": "forklift repair professionals"
+},
+{
+"id": 12289,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12292,
+"domain": "lawncareequipmentco.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "yes",
+"note": "Stihl & Exmark dealer"
+},
+{
+"id": 12293,
+"domain": "lawnandleisure.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "unknown",
+"note": "blocked"
+},
+{
+"id": 12294,
+"domain": "lawnandmowerdocllc.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "unknown",
+"note": "blocked; mower repair"
+},
+{
+"id": 12298,
+"domain": "lindseyrentals.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment rental",
+"us_based": "yes",
+"note": "earth moving, Deere rentals Columbia"
+},
+{
+"id": 12300,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "machinery parts",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12301,
+"domain": "magnumpowertractors.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "compact tractor dealer",
+"us_based": "unknown",
+"note": "blocked; Magnum Power tractors"
+},
+{
+"id": 12302,
+"domain": "marcocp.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "construction supply",
+"us_based": "yes",
+"note": "construction products"
+},
+{
+"id": 12303,
+"domain": "markeys.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "industrial services",
+"us_based": "yes",
+"note": "Markey's services"
+},
+{
+"id": 12304,
+"domain": "marshfieldmachinery.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "equipment dealer",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12305,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12306,
+"domain": "masseyequipment.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "rack & storage",
+"us_based": "yes",
+"note": "rack, storage, doors"
+},
+{
+"id": 12307,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "machine shop",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12308,
+"domain": "mcbridemack.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "heavy truck dealer",
+"us_based": "unknown",
+"note": "Mack dealer; blocked"
+},
+{
+"id": 12310,
+"domain": "mckeownfl.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "yes",
+"note": "agricultural equipment dealer Moberly MO"
+},
+{
+"id": 12311,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12312,
+"domain": "mid-moequipment.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "equipment dealer",
+"us_based": "unknown",
+"note": "domain matches; blocked"
+},
+{
+"id": 12313,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "property rental",
+"us_based": "yes",
+"note": "property management portal"
+},
+{
+"id": 12314,
+"domain": "midmorentalpros.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "dumpster & trailer rental",
+"us_based": "yes",
+"note": "dumpsters, dump trailers"
+},
+{
+"id": 12316,
+"domain": "midwestmachinery.net",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment dealer",
+"us_based": "yes",
+"note": "Midwest Machinery, Hitachi"
+},
+{
+"id": 12317,
+"domain": "mve-stl.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "pile driving equipment",
+"us_based": "yes",
+"note": "pile driving, cranes"
+},
+{
+"id": 12321,
+"domain": "nationalcart.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "carts manufacturer",
+"us_based": "yes",
+"note": "carts and storage"
+},
+{
+"id": 12322,
+"domain": "nipkelleyco.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment dealer",
+"us_based": "yes",
+"note": "SE Missouri equipment"
+},
+{
+"id": 12323,
+"domain": "",
+"domain_status": "wrong",
+"icp": "No",
+"category": "feed store",
+"us_based": "unknown",
+"note": "mower parts domain dead"
+},
+{
+"id": 12324,
+"domain": "nuwayinc.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "concrete forms",
+"us_based": "unknown",
+"note": "concrete forms & supplies"
+},
+{
+"id": 12325,
+"domain": "oakgroverental.net",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction equipment rental",
+"us_based": "yes",
+"note": "excavators, skid steers Oak Grove"
+},
+{
+"id": 12326,
+"domain": "ochspowersports.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "powersports dealer",
+"us_based": "unknown",
+"note": "blocked"
+},
+{
+"id": 12327,
+"domain": "oscar-wilson.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "outdoor power equipment parts",
+"us_based": "yes",
+"note": "OPE parts distributor"
+},
+{
+"id": 12328,
+"domain": "otcindustrial.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "industrial products",
+"us_based": "yes",
+"note": "industrial products & services"
+},
+{
+"id": 12329,
+"domain": "meritusgas.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "welding gas supply",
+"us_based": "unknown",
+"note": "Meritus gas partners"
+},
+{
+"id": 12332,
+"domain": "ozarkequipmentsolution.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane inspection",
+"us_based": "yes",
+"note": "crane inspection services"
+},
+{
+"id": 12333,
+"domain": "ozarkmachinery.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "machinery",
+"us_based": "yes",
+"note": "under maintenance"
+},
+{
+"id": 12334,
+"domain": "palenmusic.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "music store",
+"us_based": "yes",
+"note": "music store"
+},
+{
+"id": 12336,
+"domain": "patkelly.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "construction & ag equipment dealer",
+"us_based": "yes",
+"note": "New Holland dealer"
+},
+{
+"id": 12338,
+"domain": "piertech.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "foundation piers",
+"us_based": "yes",
+"note": "helical piers manufacturer"
+},
+{
+"id": 12339,
+"domain": "pitbullpowersportsinc.com",
+"domain_status": "likely",
+"icp": "No",
+"category": "powersports dealer",
+"us_based": "unknown",
+"note": "blocked"
+},
+{
+"id": 12341,
+"domain": "pbfarmequipment.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "ag equipment dealer",
+"us_based": "unknown",
+"note": "blocked"
+},
+{
+"id": 12342,
+"domain": "",
+"domain_status": "no_website",
+"icp": "No",
+"category": "outdoor power equipment",
+"us_based": "unknown",
+"note": "domain dead"
+},
+{
+"id": 12344,
+"domain": "teampwps.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "powersports dealer",
+"us_based": "yes",
+"note": "powersports"
+},
+{
+"id": 12345,
+"domain": "prestigecrane.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "yes",
+"note": "crane rentals KC"
+},
+{
+"id": 12346,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Unsure",
+"category": "unknown",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12347,
+"domain": "purposewrecker.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "heavy truck dealer",
+"us_based": "yes",
+"note": "tow trucks/wreckers for sale"
+},
+{
+"id": 12352,
+"domain": "rentalsincolumbiamo.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "real estate",
+"us_based": "yes",
+"note": "RE/MAX property rentals"
+},
+{
+"id": 12353,
+"domain": "recyclifts.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "forklift dealer",
+"us_based": "unknown",
+"note": "forklift inventory, battery service"
+},
+{
+"id": 12354,
+"domain": "",
+"domain_status": "no_website",
+"icp": "Yes",
+"category": "crane service",
+"us_based": "unknown",
+"note": "no site"
+},
+{
+"id": 12355,
+"domain": "redequipmentco.com",
+"domain_status": "verified",
+"icp": "Unsure",
+"category": "equipment",
+"us_based": "yes",
+"note": "RED Equipment products/parts"
+},
+{
+"id": 12357,
+"domain": "rentallsj.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "equipment & party rental",
+"us_based": "yes",
+"note": "excavators, dozers rentals St Joseph"
+},
+{
+"id": 12358,
+"domain": "rentallandspecialevents.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "yes",
+"note": "special events"
+},
+{
+"id": 12360,
+"domain": "riekesequipment.com",
+"domain_status": "verified",
+"icp": "Yes",
+"category": "forklift dealer",
+"us_based": "yes",
+"note": "material handling, forklifts"
+},
+{
+"id": 12361,
+"domain": "rivercityinflatablescape.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "unknown",
+"note": "bounce houses"
+},
+{
+"id": 12363,
+"domain": "riversidemachines.com",
+"domain_status": "likely",
+"icp": "Unsure",
+"category": "machines",
+"us_based": "unknown",
+"note": "blocked"
+},
+{
+"id": 12364,
+"domain": "rjmequipmentsales.com",
+"domain_status": "likely",
+"icp": "Yes",
+"category": "equipment dealer",
+"us_based": "unknown",
+"note": "blocked"
+},
+{
+"id": 12365,
+"domain": "rockinrents.com",
+"domain_status": "verified",
+"icp": "No",
+"category": "party rental",
+"us_based": "yes",
+"note": "party rentals"
+}
+]
