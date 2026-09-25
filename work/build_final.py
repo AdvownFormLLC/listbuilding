@@ -7,32 +7,47 @@ rev = {}
 for f in glob.glob('review2_out/*.json'):
     for o in json.load(open(f)):
         rev[o['id']] = o
+chk = {}
+if os.path.exists('sites2/search_sites.jsonl'):
+    for l in open('sites2/search_sites.jsonl'):
+        d = json.loads(l); chk[d['host']] = d
 srch = {}
 for f in glob.glob('search_out/*.json'):
     for o in json.load(open(f)):
+        d = chk.get((o.get('domain') or '').lower())
+        if o.get('domain') and d is not None and (d['parked'] or (not d['ok'] and not d['cf_challenge'] and d['status'] not in (403, 429, 202))):
+            o['note'] = f"search result {o['domain']} is dead/parked; " + o.get('note', '')
+            o['domain'] = ''
         srch[o['name'].lower()] = o
 
 
+HE_CATS = [
+    ('crane / rigging service', ('crane', 'rigging', 'millwright', 'heavy haul', 'lowboy')),
+    ('forklift / material handling', ('fork', 'material handling', 'lift truck', 'reach truck', 'pallet', 'hyster', 'yale', 'toyota')),
+    ('aerial lift / telehandler', ('boom lift', 'scissor', 'aerial', 'manlift', 'man lift', 'genie', 'jlg', 'skyjack', 'telehandler')),
+    ('ag / tractor equipment dealer', ('tractor', 'deere', 'kubota', 'implement', 'combine', 'baler', 'hay', 'farm', 'agricultural', 'mahindra', 'new holland', 'massey', 'kioti')),
+    ('heavy truck dealer / service', ('peterbilt', 'kenworth', 'freightliner', 'mack', 'western star', 'semi', 'heavy-duty truck', 'dump truck')),
+    ('construction equipment dealer / rental', ('excavat', 'mini', 'skid', 'backhoe', 'dozer', 'loader', 'construction equipment', 'compact',
+        'heavy equipment', 'caterpillar', 'cat', 'bobcat', 'case', 'jcb', 'takeuchi', 'komatsu', 'kobelco', 'develon', 'doosan', 'earth',
+        'trencher', 'compactor', 'roller', 'generator', 'compressor')),
+]
+NO_CATS = [
+    ('party / event rental', ('bounce', 'inflatable', 'party', 'tent', 'wedding', 'moonwalk', 'water slide', 'tables', 'linen')),
+    ('portable toilets', ('toilet', 'porta', 'restroom')),
+    ('medical / mobility equipment', ('wheelchair', 'mobility', 'medical', 'oxygen', 'hospital', 'stair')),
+    ('outdoor power equipment', ('mower', 'stihl', 'husqvarna', 'chainsaw', 'trimmer', 'blower')),
+    ('dumpster / waste', ('dumpster', 'roll', 'junk')),
+]
+
+
+def _best(cats, words):
+    scores = [(sum(1 for w in words for k in keys if k in w), label) for label, keys in cats]
+    top = max(scores)
+    return top[1] if top[0] else ''
+
+
 def cat_from(he, no):
-    j = ' '.join(he).lower()
-    for keys, label in ((('crane', 'rigging', 'millwright', 'heavy haul', 'lowboy'), 'crane / rigging service'),
-                        (('fork', 'material handling', 'lift truck', 'reach truck', 'pallet', 'hyster', 'yale', 'toyota'), 'forklift / material handling'),
-                        (('boom lift', 'scissor', 'aerial', 'man ?lift', 'genie', 'jlg', 'skyjack', 'telehandler'), 'aerial lift / telehandler'),
-                        (('tractor', 'deere', 'kubota', 'implement', 'combine', 'baler', 'hay', 'farm', 'agricultural', 'mahindra', 'new holland', 'massey', 'kioti'), 'ag / tractor equipment dealer'),
-                        (('peterbilt', 'kenworth', 'freightliner', 'mack', 'western star', 'semi', 'heavy-duty truck', 'dump truck'), 'heavy truck dealer / service'),
-                        (('excavat', 'skid', 'backhoe', 'dozer', 'loader', 'construction equipment', 'compact equipment', 'heavy equipment',
-                          'caterpillar', 'cat®', 'bobcat', 'case', 'jcb', 'takeuchi', 'komatsu', 'kobelco', 'develon', 'doosan', 'earth'), 'construction equipment dealer / rental')):
-        if any(k.split(' ?')[0] in j for k in keys):
-            return label
-    n = ' '.join(no).lower()
-    for keys, label in ((('bounce', 'inflatable', 'party', 'tent', 'wedding', 'moonwalk', 'water slide', 'tables'), 'party / event rental'),
-                        (('toilet', 'porta', 'restroom'), 'portable toilets'),
-                        (('wheelchair', 'mobility', 'medical', 'oxygen', 'hospital', 'stair'), 'medical / mobility equipment'),
-                        (('mower', 'stihl', 'husqvarna', 'chainsaw', 'trimmer', 'blower'), 'outdoor power equipment'),
-                        (('dumpster', 'roll', 'junk'), 'dumpster / waste')):
-        if any(k in n for k in keys):
-            return label
-    return ''
+    return _best(HE_CATS, [h.lower() for h in he]) or _best(NO_CATS, [n.lower() for n in no])
 
 
 rows = []
